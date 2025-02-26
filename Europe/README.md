@@ -25,12 +25,12 @@ The Global Earthquake Impact Database (GEID) provides comprehensive earthquake a
 >The v2023.0.0 release of Europe’s Earthquake Dataset within the Global Earthquake Impact Database (GEID) is now available! 🚀 🥳 🚀
 This repository hosts the most up-to-date version of data for the countries in Europe.
 
-<div align='left'>
-    <img src="World/europe_events.png" alt="Europe events" width="700"/>
+<div align='center'>
+    <img src="../World/europe_events.png" alt="Europe events" width="700"/>
 </div>
 
 This database is open and aims at being a community effort, that enables users to add new events 
-(see [contributing guidelines](./contribute_guidelines.md)) or to provide additional data to 
+(see [contributing guidelines](../contribute_guidelines.md)) or to provide additional data to 
 existing entries. We aim to continue expanding the GEID by leveraging on data often collected within 
 the scope of GEM projects, as well as data previously collected as part of the 
 [GEM Earthquake Consequences Database](https://www.globalquakemodel.org/gempublications/Introduction-to-the-GEM-Earthquake-Consequences-Database-(GEMECD)).
@@ -54,7 +54,7 @@ The following countries are covered in this repository.
 
 </details>
 
-The following events are available in Europe. Additionally, a global summary of impact data can be found in the [World folder](World).
+The following events are available in Europe. Additionally, a global summary of impact data can be found in the [World folder](../World).
 
 <details>
 <summary> List with available events
@@ -155,7 +155,7 @@ This work is licensed under a
 
 ### How to contribute?
 
-You can follow the instructions indicated in the [contributing guidelines](./contribute_guidelines.md).
+You can follow the instructions indicated in the [contributing guidelines](../contribute_guidelines.md).
 
 ### Which version am I seeing? How to change the version?
 
