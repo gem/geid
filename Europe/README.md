@@ -26,7 +26,7 @@ The Global Earthquake Impact Database (GEID) provides comprehensive earthquake a
 This repository hosts the most up-to-date version of data for the countries in Europe.
 
 <div align='center'>
-    <img src="../World/europe_events.png" alt="Europe events" width="700"/>
+    <img src="../World/europe_eq_events.png" alt="Europe events" width="700"/>
 </div>
 
 This database is open and aims at being a community effort, that enables users to add new events 
@@ -134,7 +134,7 @@ The `main` branch could contain the work-in-progress of the next version of the 
 
 The authors are grateful for the input from dozens of collaborators. 
 
-## Citation
+# Citation
 If you use this repository, please cite it using the following DOI: 
 
 [![DOI](https://zenodo.org/badge/652540199.svg)](https://doi.org/10.5281/zenodo.8425466)
