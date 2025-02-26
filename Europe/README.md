@@ -2,9 +2,9 @@
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="300"/>
 </p>
-<a href='./earthquake_scenarios/'>
+<!-- <a href='./earthquake_scenarios/'>
     <img src='https://img.shields.io/badge/Earthquake_Scenarios-green?style=for-the-badge'>
-</a>
+</a> -->
 <a href='./World/'>
     <img src='https://img.shields.io/badge/Global_coverage-gray?style=for-the-badge'>
 </a> 
@@ -23,10 +23,10 @@ The Global Earthquake Impact Database (GEID) provides comprehensive earthquake a
 
 
 >The v2023.0.0 release of Europe’s Earthquake Dataset within the Global Earthquake Impact Database (GEID) is now available! 🚀 🥳 🚀
-This repository hosts the most up-to-date version of data for the countries and territories in Europe.
+This repository hosts the most up-to-date version of data for the countries in Europe.
 
 <div align='left'>
-    <img src="./World/europe_events.png" alt="Europe events" width="700"/>
+    <img src="World/europe_events.png" alt="Europe events" width="700"/>
 </div>
 
 This database is open and aims at being a community effort, that enables users to add new events 
@@ -54,7 +54,7 @@ The following countries are covered in this repository.
 
 </details>
 
-The following events are available, with a global summary of impact data available in the [World folder](./World).
+The following events are available in Europe. Additionally, a global summary of impact data can be found in the [World folder](World).
 
 <details>
 <summary> List with available events
