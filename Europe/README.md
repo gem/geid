@@ -26,7 +26,7 @@ The Global Earthquake Impact Database (GEID) provides comprehensive earthquake a
 This repository hosts the most up-to-date version of data for the countries in Europe.
 
 <div align='center'>
-    <img src="../World/europe_eq_events.png" alt="Europe events" width="700"/>
+    <img src="../World/eq_events_europe.png" alt="Europe events" width="700"/>
 </div>
 
 This database is open and aims at being a community effort, that enables users to add new events 
@@ -117,9 +117,9 @@ The following events are available in Europe. Additionally, a global summary of 
 |  74 | Europe                    | Turkey      |   2011 | [Van 2011](Turkey/20111023_M7.1_Van)                                        | 7.1  |        18    | VIII                         |
 |  75 | Europe                    | Turkey      |   2020 | [AegeanSea 2020](Turkey/20201030_M7_AegeanSea)                              | 7    |        21    | VIII                         |
 |  76 | Europe                    | Turkey      |   2023 | [CentralTurkey 2023](Turkey/20230206_M7.8_KahramanmarasGaziantep)           | 7.8  |        10    | XII                          |
-
-
 </details>
+
+
 
 # 🚀 Model versions
 
@@ -150,6 +150,10 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+# Funding
+
+This repository has been developed within the **Geo-INQUIRE** project, with funding received from the **European Union's Horizon Europe programme** under grant agreement **No. 101058518**.
 
 # 🤔 Frequently asked questions
 
