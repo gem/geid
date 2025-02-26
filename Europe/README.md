@@ -7,7 +7,7 @@
 </a>
 <a href='./World/'>
     <img src='https://img.shields.io/badge/Global_coverage-gray?style=for-the-badge'>
-</a>cd 
+</a> 
     <img src='https://img.shields.io/badge/Contribute-orange?style=for-the-badge'>
 </a>
 <a href='LICENSE.txt'>
@@ -17,34 +17,16 @@
 
 # 🔎 Global Earthquake Impact Database (GEID)
 
-The development of probabilistic seismic risk assessment (PSRA) models requires stress-testing 
-the various components of the models, often through the assessment of damage and losses 
-considering the characteristics of past events[^1]. In this context, the GEM Foundation and 
-its partners have expanded the OpenQuake scenario damage and loss calculator to use directly 
-USGS ShakeMaps[^2][^3][^4], or earthquake data from other providers (e.g., INGV, EFEHR) or the 
-scientific literature. This functionality allows users to generate cross-correlated ground 
-motion fields considering recordings from seismic stations [^5], to compute a number of 
-risk metrics based on different rupture solutions and ground motion models, and to compare the 
-results against past observations and damage reports. An overview of the functionalities implemented 
-within the OpenQuake engine can be found at https://github.com/gem/oq-engine/issues/8317.
+## ✨ Overview
 
-# ✨ Overview
+The Global Earthquake Impact Database (GEID) provides comprehensive earthquake and impact data to support the validation and verification of seismic risk models [^1]. Developed by the GEM Foundation and its partners, GEID enhances the OpenQuake scenario damage and loss calculator by integrating USGS ShakeMaps [^2] [^3] [^4], data from other providers (e.g., INGV, EFEHR), and scientific literature. This allows users to generate cross-correlated ground motion fields, assess risk metrics using different rupture models, and compare results with past events. GEID complements the [USGS ShakeMap](https://earthquake.usgs.gov/data/shakemap/) Atlas, which covers nearly all damaging earthquakes of the past 120 years, and AtlasCat, which provides aggregate loss data. By incorporating additional spatially detailed earthquake and impact records, GEID strengthens seismic risk assessment capabilities within OpenQuake [^4].
 
-The Global Earthquake Impact Database (GEID) aims to provide both earthquake and impact data 
-for users to perform earthquake scenarios using GEM or their own models for validation 
-and verification purposes. This database serves as a complement to the 
-[USGS ShakeMap](https://earthquake.usgs.gov/data/shakemap/) Atlas and AtlasCat. 
-The former resource has ShakeMaps for a comprehensive catalogue of nearly all 
-near-damaging and damaging events worldwide for the past 120 years and can be used directly 
-for impact assessment within the OpenQuake engine [^4]. The latter provides aggregate losses 
-for each event separated by cause. The GEID builds upon these sources of data by collecting additional 
-earthquake and impact information, often documented spatially and with greater detail.
 
 >The v2023.0.0 release of Europe’s Earthquake Dataset within the Global Earthquake Impact Database (GEID) is now available! 🚀 🥳 🚀
 This repository hosts the most up-to-date version of data for the countries and territories in Europe.
 
 <div align='left'>
-    <img src="./World/eq_events.png" alt="GEID events" width="700"/>
+    <img src="./World/europe_events.png" alt="GEID events" width="700"/>
 </div>
 
 This database is open and aims at being a community effort, that enables users to add new events 
@@ -53,70 +35,22 @@ existing entries. We aim to continue expanding the GEID by leveraging on data of
 the scope of GEM projects, as well as data previously collected as part of the 
 [GEM Earthquake Consequences Database](https://www.globalquakemodel.org/gempublications/Introduction-to-the-GEM-Earthquake-Consequences-Database-(GEMECD)).
 
-## 🗺️ Database coverage
-
-The database is compatible with GEM's Global Models, and the folders are organized according to regions and countries/territories, as specified in the map and table below.
-
-<p align="center">
-  <img src="./World/World_Regions.png" alt="World regions" width="600">
-</p>
-
-<details>
-<summary> 🌍 countries 
-</summary>
+# 🌍 Country list
 The following countries are covered in this repository. 
 
 |COUNTRY                                     |ISO_3|
 |--------------------------------------------|-----|
 |Albania                                     |ALB  |
-|Andorra                                     |AND  |
-|Austria                                     |AUT  |
-|Belgium                                     |BEL  |
-|Bosnia and Herzegovina                      |BIH  |
-|Bulgaria                                    |BGR  |
-|Belarus                                     |BLR  |
 |Croatia                                     |HRV  |
 |Cyprus                                      |CYP  |
-|Czechia (Czech Republic)                    |CZE  |
-|Denmark                                     |DNK  |
-|Estonia                                     |EST  |
-|Finland                                     |FIN  |
-|France                                      |FRA  |
-|Germany                                     |DEU  |
-|Gibraltar                                   |GIB  |
 |Greece                                      |GRC  |
-|Hungary                                     |HUN  |
 |Iceland                                     |ISL  |
-|Ireland                                     |IRL  |
 |Italy                                       |ITA  |
-|Latvia                                      |LVA  |
-|Liechtenstein                               |LIE  |
-|Lithuania                                   |LTU  |
-|Luxembourg                                  |LUX  |
-|Malta                                       |MLT  |
-|Monaco                                      |MCO  |
-|Moldova                                     |MDA  |
-|Montenegro                                  |MNE  |
 |Netherlands                                 |NLD  |
-|Norway                                      |NOR  |
-|Poland                                      |POL  |
-|Portugal                                    |PRT  |
 |Romania                                     |ROU  |
 |Serbia                                      |SRB  |
-|Slovakia                                    |SVK  |
-|Slovenia                                    |SVN  |
 |Spain                                       |ESP  |
-|Sweden                                      |SWE  |
-|Switzerland                                 |CHE  |
 |Türkiye (Turkey)                            |TUR  |
-|Ukraine                                     |UKR  |
-|North Macedonia                             |MKD  |
-|United Kingdom                              |GBR  |
-|Guernsey                                    |GGY  |
-|Jersey                                      |JEY  |
-|Isle of Man                                 |IMN  |
-|Kosovo                                      |XKX  |
-
 
 </details>
 
@@ -238,4 +172,3 @@ For each version, a related zip file is available in the [release section](https
 [^3]: Worden, C. B., Thompson, E. M., Hearne, M. G., & Wald, D. J. (2020). ShakeMap Manual Online: technical manual, user’s guide, and software guide, U. S. Geological Survey. URL: http://usgs.github.io/shakemap/. DOI: https://doi.org/10.5066/F7D21VPQ.
 [^4]: Wald, D. J., Worden, C. B., Thompson, E. M., & Hearne, M. G. (2022). ShakeMap operations, policies, and procedures. Earthquake Spectra, 38(1), 756–777. DOI: https://doi.org/10.1177/87552930211030298.
 [^5]: Engler, D. T., Worden, C. B., Thompson, E. M., & Jaiswal, K. S. (2022). Partitioning Ground Motion Uncertainty When Conditioned on Station Data. Bulletin of the Seismological Society of America, 112(2), 1060–1079. DOI: https://doi.org/10.1785/0120210177.
-
