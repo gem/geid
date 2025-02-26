@@ -26,7 +26,7 @@ The Global Earthquake Impact Database (GEID) provides comprehensive earthquake a
 This repository hosts the most up-to-date version of data for the countries and territories in Europe.
 
 <div align='left'>
-    <img src="./World/europe_events.png" alt="GEID events" width="700"/>
+    <img src="./World/europe_events.png" alt="Europe events" width="700"/>
 </div>
 
 This database is open and aims at being a community effort, that enables users to add new events 
@@ -60,63 +60,63 @@ The following events are available, with a global summary of impact data availab
 <summary> List with available events
 </summary>
 
-|     | Region                    | Country     |   Year | Event Name                                                                           |   Mw |   Depth (km) | Max Intensity (MMI)          |
-|----:|:--------------------------|:------------|-------:|:-------------------------------------------------------------------------------------|-----:|-------------:|:-----------------------------|
-|  22 | Europe                    | Albania     |   2019 | [Durres](./Europe/Albania/20191126_M6.4_Albania)                                     | 6.4  |        22    | VIII                         |
-|  23 | Europe                    | Croatia     |   2020 | [Zagreb 2020](./Europe/Croatia/20200322_M5.1_Zagreb)                                 | 5.3  |        10    | VIII                         |
-|  24 | Europe                    | Croatia     |   2020 | [Petrijna 2020](./Europe/Croatia/20201229_M6.3_Petrijna)                             | 6.4  |        10    | IX                           |
-|  25 | Europe                    | Cyprus      |   1996 | [Cyprus](./Europe/Cyprus/19961009_M6.8_Cyprus)                                       | 6.8  |        33    | VI                           |
-|  26 | Europe                    | Greece      |   1981 | [GulfofCorinth 1981](./Europe/Greece/19810225_M6.4_GulfofCorinth)                    | 6.4  |        33    | IX                           |
-|  27 | Europe                    | Greece      |   1981 | [GulfofCorinth 1981](./Europe/Greece/19810224_M6.7_GulfofCorinth)                    | 6.7  |        33    | IX                           |
-|  28 | Europe                    | Greece      |   1981 | [GulfofCorinth 1981](./Europe/Greece/19810000_Sequence_GulfOfCorinth)                | 6.7  |        33    | IX                           |
-|  29 | Europe                    | Greece      |   1986 | [Kalamata 1986](./Europe/Greece/19860913_M6.0_Kalamata)                              | 6    |        11.2  | VIII                         |
-|  30 | Europe                    | Greece      |   1988 | [Elia 1988](./Europe/Greece/19881016_M5.88_Elia)                                     | 5.9  |        25.2  | VII                          |
-|  31 | Europe                    | Greece      |   1995 | [Aigio 1995](./Europe/Greece/19950615_M6.4_Aigio)                                    | 6.5  |        14.2  | VIII                         |
-|  32 | Europe                    | Greece      |   1995 | [KozaniGrevena 1995](./Europe/Greece/19950513_M6.5_KozaniGrevena)                    | 6.6  |        14    | VIII                         |
-|  33 | Europe                    | Greece      |   1999 | [Athens 1999](./Europe/Greece/19990907_M5.9_Athens)                                  | 6    |        10    | IX                           |
-|  34 | Europe                    | Greece      |   2014 | [Kefalonia 2014](./Europe/Greece/20140000_Sequence_Kefalonia)                        | 6.1  |         8    | VII                          |
-|  35 | Europe                    | Greece      |   2014 | [Kefalonia 2014](./Europe/Greece/20140126_M6.1_Kefalonia)                            | 6.1  |         8    | VIII                         |
-|  36 | Europe                    | Greece      |   2014 | [Kefalonia 2014](./Europe/Greece/20140203_M6.0_Kefalonia)                            | 6    |         5    | VII                          |
-|  37 | Europe                    | Greece      |   2015 | [Lefkada 2015](./Europe/Greece/20151117_M6.5_Lefkada)                                | 6.5  |        11    | VIII                         |
-|  38 | Europe                    | Greece      |   2017 | [AegeanSea 2017](./Europe/Greece/20170612_M6.3_AegeanSea)                            | 6.3  |        12    | VII                          |
-|  39 | Europe                    | Iceland     |   2000 | [Iceland 2000](./Europe/Iceland/20000620_M6.46_Iceland)                              | 6.5  |        10    | IX                           |
-|  40 | Europe                    | Iceland     |   2000 | [Iceland](./Europe/Iceland/20000617_M5.87_Iceland)                                   | 6.5  |        10    | VIII                         |
-|  41 | Europe                    | Iceland     |   2008 | [Iceland 2008](./Europe/Iceland/20080529_M6.32_Iceland)                              | 6.3  |         9    | VIII                         |
-|  42 | Europe                    | Italy       |   1980 | [Irpinia 1980](./Europe/Italy/19801123_M6.9_Irpinia)                                 | 6.9  |        10    | X                            |
-|  43 | Europe                    | Italy       |   1990 | [Augusta 1990](./Europe/Italy/19901213_M5.61_Augusta)                                | 5.6  |        11.1  | VIII                         |
-|  44 | Europe                    | Italy       |   1997 | [UmbriaMarche 1997](./Europe/Italy/19970926_M5.97_UmbriaMarche)                      | 6    |        10    | VIII                         |
-|  45 | Europe                    | Italy       |   1997 | [UmbriaMarche 1997](./Europe/Italy/19971014_M5.86_UmbriaMarche)                      | 5.5  |        10    | VII                          |
-|  46 | Europe                    | Italy       |   1997 | [UmbriaMarche 1997](./Europe/Italy/19970926_M5.72_UmbriaMarche)                      | 5.7  |        10    | VIII                         |
-|  47 | Europe                    | Italy       |   1997 | [UmbriaMarche 1997](./Europe/Italy/19970000_Sequence_UmbriaMarche)                   | 5.7  |        10    | X                            |
-|  48 | Europe                    | Italy       |   2002 | [Molise 2002](./Europe/Italy/20020000_Sequence_Molise)                               | 5.9  |        10    | VIII                         |
-|  49 | Europe                    | Italy       |   2002 | [Molise 2002](./Europe/Italy/20021101_M5.72_Molise)                                  | 5.8  |        10    | VII                          |
-|  50 | Europe                    | Italy       |   2002 | [Molise 2002](./Europe/Italy/20021031_M5.74_Molise)                                  | 5.9  |        10    | VII                          |
-|  51 | Europe                    | Italy       |   2004 | [Gardone 2004](./Europe/Italy/20041124_M4.99_Gardone)                                | 5.1  |        17.2  | VIII                         |
-|  52 | Europe                    | Italy       |   2009 | [Laquila 2009](./Europe/Italy/20090407_M5.4_Laquila)                                 | 5.5  |        15.1  | VI                           |
-|  53 | Europe                    | Italy       |   2009 | [Laquila 2009](./Europe/Italy/20090000_Sequence_Laquila)                             | 6.3  |         8.8  | X                            |
-|  54 | Europe                    | Italy       |   2009 | [Laquila 2009](./Europe/Italy/20090406_M6.18_Laquila)                                | 6.3  |         8.8  | VIII                         |
-|  55 | Europe                    | Italy       |   2012 | [EmiliaRomagna 2012](./Europe/Italy/20120000_Sequence_EmiliaRomagna)                 | 6    |         6.3  | VIII                         |
-|  56 | Europe                    | Italy       |   2012 | [EmiliaRomagna 2012](./Europe/Italy/20120520_M5.8_EmiliaRomagna)                     | 6    |         6.3  | VIII                         |
-|  57 | Europe                    | Italy       |   2012 | [EmiliaRomagna 2012](./Europe/Italy/20120529_M5.6_EmiliaRomagna)                     | 5.8  |        10.2  | VIII                         |
-|  58 | Europe                    | Italy       |   2016 | [CentralItaly](./Europe/Italy/20162017_Sequence_CentralItaly)                        | 6.6  |         4.44 | IX                           |
-|  59 | Europe                    | Italy       |   2016 | [CentralItaly 2016](./Europe/Italy/20161030_M6.5_CentralItaly)                       | 6.6  |         8    | IX                           |
-|  60 | Europe                    | Italy       |   2016 | [CentralItaly 2016](./Europe/Italy/20161026_M6.09_CentralItaly)                      | 6.1  |        10    | VIII                         |
-|  61 | Europe                    | Italy       |   2016 | [CentralItaly 2016](./Europe/Italy/20160824_M6.21_CentralItaly)                      | 6.2  |         4.44 | IX                           |
-|  62 | Europe                    | Italy       |   2017 | [CentralItaly 2017](./Europe/Italy/20170118_M5.95_CentralItaly)                      | 5.7  |         7    | VII                          |
-|  63 | Europe                    | Netherlands |   1992 | [Roermond 1992](./Europe/Netherlands/19920413_M5.3_Roermond)                         | 5.4  |        21.2  | VIII                         |
-|  64 | Europe                    | Romania     |   1990 | [Vrancea 1990](./Europe/Romania/19900530_M6.95_Vrancea)                              | 7    |        89.3  | VIII                         |
-|  65 | Europe                    | Romania     |   1990 | [Vrancea 1990](./Europe/Romania/19900530_Sequence_Vrancea)                           | 7    |        89.3  | VIII                         |
-|  66 | Europe                    | Romania     |   1990 | [Vrancea 1990](./Europe/Romania/19900531_M6.31_Vrancea)                              | 6.3  |        88.2  | V                            |
-|  67 | Europe                    | Serbia      |   2010 | [Kraljevo](./Europe/Serbia/20101103_M5.52_Kraljevo)                                  | 5.5  |         0.9  | VI                           |
-|  68 | Europe                    | Spain       |   2011 | [Lorca 2011](./Europe/Spain/20110511_M5.1_Lorca)                                     | 5.1  |         1    | VI                           |
-|  69 | Europe                    | Turkey      |   1992 | [Erzincan](./Europe/Turkey/19920313_M6.68_Erzincan)                                  | 6.7  |        27.2  | VIII                         |
-|  70 | Europe                    | Turkey      |   1995 | [Dinar](./Europe/Turkey/19951001_M6.42_Dinar)                                        | 6.4  |        33    | VIII                         |
-|  71 | Europe                    | Turkey      |   1998 | [AdanaCeyhan 1998](./Europe/Turkey/19980627_M6.28_AdanaCeyhan)                       | 6.3  |        33    | VIII                         |
-|  72 | Europe                    | Turkey      |   1999 | [Izmit](./Europe/Turkey/19990817_M7.53_Izmit)                                        | 7.6  |        17    | X                            |
-|  73 | Europe                    | Turkey      |   1999 | [Duzce 1999](./Europe/Turkey/19991112_M6.71_Duzce)                                   | 7.2  |        10    | IX                           |
-|  74 | Europe                    | Turkey      |   2011 | [Van 2011](./Europe/Turkey/20111023_M7.1_Van)                                        | 7.1  |        18    | VIII                         |
-|  75 | Europe                    | Turkey      |   2020 | [AegeanSea 2020](./Europe/Turkey/20201030_M7_AegeanSea)                              | 7    |        21    | VIII                         |
-|  76 | Europe                    | Turkey      |   2023 | [CentralTurkey 2023](./Europe/Turkey/20230206_M7.8_KahramanmarasGaziantep)           | 7.8  |        10    | XII                          |
+|     | Region                    | Country     |   Year | Event Name                                                                           |   Mw |   Depth (km) | Max Intensity (MMI) |
+|----:|:--------------------------|:------------|-------:|:-------------------------------------------------------------------------------------|-----:|-------------:|:--------------------|
+|  22 | Europe                    | Albania     |   2019 | [Durres](Albania/20191126_M6.4_Albania)                                     | 6.4  |        22    | VIII                         |
+|  23 | Europe                    | Croatia     |   2020 | [Zagreb 2020](Croatia/20200322_M5.1_Zagreb)                                 | 5.3  |        10    | VIII                         |
+|  24 | Europe                    | Croatia     |   2020 | [Petrijna 2020](Croatia/20201229_M6.3_Petrijna)                             | 6.4  |        10    | IX                           |
+|  25 | Europe                    | Cyprus      |   1996 | [Cyprus](Cyprus/19961009_M6.8_Cyprus)                                       | 6.8  |        33    | VI                           |
+|  26 | Europe                    | Greece      |   1981 | [GulfofCorinth 1981](Greece/19810225_M6.4_GulfofCorinth)                    | 6.4  |        33    | IX                           |
+|  27 | Europe                    | Greece      |   1981 | [GulfofCorinth 1981](Greece/19810224_M6.7_GulfofCorinth)                    | 6.7  |        33    | IX                           |
+|  28 | Europe                    | Greece      |   1981 | [GulfofCorinth 1981](Greece/19810000_Sequence_GulfOfCorinth)                | 6.7  |        33    | IX                           |
+|  29 | Europe                    | Greece      |   1986 | [Kalamata 1986](Greece/19860913_M6.0_Kalamata)                              | 6    |        11.2  | VIII                         |
+|  30 | Europe                    | Greece      |   1988 | [Elia 1988](Greece/19881016_M5.88_Elia)                                     | 5.9  |        25.2  | VII                          |
+|  31 | Europe                    | Greece      |   1995 | [Aigio 1995](Greece/19950615_M6.4_Aigio)                                    | 6.5  |        14.2  | VIII                         |
+|  32 | Europe                    | Greece      |   1995 | [KozaniGrevena 1995](Greece/19950513_M6.5_KozaniGrevena)                    | 6.6  |        14    | VIII                         |
+|  33 | Europe                    | Greece      |   1999 | [Athens 1999](Greece/19990907_M5.9_Athens)                                  | 6    |        10    | IX                           |
+|  34 | Europe                    | Greece      |   2014 | [Kefalonia 2014](Greece/20140000_Sequence_Kefalonia)                        | 6.1  |         8    | VII                          |
+|  35 | Europe                    | Greece      |   2014 | [Kefalonia 2014](Greece/20140126_M6.1_Kefalonia)                            | 6.1  |         8    | VIII                         |
+|  36 | Europe                    | Greece      |   2014 | [Kefalonia 2014](Greece/20140203_M6.0_Kefalonia)                            | 6    |         5    | VII                          |
+|  37 | Europe                    | Greece      |   2015 | [Lefkada 2015](Greece/20151117_M6.5_Lefkada)                                | 6.5  |        11    | VIII                         |
+|  38 | Europe                    | Greece      |   2017 | [AegeanSea 2017](Greece/20170612_M6.3_AegeanSea)                            | 6.3  |        12    | VII                          |
+|  39 | Europe                    | Iceland     |   2000 | [Iceland 2000](Iceland/20000620_M6.46_Iceland)                              | 6.5  |        10    | IX                           |
+|  40 | Europe                    | Iceland     |   2000 | [Iceland](Iceland/20000617_M5.87_Iceland)                                   | 6.5  |        10    | VIII                         |
+|  41 | Europe                    | Iceland     |   2008 | [Iceland 2008](Iceland/20080529_M6.32_Iceland)                              | 6.3  |         9    | VIII                         |
+|  42 | Europe                    | Italy       |   1980 | [Irpinia 1980](Italy/19801123_M6.9_Irpinia)                                 | 6.9  |        10    | X                            |
+|  43 | Europe                    | Italy       |   1990 | [Augusta 1990](Italy/19901213_M5.61_Augusta)                                | 5.6  |        11.1  | VIII                         |
+|  44 | Europe                    | Italy       |   1997 | [UmbriaMarche 1997](Italy/19970926_M5.97_UmbriaMarche)                      | 6    |        10    | VIII                         |
+|  45 | Europe                    | Italy       |   1997 | [UmbriaMarche 1997](Italy/19971014_M5.86_UmbriaMarche)                      | 5.5  |        10    | VII                          |
+|  46 | Europe                    | Italy       |   1997 | [UmbriaMarche 1997](Italy/19970926_M5.72_UmbriaMarche)                      | 5.7  |        10    | VIII                         |
+|  47 | Europe                    | Italy       |   1997 | [UmbriaMarche 1997](Italy/19970000_Sequence_UmbriaMarche)                   | 5.7  |        10    | X                            |
+|  48 | Europe                    | Italy       |   2002 | [Molise 2002](Italy/20020000_Sequence_Molise)                               | 5.9  |        10    | VIII                         |
+|  49 | Europe                    | Italy       |   2002 | [Molise 2002](Italy/20021101_M5.72_Molise)                                  | 5.8  |        10    | VII                          |
+|  50 | Europe                    | Italy       |   2002 | [Molise 2002](Italy/20021031_M5.74_Molise)                                  | 5.9  |        10    | VII                          |
+|  51 | Europe                    | Italy       |   2004 | [Gardone 2004](Italy/20041124_M4.99_Gardone)                                | 5.1  |        17.2  | VIII                         |
+|  52 | Europe                    | Italy       |   2009 | [Laquila 2009](Italy/20090407_M5.4_Laquila)                                 | 5.5  |        15.1  | VI                           |
+|  53 | Europe                    | Italy       |   2009 | [Laquila 2009](Italy/20090000_Sequence_Laquila)                             | 6.3  |         8.8  | X                            |
+|  54 | Europe                    | Italy       |   2009 | [Laquila 2009](Italy/20090406_M6.18_Laquila)                                | 6.3  |         8.8  | VIII                         |
+|  55 | Europe                    | Italy       |   2012 | [EmiliaRomagna 2012](Italy/20120000_Sequence_EmiliaRomagna)                 | 6    |         6.3  | VIII                         |
+|  56 | Europe                    | Italy       |   2012 | [EmiliaRomagna 2012](Italy/20120520_M5.8_EmiliaRomagna)                     | 6    |         6.3  | VIII                         |
+|  57 | Europe                    | Italy       |   2012 | [EmiliaRomagna 2012](Italy/20120529_M5.6_EmiliaRomagna)                     | 5.8  |        10.2  | VIII                         |
+|  58 | Europe                    | Italy       |   2016 | [CentralItaly](Italy/20162017_Sequence_CentralItaly)                        | 6.6  |         4.44 | IX                           |
+|  59 | Europe                    | Italy       |   2016 | [CentralItaly 2016](Italy/20161030_M6.5_CentralItaly)                       | 6.6  |         8    | IX                           |
+|  60 | Europe                    | Italy       |   2016 | [CentralItaly 2016](Italy/20161026_M6.09_CentralItaly)                      | 6.1  |        10    | VIII                         |
+|  61 | Europe                    | Italy       |   2016 | [CentralItaly 2016](Italy/20160824_M6.21_CentralItaly)                      | 6.2  |         4.44 | IX                           |
+|  62 | Europe                    | Italy       |   2017 | [CentralItaly 2017](Italy/20170118_M5.95_CentralItaly)                      | 5.7  |         7    | VII                          |
+|  63 | Europe                    | Netherlands |   1992 | [Roermond 1992](Netherlands/19920413_M5.3_Roermond)                         | 5.4  |        21.2  | VIII                         |
+|  64 | Europe                    | Romania     |   1990 | [Vrancea 1990](Romania/19900530_M6.95_Vrancea)                              | 7    |        89.3  | VIII                         |
+|  65 | Europe                    | Romania     |   1990 | [Vrancea 1990](Romania/19900530_Sequence_Vrancea)                           | 7    |        89.3  | VIII                         |
+|  66 | Europe                    | Romania     |   1990 | [Vrancea 1990](Romania/19900531_M6.31_Vrancea)                              | 6.3  |        88.2  | V                            |
+|  67 | Europe                    | Serbia      |   2010 | [Kraljevo](Serbia/20101103_M5.52_Kraljevo)                                  | 5.5  |         0.9  | VI                           |
+|  68 | Europe                    | Spain       |   2011 | [Lorca 2011](Spain/20110511_M5.1_Lorca)                                     | 5.1  |         1    | VI                           |
+|  69 | Europe                    | Turkey      |   1992 | [Erzincan](Turkey/19920313_M6.68_Erzincan)                                  | 6.7  |        27.2  | VIII                         |
+|  70 | Europe                    | Turkey      |   1995 | [Dinar](Turkey/19951001_M6.42_Dinar)                                        | 6.4  |        33    | VIII                         |
+|  71 | Europe                    | Turkey      |   1998 | [AdanaCeyhan 1998](Turkey/19980627_M6.28_AdanaCeyhan)                       | 6.3  |        33    | VIII                         |
+|  72 | Europe                    | Turkey      |   1999 | [Izmit](Turkey/19990817_M7.53_Izmit)                                        | 7.6  |        17    | X                            |
+|  73 | Europe                    | Turkey      |   1999 | [Duzce 1999](Turkey/19991112_M6.71_Duzce)                                   | 7.2  |        10    | IX                           |
+|  74 | Europe                    | Turkey      |   2011 | [Van 2011](Turkey/20111023_M7.1_Van)                                        | 7.1  |        18    | VIII                         |
+|  75 | Europe                    | Turkey      |   2020 | [AegeanSea 2020](Turkey/20201030_M7_AegeanSea)                              | 7    |        21    | VIII                         |
+|  76 | Europe                    | Turkey      |   2023 | [CentralTurkey 2023](Turkey/20230206_M7.8_KahramanmarasGaziantep)           | 7.8  |        10    | XII                          |
 
 
 </details>
@@ -136,6 +136,7 @@ The authors are grateful for the input from dozens of collaborators.
 
 ## Citation
 If you use this repository, please cite it using the following DOI: 
+
 [![DOI](https://zenodo.org/badge/652540199.svg)](https://doi.org/10.5281/zenodo.8425466)
 
 # License
