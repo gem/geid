@@ -161,16 +161,15 @@ This repository has been developed within the [**Geo-INQUIRE**](https://www.geo-
 <!-- Funding Logos Section (Geo-INQUIRE and EU) -->
 <div align="left">
     <br> <!-- Line break to separate sections -->
-    <div style="display: inline-flex; align-items: flex-start;">
+    <div style="display: inline-flex; align-items: flex-start; gap: 20px;">
         <!-- First logo -->
         <img src="../World/EN_fundedbyEU_VERTICAL_RGB_NEG.png" alt="EU Funded" width="150" style="border: none; outline: none;"/>
-        <!-- Second logo, vertically positioned at 1/3 height of first logo -->
-        <div style="position: relative; top: -25%; left: 50px;">
-            <img src="../World/Geo-INQUIRE_logo_2_crop.jpg" alt="Geo-INQUIRE" width="150" style="border: none; outline: none;"/>
+        <!-- Second logo (Geo-INQUIRE), aligned to be 1/3 vertically of the first logo -->
+        <div style="display: flex; align-items: flex-start; justify-content: center; height: 100%;">
+            <img src="../World/Geo-INQUIRE_logo_2_crop.jpg" alt="Geo-INQUIRE" width="150" style="border: none; outline: none; margin-top: 33%;">
         </div>
     </div>
 </div>
-
 
 
 # 🤔 Frequently asked questions
