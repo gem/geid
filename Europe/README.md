@@ -1,21 +1,40 @@
-<div align='center'>
+<!-- <div align='center'>
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="300"/>
-</p>
+</p> -->
+<div align="center">
+    <table>
+        <tr>
+            <td align="left">
+                <img src="../World/Geo-INQUIRE_logo_2_crop.jpg" alt="Left Icon" width="200"/>
+            </td>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="300"/>
+                <br> <!-- Line break to separate logo and badges -->
+                <a href="../World/">
+                    <img src="https://img.shields.io/badge/Global_coverage-gray?style=for-the-badge">
+                </a> 
+                <a href="../contribute_guidelines.md">
+                    <img src="https://img.shields.io/badge/Contribute-orange?style=for-the-badge">
+                </a>
+                <a href="#license">
+                    <img src="https://img.shields.io/badge/LICENSE-blue?style=for-the-badge">
+                </a>
+            </td>
+            <td align="right">
+                <img src="../World/EN_fundedbyEU_VERTICAL_RGB_NEG.png" alt="Right Icon" width="200"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
 <!-- <a href='./earthquake_scenarios/'>
     <img src='https://img.shields.io/badge/Earthquake_Scenarios-green?style=for-the-badge'>
 </a> -->
-<a href='./World/'>
-    <img src='https://img.shields.io/badge/Global_coverage-gray?style=for-the-badge'>
-</a> 
-    <img src='https://img.shields.io/badge/Contribute-orange?style=for-the-badge'>
-</a>
-<a href='LICENSE.txt'>
-    <img src='https://img.shields.io/badge/LICENSE-blue?style=for-the-badge'>
-</a>
-</div>
 
-# 🔎 Global Earthquake Impact Database (GEID)
+
+# 🔎 Global Earthquake Impact Database (GEID) - European Repository
 
 ## ✨ Overview
 
@@ -153,7 +172,7 @@ This work is licensed under a
 
 # Funding
 
-This repository has been developed within the **Geo-INQUIRE** project, with funding received from the **European Union's Horizon Europe programme** under grant agreement **No. 101058518**.
+This repository has been developed within the [**Geo-INQUIRE**](https://www.geo-inquire.eu/) project, with funding received from the **European Union's Horizon Europe programme** under grant agreement **No. 101058518**.
 
 # 🤔 Frequently asked questions
 
