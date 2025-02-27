@@ -14,7 +14,7 @@
     <a href='../contribute_guidelines.md'>
         <img src='https://img.shields.io/badge/Contribute-orange?style=for-the-badge' style="border: none; outline: none;">
     </a>
-    <a href='#license'>
+    <a href='../LICENSE.txt'>
         <img src='https://img.shields.io/badge/LICENSE-blue?style=for-the-badge' style="border: none; outline: none;">
     </a>
 </div>
