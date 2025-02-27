@@ -6,27 +6,30 @@
     <table>
         <tr>
             <td align="left">
-                <img src="../World/Geo-INQUIRE_logo_2_crop.jpg" alt="Left Icon" width="200"/>
+                <!-- Add border="0" to remove the border around the image -->
+                <img src="../World/Geo-INQUIRE_logo_2_crop.jpg" alt="Left Icon" width="200" style="border: none;"/>
             </td>
             <td align="center">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="300"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="300" style="border: none;"/>
                 <br> <!-- Line break to separate logo and badges -->
                 <a href="../World/">
-                    <img src="https://img.shields.io/badge/Global_coverage-gray?style=for-the-badge">
+                    <img src="https://img.shields.io/badge/Global_coverage-gray?style=for-the-badge" style="border: none;">
                 </a> 
                 <a href="../contribute_guidelines.md">
-                    <img src="https://img.shields.io/badge/Contribute-orange?style=for-the-badge">
+                    <img src="https://img.shields.io/badge/Contribute-orange?style=for-the-badge" style="border: none;">
                 </a>
                 <a href="#license">
-                    <img src="https://img.shields.io/badge/LICENSE-blue?style=for-the-badge">
+                    <img src="https://img.shields.io/badge/LICENSE-blue?style=for-the-badge" style="border: none;">
                 </a>
             </td>
             <td align="right">
-                <img src="../World/EN_fundedbyEU_VERTICAL_RGB_NEG.png" alt="Right Icon" width="200"/>
+                <!-- Add border="0" to remove the border around the image -->
+                <img src="../World/EN_fundedbyEU_VERTICAL_RGB_NEG.png" alt="Right Icon" width="200" style="border: none;"/>
             </td>
         </tr>
     </table>
 </div>
+
 
 
 <!-- <a href='./earthquake_scenarios/'>
