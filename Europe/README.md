@@ -163,7 +163,7 @@ This repository has been developed within the [**Geo-INQUIRE**](https://www.geo-
     <br> <!-- Line break to separate sections -->
     <div style="display: inline-flex; align-items: flex-start; gap: 20px;">
         <img src="../World/EN_fundedbyEU_VERTICAL_RGB_NEG.png" alt="EU Funded" width="150" style="border: none; outline: none;"/>
-        <img src="../World/Geo-INQUIRE_logo_2_crop.jpg" alt="Geo-INQUIRE" width="150" style="border: none; outline: none; margin-top: -33%;"/>
+        <img src="../World/Geo-INQUIRE_logo_2_crop.jpg" alt="Geo-INQUIRE" width="150" style="border: none; outline: none; margin-top: -20%;"/>
     </div>
 </div>
 
