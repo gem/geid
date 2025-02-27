@@ -3,26 +3,22 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="300"/>
 </p> -->
 
-<div align="center">
-    <!-- GEM Logo and Badges Section -->
-    <table>
-        <tr>
-            <td align="center" colspan="3">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="300" style="border: none;"/>
-                <br> <!-- Line break to separate logo and badges -->
-                <a href="../World/">
-                    <img src="https://img.shields.io/badge/Global_coverage-gray?style=for-the-badge" style="border: none;">
-                </a> 
-                <a href="../contribute_guidelines.md">
-                    <img src="https://img.shields.io/badge/Contribute-orange?style=for-the-badge" style="border: none;">
-                </a>
-                <a href="#license">
-                    <img src="https://img.shields.io/badge/LICENSE-blue?style=for-the-badge" style="border: none;">
-                </a>
-            </td>
-        </tr>
-    </table>
+<div align='center'>
+    <p align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="300" style="border: none; outline: none;"/>
+    </p>
+    <!-- Links with badges, no box around them -->
+    <a href='../World/'>
+        <img src='https://img.shields.io/badge/Global_coverage-gray?style=for-the-badge' style="border: none; outline: none;">
+    </a>
+    <a href='../contribute_guidelines.md'>
+        <img src='https://img.shields.io/badge/Contribute-orange?style=for-the-badge' style="border: none; outline: none;">
+    </a>
+    <a href='#license'>
+        <img src='https://img.shields.io/badge/LICENSE-blue?style=for-the-badge' style="border: none; outline: none;">
+    </a>
 </div>
+
 
 
 <!-- <a href='./earthquake_scenarios/'>
@@ -171,21 +167,22 @@ This work is licensed under a
 This repository has been developed within the [**Geo-INQUIRE**](https://www.geo-inquire.eu/) project, with funding received from the **European Union's Horizon Europe programme** under grant agreement **No. 101058518**.
 
 <!-- Funding Logos Section (Geo-INQUIRE and EU) -->
-<div align="left">
+<div align="left"> <!-- Centering the logos -->
     <br> <!-- Line break to separate sections -->
     <table>
         <tr>
             <!-- Left Logo (Geo-INQUIRE) -->
-            <td align="left">
-                <img src="../World/Geo-INQUIRE_logo_2_crop.jpg" alt="Geo-INQUIRE" width="100" style="border: none;"/>
+            <td align="center">
+                <img src="../World/Geo-INQUIRE_logo_2_crop.jpg" alt="Geo-INQUIRE" width="100" style="border: none; outline: none;"/>
             </td>
             <!-- Right Logo (EU) -->
-            <td align="left">
-                <img src="../World/EN_fundedbyEU_VERTICAL_RGB_NEG.png" alt="EU Funded" width="100" style="border: none;"/>
+            <td align="center">
+                <img src="../World/EN_fundedbyEU_VERTICAL_RGB_NEG.png" alt="EU Funded" width="100" style="border: none; outline: none;"/>
             </td>
         </tr>
     </table>
 </div>
+
 
 # 🤔 Frequently asked questions
 
