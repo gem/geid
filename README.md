@@ -12,7 +12,7 @@
 <a href='./contribute_guidelines.md'>
     <img src='https://img.shields.io/badge/Contribute-orange?style=for-the-badge'>
 </a>
-<a href='LICENSE.txt'>
+<a href='./LICENSE.txt'>
     <img src='https://img.shields.io/badge/LICENSE-blue?style=for-the-badge'>
 </a>
 </div>
