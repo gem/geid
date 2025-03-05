@@ -3,11 +3,15 @@ PAK,Pakistan,86000,,>69000,,4000000,,,,32335,,Buildings,,,,,"Landslides, rockfal
 IND,India,1350,,6266,,,,,,,,,,,,,,,USGS,
 AFG,Afghanistan,1,,,,,,,,,,,,,,,,,USGS,
 PAK,Pakistan,,,,,,,,,,,,,,,,"Landslides, seiche",,UTSU,
-PAK,Pakistan,76213,,146599,,,,,,,,,6680000000,,,USD,,,NOAA,
+PAK,Pakistan,76213,,146599,,,,,,,,,6680000000,,6680000000,USD,,,NOAA,
 PAK,Pakistan,73338,,128309,,5000000,,,,,,,5200000000,,5200000000,USD,,,EM-DAT,"Geo Locations: Abbottabad District, Batagram District, Gujranwala District, Gujrat District, Islamabad District, Kohistan District, Mansehra District, Rawalpindi District, Shangla District (Adm2)."
+IND,India,1309,,6622,,150000,,,,,,,1000000000,,1000000000,USD,,,EM-DAT,
+AFG,Afghanistan,1,,,,,,,,,,,50000,,50000,USD,,,EM-DAT,
 PAK,Pakistan,86000-87351,,69000-75266,2800000,3500000,>5000000,,,,,,5000000000,,,USD,Landslides,,PAGER-CAT,"At least 1350 people were killed and 6266 injured in Jammu and Kashmir in Indian administered Kashmir. In Uri there were over 150 deaths. Four deaths were reported in Afghanistan, including a young girl who died in Jalalabad, after a wall collapsed on her. The quake was felt in Kabul, but the effects were minimal there."
-PAK,Pakistan,,,,,,,,,,,,400000000000,,,PKR,,,PAGER-CAT,
+PAK,Pakistan,,,,,,,,,,,,4E+11,,,PKR,,,PAGER-CAT,
 IND,India,1350,,6266,,,,,,,,,,,,,,,Britannica + Aljazeera,
 AFG,Afghanistan,4,,,,,,,,,,,,,,,,,Wikipedia,Wiki has not specified the actual reference.
 PAK,Pakistan,87351,87351,,,,,,,,,,,,,,,,CEQID,
-PAK,Pakistan,80000-87350,,200000,2800000,>4000000,,,780000,,780000,Buildings,,,,,"Landslides, rockfalls",,ERII_Report,"The earthquake affected more than 500,000 families. "
+PAK,Pakistan,80000-87350,,138000,2800000,>4000000,,,780000,,780000,Buildings,,,,,"Landslides, rockfalls",,EERI_Report,"The earthquake affected more than 500,000 families. "
+PAK,Pakistan,72763,,68679,,2800000,,,450000,,450000,Buildings,2300000000,,3500000000,USD,,,EEFIT_Report,
+IND,India,946,,4386,,,,,,,,,,,,,,,EEFIT_Report,
