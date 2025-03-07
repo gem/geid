@@ -1,9 +1,9 @@
-# 🌎 1995 M6.4 Dinar earthquake
+# 🌎 1995 M6.42 Dinar earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 1995 M6.4 Dinar earthquake.
+This repository hosts detailed information about the 1995 M6.42 Dinar earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1995 Dinar earthquake` struck on October 1, 1995, at 15:57 local time, near the town of Dinar, Turkey. This magnitude 6.4 event, centered on the Dinar-Çivril fault, caused significant damage to the region. The event caused significant damage to the region, with approximately 90 fatalities and over 200 injuries reported. Its intensity reached a maximum of VIII on the Mercalli scale, and economic losses were about 205.8 million USD. While no tsunamis occurred, the earthquake triggered numerous landslides and some localized liquefaction.
+The `1995 Dinar earthquake` struck on October 1, 1995, at 15:57 local time, near the town of Dinar, Turkey. This magnitude 6.42 event, centered on the Dinar-Çivril fault, caused significant damage to the region. The event caused significant damage to the region, with approximately 90 fatalities and over 200 injuries reported. Its intensity reached a maximum of VIII on the Mercalli scale, and economic losses were about 205.8 million USD. While no tsunamis occurred, the earthquake triggered numerous landslides and some localized liquefaction.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `1995 Dinar earthquake` struck on October 1, 1995, at 15:57 local time, near
 | Latitude (decimal degrees) | 38.063 |
 | Longitude (decimal degrees) | 30.134 |
 | Depth (km) | 33 |
-| Mw | 6.4 |
+| Mw | 6.42 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Normal |
 | Tectonic region type | Active Shallow Crust |

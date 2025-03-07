@@ -1,9 +1,9 @@
-# 🌎 1997 M6 UmbriaMarche earthquake
+# 🌎 1997 M5.97 UmbriaMarche earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 1997 M6 UmbriaMarche earthquake.
+This repository hosts detailed information about the 1997 M5.97 UmbriaMarche earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1997 Umbria and Marche earthquake` struck central Italy on September 26, with two significant tremors occurring on that day. The foreshock, rated at Mw 5.7, occurred at 02:33 local time, followed by the mainshock at 11:40 local time, measuring Mw 6.0. The epicenter of both events was near Annifo, and the tremors were assigned intensities of VIII for the foreshock and X for the mainshock on the Mercalli intensity scale. The towns most severely affected included Foligno, Nocera Umbra, and Assisi, where the iconic Basilica of St. Francis sustained significant damage. The earthquake led to over 11 fatalities and 100 injuries. It also resulted in economic losses exceeding 4500 million USD due to widespread destruction of buildings, infrastructure, and cultural heritage sites. The earthquake sequence, spanning from May 1997 to April 1998, included thousands of aftershocks, more than 30 of which exceeded a magnitude of 3.5. Fortunately, there were no reports of liquefaction, tsunamis, or major landslides. On October 14, 1997, an aftershock measuring Mw 5.5 and MMI VII struck the region, further exacerbating the damage caused by the initial tremors. This aftershock, occurring at 16:23 local time, affected the already weakened infrastructure in Foligno, Nocera Umbra, and Assisi, intensifying the physical and psychological toll on the local population, who were still grappling with the aftermath of the September earthquake.
+The `1997 Umbria and Marche earthquake` struck central Italy on September 26, with two significant tremors occurring on that day. The foreshock, rated at Mw 5.97, occurred at 02:33 local time, followed by the mainshock at 11:40 local time, measuring Mw 5.97. The epicenter of both events was near Annifo, and the tremors were assigned intensities of VIII for the foreshock and X for the mainshock on the Mercalli intensity scale. The towns most severely affected included Foligno, Nocera Umbra, and Assisi, where the iconic Basilica of St. Francis sustained significant damage. The earthquake led to over 11 fatalities and 100 injuries. It also resulted in economic losses exceeding 4500 million USD due to widespread destruction of buildings, infrastructure, and cultural heritage sites. The earthquake sequence, spanning from May 1997 to April 1998, included thousands of aftershocks, more than 30 of which exceeded a magnitude of 3.5. Fortunately, there were no reports of liquefaction, tsunamis, or major landslides. On October 14, 1997, an aftershock measuring Mw 5.5 and MMI VII struck the region, further exacerbating the damage caused by the initial tremors. This aftershock, occurring at 16:23 local time, affected the already weakened infrastructure in Foligno, Nocera Umbra, and Assisi, intensifying the physical and psychological toll on the local population, who were still grappling with the aftermath of the September earthquake.
 
 | FIELD | DESCRIPTION |
 |:------|:------------|
@@ -28,7 +28,7 @@ The `1997 Umbria and Marche earthquake` struck central Italy on September 26, wi
 | Latitude (decimal degrees) | 43.084 |
 | Longitude (decimal degrees) | 12.812 |
 | Depth (km) | 10 |
-| Mw | 6 |
+| Mw | 5.97 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Normal |
 | Tectonic region type | Active Shallow Crust |

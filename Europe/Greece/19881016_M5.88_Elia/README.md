@@ -1,9 +1,9 @@
-# 🌎 1988 M5.9 Elia earthquake
+# 🌎 1988 M5.88 Elia earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 1988 M5.9 Elia earthquake.
+This repository hosts detailed information about the 1988 M5.88 Elia earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1988 Elia earthquake` struck southwestern Greece on October 16, 1988, at 15:34 local time. Its epicenter was located in the straits separating the island of Zakynthos from the Peloponnese Peninsula. This magnitude 5.9 event, with a maximum intensity of VII on the Modified Mercalli Intensity scale, caused significant damage in Zakynthos town and parts of the Peloponnese. Homes, businesses, and infrastructure suffered considerable damage. Economic losses were substantial, reaching tens of millions of drachmas. The earthquake resulted in fatalities and numerous injuries. Liquefaction was observed near coastal areas, while landslides occurred in several parts of the affected region, further complicating recovery efforts.
+The `1988 Elia earthquake` struck southwestern Greece on October 16, 1988, at 15:34 local time. Its epicenter was located in the straits separating the island of Zakynthos from the Peloponnese Peninsula. This magnitude 5.88 event, with a maximum intensity of VII on the Modified Mercalli Intensity scale, caused significant damage in Zakynthos town and parts of the Peloponnese. Homes, businesses, and infrastructure suffered considerable damage. Economic losses were substantial, reaching tens of millions of drachmas. The earthquake resulted in fatalities and numerous injuries. Liquefaction was observed near coastal areas, while landslides occurred in several parts of the affected region, further complicating recovery efforts.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `1988 Elia earthquake` struck southwestern Greece on October 16, 1988, at 15
 | Latitude (decimal degrees) | 37.938 |
 | Longitude (decimal degrees) | 20.932 |
 | Depth (km) | 25.2 |
-| Mw | 5.9 |
+| Mw | 5.88 |
 | Max Intensity (MMI) | VII |
 | Fault mechanism | Strike-slip |
 | Tectonic region type | Subduction Interface |

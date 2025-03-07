@@ -1,9 +1,9 @@
-# 🌎 1989-03-10 M6.2 Salima earthquake
+# 🌎 1989 M6.2 Salima earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 1989-03-10 M6.2 Salima earthquake.
+This repository hosts detailed information about the 1989 M6.2 Salima earthquake.
 
 Available information in the folders:
 
@@ -28,7 +28,7 @@ The `1989 Salima earthquake` struck Malawi at 23:49 local time on March 10, 1989
 | Latitude (decimal degrees) | -13.66 |
 | Longitude (decimal degrees) | 34.496 |
 | Depth (km) | 28.2 |
-| Mw | 6.27 |
+| Mw | 6.2 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Dip-slip |
 | Tectonic region type | Active Shallow Crust / Stable Continental Crust |

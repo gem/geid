@@ -1,9 +1,9 @@
-# 🌎 2010 M5.5 Kraljevo earthquake
+# 🌎 2010 M5.52 Kraljevo earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2010 M5.5 Kraljevo earthquake.
+This repository hosts detailed information about the 2010 M5.52 Kraljevo earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `2010 Serbia earthquake` struck on November 3, 2010, at 01:56 local time, just several kilometers from Kraljevo, Serbia. The earthquake had a magnitude of 5.5 and a maximum Mercalli intensity of VI. Its epicenter was located near the village of Vitanovac. The earthquake was felt across Serbia, including the capital Belgrade, and in neighboring countries. Two people were killed and over 100 suffered injuries. Economic losses were estimated at around 138 million USD. There were more than 350 aftershocks, including a magnitude 4.3 earthquake the following day. No reports of liquefaction, tsunamis, or landslides were observed.
+The `2010 Serbia earthquake` struck on November 3, 2010, at 01:56 local time, just several kilometers from Kraljevo, Serbia. The earthquake had a magnitude of 5.52 and a maximum Mercalli intensity of VI. Its epicenter was located near the village of Vitanovac. The earthquake was felt across Serbia, including the capital Belgrade, and in neighboring countries. Two people were killed and over 100 suffered injuries. Economic losses were estimated at around 138 million USD. There were more than 350 aftershocks, including a magnitude 4.3 earthquake the following day. No reports of liquefaction, tsunamis, or landslides were observed.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `2010 Serbia earthquake` struck on November 3, 2010, at 01:56 local time, ju
 | Latitude (decimal degrees) | 43.76 |
 | Longitude (decimal degrees) | 20.73 |
 | Depth (km) | 0.9 |
-| Mw | 5.5 |
+| Mw | 5.52 |
 | Max Intensity (MMI) | VI |
 | Fault mechanism | Reverse |
 | Tectonic region type | Subduction Intraslab |

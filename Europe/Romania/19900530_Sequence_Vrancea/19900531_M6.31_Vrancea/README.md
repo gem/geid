@@ -1,9 +1,9 @@
-# 🌎 1990 M6.3 Vrancea earthquake
+# 🌎 1990 M6.31 Vrancea earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 1990 M6.3 Vrancea earthquake.
+This repository hosts detailed information about the 1990 M6.31 Vrancea earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1990 Vrancea earthquake` was part of a sequence of seismic events in the region. It occurred on May 31, 1990, at 03:17 local time, with a moment magnitude of 6.3. This earthquake was the second shock in the sequence, following a larger initial shock on May 30, 1990. The epicenter of the earthquake was located in the Vrancea region of southeastern Romania. The most affected areas were Bucharest, Ploiești, and surrounding regions, where significant damage occurred. The earthquake's shaking reached V on the Modified Mercalli Intensity (MMI) scale. While no tsunamis or fires were observed, landslides were noted in some areas, particularly in the mountainous regions. Aftershocks followed the main event, contributing to further damage, but no foreshocks were recorded prior to the earthquake.
+The `1990 Vrancea earthquake` was part of a sequence of seismic events in the region. It occurred on May 31, 1990, at 03:17 local time, with a moment magnitude of 6.31. This earthquake was the second shock in the sequence, following a larger initial shock on May 30, 1990. The epicenter of the earthquake was located in the Vrancea region of southeastern Romania. The most affected areas were Bucharest, Ploiești, and surrounding regions, where significant damage occurred. The earthquake's shaking reached V on the Modified Mercalli Intensity (MMI) scale. While no tsunamis or fires were observed, landslides were noted in some areas, particularly in the mountainous regions. Aftershocks followed the main event, contributing to further damage, but no foreshocks were recorded prior to the earthquake.
 
 | FIELD | DESCRIPTION |
 |:------|:------------|
@@ -28,7 +28,7 @@ The `1990 Vrancea earthquake` was part of a sequence of seismic events in the re
 | Latitude (decimal degrees) | 45.811 |
 | Longitude (decimal degrees) | 26.769 |
 | Depth (km) | 88.2 |
-| Mw | 6.3 |
+| Mw | 6.31 |
 | Max Intensity (MMI) | V |
 | Fault mechanism | Reverse |
 | Tectonic region type | Subduction Intraslab |

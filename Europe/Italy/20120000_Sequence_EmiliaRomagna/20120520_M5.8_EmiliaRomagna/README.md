@@ -1,9 +1,9 @@
-# 🌎 2012 M6 EmiliaRomagna earthquake
+# 🌎 2012 M5.8 EmiliaRomagna earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2012 M6 EmiliaRomagna earthquake.
+This repository hosts detailed information about the 2012 M5.8 EmiliaRomagna earthquake.
 
 Available information in the folders:
 
@@ -28,7 +28,7 @@ In May 2012, Northern Italy was impacted by two significant earthquakes, collect
 | Latitude (decimal degrees) | 44.89 |
 | Longitude (decimal degrees) | 11.23 |
 | Depth (km) | 6.3 |
-| Mw | 6 |
+| Mw | 5.8 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Inverse |
 | Tectonic region type | Active Shallow Crust |

@@ -1,9 +1,9 @@
-# 🌎 2017 M6.46 Moijabana earthquake
+# 🌎 2017 M6.5 Moijabana earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2017 M6.46 Moijabana earthquake.
+This repository hosts detailed information about the 2017 M6.5 Moijabana earthquake.
 
 Available information in the folders:
 
@@ -28,7 +28,7 @@ The `2017 Moijabana earthquake` struck Botswana on April 3, 2017, at 19:40 local
 | Latitude (decimal degrees) | -22.6784 |
 | Longitude (decimal degrees) | 25.1558 |
 | Depth (km) | 23.5 |
-| Mw | 6.46 |
+| Mw | 6.5 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Normal |
 | Tectonic region type | Unknown (occurred in an area with no know previous seismicity) |

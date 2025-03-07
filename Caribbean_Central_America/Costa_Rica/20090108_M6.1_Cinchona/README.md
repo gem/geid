@@ -1,9 +1,9 @@
-# 🌎 2009 M6.2 Cinchona earthquake
+# 🌎 2009 M6.1 Cinchona earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2009 M6.2 Cinchona earthquake.
+This repository hosts detailed information about the 2009 M6.1 Cinchona earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance
 
-The `2009 Cinchona earthquake` in Costa Rica occurred on January 8, with a moment magnitude of 6.2 and a maximum intensity of IX on the Modified Mercalli Intensity (MMI) scale. The earthquake struck at 13:21 local time, with its epicenter located near Cinchona, approximately 50 kilometers north of the capital, San José. The most affected areas included the central and northwestern regions of the country, particularly the provinces of Alajuela and Heredia, with significant damage in towns like Vara Blanca and Sarchí. The earthquake caused widespread infrastructure damage, resulting in reported economic losses exceeding 100 million USD. Tragically, more than 23 people lost their lives, and over 90 others were injured. Although no tsunamis were reported, landslides were extensive, particularly in the mountainous regions, severely disrupting transportation and impacting local communities. Liquefaction was not observed, and fires were minimal. Aftershocks followed the main event, with several occurring in the days that followed.
+The `2009 Cinchona earthquake` in Costa Rica occurred on January 8, with a moment magnitude of 6.1 and a maximum intensity of IX on the Modified Mercalli Intensity (MMI) scale. The earthquake struck at 13:21 local time, with its epicenter located near Cinchona, approximately 50 kilometers north of the capital, San José. The most affected areas included the central and northwestern regions of the country, particularly the provinces of Alajuela and Heredia, with significant damage in towns like Vara Blanca and Sarchí. The earthquake caused widespread infrastructure damage, resulting in reported economic losses exceeding 100 million USD. Tragically, more than 23 people lost their lives, and over 90 others were injured. Although no tsunamis were reported, landslides were extensive, particularly in the mountainous regions, severely disrupting transportation and impacting local communities. Liquefaction was not observed, and fires were minimal. Aftershocks followed the main event, with several occurring in the days that followed.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `2009 Cinchona earthquake` in Costa Rica occurred on January 8, with a momen
 | Latitude (decimal degrees) | 10.116 |
 | Longitude (decimal degrees) | -84.106 |
 | Depth (km) | 4.6 |
-| Mw | 6.2 |
+| Mw | 6.1 |
 | Max Intensity (MMI) | IX in Cinchona e Isla Bonita  |
 | Fault mechanism | Strike slip |
 | Tectonic region type | Active shallow crustal  |

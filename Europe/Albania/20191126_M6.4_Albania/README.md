@@ -1,9 +1,9 @@
-# 🌎 2019 M6.4 Durres earthquake
+# 🌎 2019 M6.4 Albania earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2019 M6.4 Durres earthquake.
+This repository hosts detailed information about the 2019 M6.4 Albania earthquake.
 
 Available information in the folders:
 

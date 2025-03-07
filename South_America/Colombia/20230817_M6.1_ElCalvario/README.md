@@ -1,9 +1,9 @@
-# 🌎 2023-08-17 M6.1 El Calvario earthquake
+# 🌎 2023 M6.1 El Calvario earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2023-08-17 M6.1 El Calvario earthquake.
+This repository hosts detailed information about the 2023 M6.1 El Calvario earthquake.
 
 Available information in the folders:
 

@@ -1,9 +1,9 @@
-# 🌎 1990 M7 Vrancea earthquake
+# 🌎 1990 M6.95 Vrancea earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 1990 M7 Vrancea earthquake.
+This repository hosts detailed information about the 1990 M6.95 Vrancea earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1990 Vrancea earthquake` occurred on May 30, 1990, at 13:40 local time in Romania. The epicenter was located near the town of Focșani, in the Vrancea seismic region. This powerful earthquake, with a moment magnitude of 7.0, was felt in Bucharest, Bacău, and other areas in southeastern Romania, as well as in parts of neighboring Moldova. The earthquake caused significant damage, particularly in Bucharest, where many buildings were affected. The Maximum Intensity (MMI) was reported as VIII, and it resulted in more than 9 fatalities and over 700 injuries. The economic losses were substantial, amounting to an estimated $23.7 million USD. While no tsunamis were observed, the event triggered landslides and liquefaction in some areas, and fires were reported due to ruptured gas lines. The earthquake was part of a seismic sequence, followed by several aftershocks that continued to impact the region for weeks, further complicating rescue efforts. There were no significant foreshocks recorded before the main event.
+The `1990 Vrancea earthquake` occurred on May 30, 1990, at 13:40 local time in Romania. The epicenter was located near the town of Focșani, in the Vrancea seismic region. This powerful earthquake, with a moment magnitude of 6.95, was felt in Bucharest, Bacău, and other areas in southeastern Romania, as well as in parts of neighboring Moldova. The earthquake caused significant damage, particularly in Bucharest, where many buildings were affected. The Maximum Intensity (MMI) was reported as VIII, and it resulted in more than 9 fatalities and over 700 injuries. The economic losses were substantial, amounting to an estimated $23.7 million USD. While no tsunamis were observed, the event triggered landslides and liquefaction in some areas, and fires were reported due to ruptured gas lines. The earthquake was part of a seismic sequence, followed by several aftershocks that continued to impact the region for weeks, further complicating rescue efforts. There were no significant foreshocks recorded before the main event.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `1990 Vrancea earthquake` occurred on May 30, 1990, at 13:40 local time in R
 | Latitude (decimal degrees) | 45.841 |
 | Longitude (decimal degrees) | 26.668 |
 | Depth (km) | 89.3 |
-| Mw | 7 |
+| Mw | 6.95 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Reverse |
 | Tectonic region type | Subduction Intraslab |

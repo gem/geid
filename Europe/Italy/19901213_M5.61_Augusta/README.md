@@ -1,9 +1,9 @@
-# 🌎 1990 M5.6 Augusta earthquake
+# 🌎 1990 M5.61 Augusta earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 1990 M5.6 Augusta earthquake.
+This repository hosts detailed information about the 1990 M5.61 Augusta earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1990 Carlentini earthquake` struck on December 13, 1990, at 01:24 local time, shaking southeastern Sicily with a magnitude of 5.6. The event reached a maximum intensity of VIII on the Modified Mercalli Intensity (MMI) scale, causing widespread destruction. The epicenter was located approximately 20 kilometers east-northeast of Augusta, near the town of Carlentini, which, along with Augusta, bore the brunt of the disaster. The earthquake claimed the lives of 17 people, left over 200 injured. The economic losses exceeded $115 million USD, highlighting the scale of the destruction. Despite the severity, there were no reported cases of liquefaction, tsunamis, or landslides.
+The `1990 Carlentini earthquake` struck on December 13, 1990, at 01:24 local time, shaking southeastern Sicily with a magnitude of 5.61. The event reached a maximum intensity of VIII on the Modified Mercalli Intensity (MMI) scale, causing widespread destruction. The epicenter was located approximately 20 kilometers east-northeast of Augusta, near the town of Carlentini, which, along with Augusta, bore the brunt of the disaster. The earthquake claimed the lives of 17 people, left over 200 injured. The economic losses exceeded $115 million USD, highlighting the scale of the destruction. Despite the severity, there were no reported cases of liquefaction, tsunamis, or landslides.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `1990 Carlentini earthquake` struck on December 13, 1990, at 01:24 local tim
 | Latitude (decimal degrees) | 37.3 |
 | Longitude (decimal degrees) | 15.438 |
 | Depth (km) | 11.1 |
-| Mw | 5.6 |
+| Mw | 5.61 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Strike-slip |
 | Tectonic region type | Active Shallow Crust |

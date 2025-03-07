@@ -1,9 +1,9 @@
-# 🌎 1999 M7.6 Izmit earthquake
+# 🌎 1999 M7.53 Izmit earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 1999 M7.6 Izmit earthquake.
+This repository hosts detailed information about the 1999 M7.53 Izmit earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The devastating `1999 İzmit earthquake`, a magnitude 7.6 event, struck northwestern Turkey on August 17, 1999, at 3:01 local time. The epicenter was located near the city of İzmit, along the North Anatolian Fault. The maximum Mercalli intensity was X.This powerful earthquake caused widespread destruction in the region, affecting major cities like İzmit, Gölcük, and Yalova. The death toll was tragically high, with estimates ranging from 17127 to 18373 fatalities. It resulted in over 43900 injuries. Economic losses were substantial, exceeding 20000 million USD. The earthquake triggered numerous landslides, and liquefaction was observed in several areas.
+The devastating `1999 İzmit earthquake`, a magnitude 7.53 event, struck northwestern Turkey on August 17, 1999, at 3:01 local time. The epicenter was located near the city of İzmit, along the North Anatolian Fault. The maximum Mercalli intensity was X.This powerful earthquake caused widespread destruction in the region, affecting major cities like İzmit, Gölcük, and Yalova. The death toll was tragically high, with estimates ranging from 17127 to 18373 fatalities. It resulted in over 43900 injuries. Economic losses were substantial, exceeding 20000 million USD. The earthquake triggered numerous landslides, and liquefaction was observed in several areas.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The devastating `1999 İzmit earthquake`, a magnitude 7.6 event, struck northwes
 | Latitude (decimal degrees) | 40.748 |
 | Longitude (decimal degrees) | 29.864 |
 | Depth (km) | 17 |
-| Mw | 7.6 |
+| Mw | 7.53 |
 | Max Intensity (MMI) | X |
 | Fault mechanism | Strike-slip |
 | Tectonic region type | Active Shallow Crust |

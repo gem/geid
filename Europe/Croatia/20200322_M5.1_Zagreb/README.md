@@ -1,9 +1,9 @@
-# 🌎 2020 M5.3 Zagreb earthquake
+# 🌎 2020 M5.1 Zagreb earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2020 M5.3 Zagreb earthquake.
+This repository hosts detailed information about the 2020 M5.1 Zagreb earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `2020 Zagreb earthquake`, with a magnitude of M5.3, struck on March 22, 2020, at 6:24 AM local time. Its epicenter was located approximately 7 kilometers north of Zagreb, Croatia. The earthquake, which reached a maximum Modified Mercalli Intensity (MMI) of VIII, caused extensive damage, particularly in Zagreb and its surrounding areas. The capital city was among the hardest hit, with significant damage to older buildings and historic structures. The disaster resulted in 1 reported fatality and approximately 27 injuries, alongside economic losses exceeding 1800 million USD, ranking it as one of the most costly earthquakes in Croatia's modern history. Although no tsunamis, landslides, or fires were recorded, minor liquefaction occurred in certain localized areas. The earthquake was preceded by multiple foreshocks and followed by numerous aftershocks, the strongest reaching a magnitude of 5.0, compounding structural damage and heightening public concern.
+The `2020 Zagreb earthquake`, with a magnitude of M5.1, struck on March 22, 2020, at 6:24 AM local time. Its epicenter was located approximately 7 kilometers north of Zagreb, Croatia. The earthquake, which reached a maximum Modified Mercalli Intensity (MMI) of VIII, caused extensive damage, particularly in Zagreb and its surrounding areas. The capital city was among the hardest hit, with significant damage to older buildings and historic structures. The disaster resulted in 1 reported fatality and approximately 27 injuries, alongside economic losses exceeding 1800 million USD, ranking it as one of the most costly earthquakes in Croatia's modern history. Although no tsunamis, landslides, or fires were recorded, minor liquefaction occurred in certain localized areas. The earthquake was preceded by multiple foreshocks and followed by numerous aftershocks, the strongest reaching a magnitude of 5.0, compounding structural damage and heightening public concern.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `2020 Zagreb earthquake`, with a magnitude of M5.3, struck on March 22, 2020
 | Latitude (decimal degrees) | 45.9072 |
 | Longitude (decimal degrees) | 15.9697 |
 | Depth (km) | 10 |
-| Mw | 5.3 |
+| Mw | 5.1 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Reverse |
 | Tectonic region type | Active Shallow Crust |

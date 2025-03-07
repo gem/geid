@@ -1,9 +1,9 @@
-# 🌎 1995 M6.5 Aigio earthquake
+# 🌎 1995 M6.4 Aigio earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 1995 M6.5 Aigio earthquake.
+This repository hosts detailed information about the 1995 M6.4 Aigio earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1995 Aigio earthquake`, a devastating seismic event, struck on June 15, 1995, at 03:15 local time, with a magnitude of 6.5 and a peak intensity of VIII on the Modified Mercalli Intensity (MMI) scale. Its epicenter was pinpointed in the Gulf of Corinth, near the town of Aigio, Greece. The quake inflicted severe damage on the cities of Aigio, Patras, and nearby regions, causing widespread structural devastation. Economic losses were immense, estimated at $660 million USD, and the disaster claimed 26 lives, leaving over 60 injured. The earthquake triggered liquefaction and landslides, further compounding the destruction. Additionally, a minor tsunami, with a recorded height of approximately 30 cm, was observed along the coast, adding to the calamity’s impact.
+The `1995 Aigio earthquake`, a devastating seismic event, struck on June 15, 1995, at 03:15 local time, with a magnitude of 6.4 and a peak intensity of VIII on the Modified Mercalli Intensity (MMI) scale. Its epicenter was pinpointed in the Gulf of Corinth, near the town of Aigio, Greece. The quake inflicted severe damage on the cities of Aigio, Patras, and nearby regions, causing widespread structural devastation. Economic losses were immense, estimated at $660 million USD, and the disaster claimed 26 lives, leaving over 60 injured. The earthquake triggered liquefaction and landslides, further compounding the destruction. Additionally, a minor tsunami, with a recorded height of approximately 30 cm, was observed along the coast, adding to the calamity’s impact.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `1995 Aigio earthquake`, a devastating seismic event, struck on June 15, 199
 | Latitude (decimal degrees) | 38.401 |
 | Longitude (decimal degrees) | 22.283 |
 | Depth (km) | 14.2 |
-| Mw | 6.5 |
+| Mw | 6.4 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Normal |
 | Tectonic region type | Active Shallow Crust |
