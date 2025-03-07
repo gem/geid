@@ -5,8 +5,8 @@ Region,Africa
 Event Name,Boumerdes 2003
 Local Date,21/05/2003
 Local Time,19:44:21
-Latitude (decimal degrees),36.91
-Longitude (decimal degrees),3.71
+Latitude (decimal degrees),36.964
+Longitude (decimal degrees),3.634
 Depth (km),12
 Mw,6.8
 Max Intensity (MMI),IX-X
@@ -14,13 +14,13 @@ Fault mechanism,Dip-slip
 Tectonic region type,Active Shallow Crust
 Fatalities,2266-2287
 Injured,10261-11000
-Displaced population,~200000
+Displaced population,~180000
 Affected population,~210261
-Affected units,
-Damaged units,
-Collapsed units,
+Affected units,~97000
+Damaged units,~27000
+Collapsed units,~19000
 Economic losses,5000 M USD
-Insured losses,
-Earthquake-triggered effects,Tsunami
+Insured losses,~ 50 M USD
+Earthquake-triggered effects,"Landslide, Liquefaction, Tsunami"
 USGS event ID,usp000bxpg
 Wikipedia page,https://en.wikipedia.org/wiki/2003 Boumerd%C3%A8s earthquake
