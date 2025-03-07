@@ -3,7 +3,7 @@
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 1989 M5.4 Newcastle earthquake.
 
 Available information in the folders:
 

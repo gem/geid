@@ -1,9 +1,9 @@
-# 🌎 2000 M6.5 Iceland earthquake
+# 🌎 2000 M5.87 Iceland earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 2000 M5.87 Iceland earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `2000 Iceland earthquakes`, a pair of magnitude 6.5 events, struck southern Iceland on June 17 and 21. The epicenters were located near the town of Selfoss. These powerful earthquakes caused significant damage to infrastructure, including roads, bridges, and buildings, particularly in the towns of Selfoss and Hveragerði. While there were no fatalities, numerous minor injuries were reported. Economic losses were substantial due to widespread property damage and disruptions to essential services. Although no tsunamis were generated, the earthquakes triggered numerous landslides and some localized liquefaction.
+The `2000 Iceland earthquakes`, a pair of magnitude 5.87 events, struck southern Iceland on June 17 and 21. The epicenters were located near the town of Selfoss. These powerful earthquakes caused significant damage to infrastructure, including roads, bridges, and buildings, particularly in the towns of Selfoss and Hveragerði. While there were no fatalities, numerous minor injuries were reported. Economic losses were substantial due to widespread property damage and disruptions to essential services. Although no tsunamis were generated, the earthquakes triggered numerous landslides and some localized liquefaction.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `2000 Iceland earthquakes`, a pair of magnitude 6.5 events, struck southern 
 | Latitude (decimal degrees) | 63.966 |
 | Longitude (decimal degrees) | -20.487 |
 | Depth (km) | 10 |
-| Mw | 6.5 |
+| Mw | 5.87 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Strike-slip |
 | Tectonic region type | Active Shallow Crust |

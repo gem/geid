@@ -1,9 +1,9 @@
-# 🌎 2009-12-19 M6.0 Karonga earthquake
+# 🌎 2009 M6.0 Karonga earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 2009 M6.0 Karonga earthquake.
 
 Available information in the folders:
 

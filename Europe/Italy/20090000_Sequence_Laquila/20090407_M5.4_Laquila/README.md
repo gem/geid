@@ -1,9 +1,9 @@
-# 🌎 2009 M5.5 Laquila earthquake
+# 🌎 2009 M5.4 Laquila earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 2009 M5.4 Laquila earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `2009 L'Aquila earthquake sequence` struck the Abruzzo region of central Italy, with the main shock occurring on 6 April 2009 at 03:32 local time. This earthquake had a magnitude of 6.3 and reached a maximum intensity of VIII on the Modified Mercalli Intensity (MMI) scale. The epicenter was located near L'Aquila, and the event was followed by numerous foreshocks and aftershocks, which significantly exacerbated the damage and complicated subsequent rescue efforts. A second major earthquake in the sequence struck on 7 April 2009 at 19:47 local time. With a magnitude of 5.5, this aftershock occurred in the same general area near L'Aquila, further intensifying the destruction by damaging already weakened structures and impeding relief operations.The most severely affected areas included L'Aquila and surrounding towns such as Onna, Paganica, San Gregorio, and Castelnuovo. The earthquake sequence resulted in over 295 fatalities, more than 1000 injuries, and left many individuals homeless. The economic losses were estimated at approximately 2500 million USD. In addition to the widespread structural damage, landslides were reported in the region’s mountainous areas, although there were no instances of liquefaction or tsunamis. The event underscored the significant vulnerabilities of both historical and modern structures in earthquake-prone regions, highlighting the need for enhanced seismic preparedness and disaster response strategies.
+The `2009 L'Aquila earthquake sequence` struck the Abruzzo region of central Italy, with the main shock occurring on 6 April 2009 at 03:32 local time. This earthquake had a magnitude of 5.4 and reached a maximum intensity of VIII on the Modified Mercalli Intensity (MMI) scale. The epicenter was located near L'Aquila, and the event was followed by numerous foreshocks and aftershocks, which significantly exacerbated the damage and complicated subsequent rescue efforts. A second major earthquake in the sequence struck on 7 April 2009 at 19:47 local time. With a magnitude of 5.5, this aftershock occurred in the same general area near L'Aquila, further intensifying the destruction by damaging already weakened structures and impeding relief operations.The most severely affected areas included L'Aquila and surrounding towns such as Onna, Paganica, San Gregorio, and Castelnuovo. The earthquake sequence resulted in over 295 fatalities, more than 1000 injuries, and left many individuals homeless. The economic losses were estimated at approximately 2500 million USD. In addition to the widespread structural damage, landslides were reported in the region’s mountainous areas, although there were no instances of liquefaction or tsunamis. The event underscored the significant vulnerabilities of both historical and modern structures in earthquake-prone regions, highlighting the need for enhanced seismic preparedness and disaster response strategies.
 
 | FIELD | DESCRIPTION |
 |:------|:------------|
@@ -28,7 +28,7 @@ The `2009 L'Aquila earthquake sequence` struck the Abruzzo region of central Ita
 | Latitude (decimal degrees) | 42.275 |
 | Longitude (decimal degrees) | 13.464 |
 | Depth (km) | 15.1 |
-| Mw | 5.5 |
+| Mw | 5.4 |
 | Max Intensity (MMI) | VI |
 | Fault mechanism | Normal |
 | Tectonic region type | Active Shallow Crust |
