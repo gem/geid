@@ -1,9 +1,9 @@
-# 🌎 1992 M5.8 Cairo earthquake
+# 🌎 1992 M5.9 Cairo earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 1992 M5.9 Cairo earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1992 Cairo earthquake` struck Egypt on October 12, 1992, at at 13:08 local time, with an estimated magnitude of Mw 5.8 and severe shaking measured at intensity VIII. The earthquake's epicenter was located near Dahshur, approximately 35 kilometers south of Cairo. The quake caused significant damage in Cairo and the surrounding areas, particularly in neighborhoods such as Helwan and rural villages near the epicenter. It resulted in at least 545 fatalities, injured over 6500 people, and left many homeless. Economic losses were estimated at more than $1200 million USD (at the time of the event). The earthquake was followed by several aftershocks, as summarized in studies by Badawy and Mónus (1995). The event caused widespread building collapses and structural damage. Liquefaction was reported in areas near the epicenter. However, there were no reports of landslides, tsunamis, or fires associated with the earthquake.
+The `1992 Cairo earthquake` struck Egypt on October 12, 1992, at at 13:08 local time, with an estimated magnitude of Mw 5.9 and severe shaking measured at intensity VIII. The earthquake's epicenter was located near Dahshur, approximately 35 kilometers south of Cairo. The quake caused significant damage in Cairo and the surrounding areas, particularly in neighborhoods such as Helwan and rural villages near the epicenter. It resulted in at least 545 fatalities, injured over 6500 people, and left many homeless. Economic losses were estimated at more than $1200 million USD (at the time of the event). The earthquake was followed by several aftershocks, as summarized in studies by Badawy and Mónus (1995). The event caused widespread building collapses and structural damage. Liquefaction was reported in areas near the epicenter. However, there were no reports of landslides, tsunamis, or fires associated with the earthquake.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `1992 Cairo earthquake` struck Egypt on October 12, 1992, at at 13:08 local 
 | Latitude (decimal degrees) | 29.778 |
 | Longitude (decimal degrees) | 31.144 |
 | Depth (km) | 21.5 |
-| Mw | 5.8 |
+| Mw | 5.9 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Dip-slip |
 | Tectonic region type | Active Shallow Crust |

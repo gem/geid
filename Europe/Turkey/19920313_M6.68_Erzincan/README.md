@@ -1,9 +1,9 @@
-# 🌎 1992 M6.7 Erzincan earthquake
+# 🌎 1992 M6.68 Erzincan earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 1992 M6.68 Erzincan earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The devastating `1992 Erzincan earthquake` struck eastern Turkey on March 13, 1992, at 20:18 local time. Measuring 6.7 on the moment magnitude scale and reaching a maximum intensity of VIII on the Mercalli scale, the temblor originated on the North Anatolian Fault mere kilometers from Erzincan's city center. This proximity resulted in widespread damage throughout the Erzincan district and province. This event resulted in over 540 fatalities and 2000 injuries. Economic losses exceeded 667 million USD. Four aftershocks, ranging from 5.0 to 6.1 Mw, were registered according to the Ministry of Public Works and Settlements.
+The devastating `1992 Erzincan earthquake` struck eastern Turkey on March 13, 1992, at 20:18 local time. Measuring 6.68 on the moment magnitude scale and reaching a maximum intensity of VIII on the Mercalli scale, the temblor originated on the North Anatolian Fault mere kilometers from Erzincan's city center. This proximity resulted in widespread damage throughout the Erzincan district and province. This event resulted in over 540 fatalities and 2000 injuries. Economic losses exceeded 667 million USD. Four aftershocks, ranging from 5.0 to 6.1 Mw, were registered according to the Ministry of Public Works and Settlements.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The devastating `1992 Erzincan earthquake` struck eastern Turkey on March 13, 19
 | Latitude (decimal degrees) | 39.71 |
 | Longitude (decimal degrees) | 39.605 |
 | Depth (km) | 27.2 |
-| Mw | 6.7 |
+| Mw | 6.68 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Strike-slip |
 | Tectonic region type | Active Shallow Crust |

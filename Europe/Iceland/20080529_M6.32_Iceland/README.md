@@ -1,9 +1,9 @@
-# 🌎 2008 M6.3 Iceland earthquake
+# 🌎 2008 M6.32 Iceland earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 2008 M6.32 Iceland earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `2008 Iceland earthquake`, a magnitude 6.3 event, struck southwestern Iceland on May 29, 2008, at 15:46 local time. The epicenter was located between the towns of Hveragerði and Selfoss. The earthquake was widely felt across Iceland, causing significant damage to infrastructure, including roads, bridges, and buildings, particularly in the affected areas. While there were no fatalities, numerous minor injuries were reported. Economic losses were substantial due to widespread property damage and disruptions to essential services. Although no tsunamis were generated, the earthquake triggered numerous landslides and some localized liquefaction.
+The `2008 Iceland earthquake`, a magnitude 6.32 event, struck southwestern Iceland on May 29, 2008, at 15:46 local time. The epicenter was located between the towns of Hveragerði and Selfoss. The earthquake was widely felt across Iceland, causing significant damage to infrastructure, including roads, bridges, and buildings, particularly in the affected areas. While there were no fatalities, numerous minor injuries were reported. Economic losses were substantial due to widespread property damage and disruptions to essential services. Although no tsunamis were generated, the earthquake triggered numerous landslides and some localized liquefaction.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `2008 Iceland earthquake`, a magnitude 6.3 event, struck southwestern Icelan
 | Latitude (decimal degrees) | 64.005 |
 | Longitude (decimal degrees) | -21.013 |
 | Depth (km) | 9 |
-| Mw | 6.3 |
+| Mw | 6.32 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Strike-slip |
 | Tectonic region type | Active Shallow Crust |
