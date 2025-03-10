@@ -3,7 +3,7 @@ Year,1980
 Country,Italy
 Region,Europe
 Event Name,Irpinia 1980
-Local Date,23/11/1980
+Local Date,23/11/80
 Local Time,19:34:53
 Latitude (decimal degrees),40.914
 Longitude (decimal degrees),15.366
@@ -12,15 +12,15 @@ Mw,6.9
 Max Intensity (MMI),X
 Fault mechanism,Normal
 Tectonic region type,Active Shallow Crust
-Fatalities,~4689
-Injured,~7700
-Displaced population,
-Affected population,~407700
+Fatalities,~3000
+Injured,~9000
+Displaced population,~280000
+Affected population,~400000
 Affected units,
-Damaged units,
-Collapsed units,
+Damaged units,~755000 Dwellings
+Collapsed units,75000-77000 Dwellings
 Economic losses,20000 M USD
 Insured losses,
-Earthquake-triggered effects,
+Earthquake-triggered effects,Landslides
 USGS event ID,usp0001ay4
 Wikipedia page,https://en.wikipedia.org/wiki/1980 Irpinia earthquake
