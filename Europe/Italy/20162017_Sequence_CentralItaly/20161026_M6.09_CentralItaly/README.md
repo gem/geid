@@ -1,9 +1,9 @@
-# 🌎 2016 M6.1 CentralItaly earthquake
+# 🌎 2016 M6.09 CentralItaly earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 2016 M6.09 CentralItaly earthquake.
 
 Available information in the folders:
 
@@ -15,13 +15,13 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-A series of major earthquakes struck central Italy between the Marche and Umbria regions, beginning in August 2016 and continuing into 2017. The sequence commenced with a powerful tremor on 24 August 2016, registering a magnitude of 6.2. The epicenter, located near Norcia in the Umbria region, caused widespread devastation in cities such as Amatrice, Accumoli, and Arquata del Tronto. The earthquake resulted in over 296 fatalities, more than 360 injuries, and caused economic losses estimated at $5000 million USD. Significant landslides were reported in the mountainous areas surrounding the epicenter, although there were no instances of liquefaction or tsunamis.
+A series of major earthquakes struck central Italy between the Marche and Umbria regions, beginning in August 2016 and continuing into 2017. The sequence commenced with a powerful tremor on 24 August 2016, registering a magnitude of 6.21. The epicenter, located near Norcia in the Umbria region, caused widespread devastation in cities such as Amatrice, Accumoli, and Arquata del Tronto. The earthquake resulted in over 296 fatalities, more than 360 injuries, and caused economic losses estimated at $5000 million USD. Significant landslides were reported in the mountainous areas surrounding the epicenter, although there were no instances of liquefaction or tsunamis.
 
-On 26 October 2016, a second major earthquake struck with a magnitude of 6.1. The epicenter was near Visso in the Marche region, affecting towns such as Visso, Ussita, and Castelluccio. While this earthquake caused only 1 direct fatality, it inflicted further damage on already weakened structures from the earlier tremor. Landslides were again reported, though no liquefaction or tsunamis occurred. The economic losses from this event were estimated at $200 million USD, adding to the escalating toll of the series.
+On 26 October 2016, a second major earthquake struck with a magnitude of 6.09. The epicenter was near Visso in the Marche region, affecting towns such as Visso, Ussita, and Castelluccio. While this earthquake caused only 1 direct fatality, it inflicted further damage on already weakened structures from the earlier tremor. Landslides were again reported, though no liquefaction or tsunamis occurred. The economic losses from this event were estimated at $200 million USD, adding to the escalating toll of the series.
 
-The largest earthquake in the sequence occurred on 30 October 2016, with a magnitude of 6.6. Once again, the epicenter was near Norcia in Umbria, affecting Norcia, Amatrice, Visso, and Preci. This earthquake resulted in 2 fatalities, approximately 20 injuries, and economic losses estimated at $200 million USD. Landslides were reported in the mountainous regions, though no liquefaction or tsunamis were observed.
+The largest earthquake in the sequence occurred on 30 October 2016, with a magnitude of 6.5. Once again, the epicenter was near Norcia in Umbria, affecting Norcia, Amatrice, Visso, and Preci. This earthquake resulted in 2 fatalities, approximately 20 injuries, and economic losses estimated at $200 million USD. Landslides were reported in the mountainous regions, though no liquefaction or tsunamis were observed.
 
-The series culminated with a fourth significant earthquake on 18 January 2017. This tremor, with a magnitude of 5.7, struck near Montereale in the Abruzzo region, affecting cities such as Montereale, Campotosto, and Amatrice. The earthquake caused at least 29 fatalities and over 11 injuries, exacerbating the damage to already weakened infrastructure. Economic losses from this event were estimated at $18 million USD. Landslides were again reported, but there were no instances of liquefaction or tsunamis.
+The series culminated with a fourth significant earthquake on 18 January 2017. This tremor, with a magnitude of 5.95, struck near Montereale in the Abruzzo region, affecting cities such as Montereale, Campotosto, and Amatrice. The earthquake caused at least 29 fatalities and over 11 injuries, exacerbating the damage to already weakened infrastructure. Economic losses from this event were estimated at $18 million USD. Landslides were again reported, but there were no instances of liquefaction or tsunamis.
 
 This sequence of earthquakes caused extensive damage to both historical and modern infrastructure, displacing thousands and further hindering recovery efforts. The continued seismic activity underscored the ongoing vulnerability of the region to earthquakes. The total fatalities and injuries from the series reached 328 and 380, respectively, with economic losses exceeding $5400 million USD.
 
@@ -36,7 +36,7 @@ This sequence of earthquakes caused extensive damage to both historical and mode
 | Latitude (decimal degrees) | 42.9564 |
 | Longitude (decimal degrees) | 13.0666 |
 | Depth (km) | 10 |
-| Mw | 6.1 |
+| Mw | 6.09 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Normal |
 | Tectonic region type | Active Shallow Crust |

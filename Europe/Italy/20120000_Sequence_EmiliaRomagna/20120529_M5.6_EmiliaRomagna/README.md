@@ -1,9 +1,9 @@
-# 🌎 2012 M5.8 EmiliaRomagna earthquake
+# 🌎 2012 M5.6 EmiliaRomagna earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 2012 M5.6 EmiliaRomagna earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-In May 2012, Northern Italy was impacted by two significant earthquakes, collectively known as the 2012 Emilia earthquakes. The first earthquake, registering a magnitude of 5.8, occurred on 20 May 2012 at 04:03 local time in the Emilia-Romagna region, approximately 36 kilometers north of Bologna. The epicenter was located between the towns of Finale Emilia, Bondeno, and Sermide. Nine days later, on 29 May 2012, a second earthquake with a magnitude of 5.6 struck the same region, with its epicenter near Medolla, at a depth of approximately 10 kilometers. This sequence of events led to 26 fatalities and more than 50 injuries, particularly due to further damage to buildings already weakened by the earlier quake. The most severely impacted towns included Finale Emilia, Bondeno, Sermide, and Medolla. The economic losses were estimated at €10000 million EUR. While landslides were observed in several areas, there were no significant reports of liquefaction or tsunamis. The 2012 Emilia earthquakes underscored the vulnerabilities of both historic and modern infrastructure in the region, highlighting the critical need for enhanced seismic preparedness and building resilience.
+In May 2012, Northern Italy was impacted by two significant earthquakes, collectively known as the 2012 Emilia earthquakes. The first earthquake, registering a magnitude of 5.6, occurred on 20 May 2012 at 04:03 local time in the Emilia-Romagna region, approximately 36 kilometers north of Bologna. The epicenter was located between the towns of Finale Emilia, Bondeno, and Sermide. Nine days later, on 29 May 2012, a second earthquake with a magnitude of 5.6 struck the same region, with its epicenter near Medolla, at a depth of approximately 10 kilometers. This sequence of events led to 26 fatalities and more than 50 injuries, particularly due to further damage to buildings already weakened by the earlier quake. The most severely impacted towns included Finale Emilia, Bondeno, Sermide, and Medolla. The economic losses were estimated at €10000 million EUR. While landslides were observed in several areas, there were no significant reports of liquefaction or tsunamis. The 2012 Emilia earthquakes underscored the vulnerabilities of both historic and modern infrastructure in the region, highlighting the critical need for enhanced seismic preparedness and building resilience.
 
 | FIELD | DESCRIPTION |
 |:------|:------------|
@@ -28,7 +28,7 @@ In May 2012, Northern Italy was impacted by two significant earthquakes, collect
 | Latitude (decimal degrees) | 44.851 |
 | Longitude (decimal degrees) | 11.086 |
 | Depth (km) | 10.2 |
-| Mw | 5.8 |
+| Mw | 5.6 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Inverse |
 | Tectonic region type | Active Shallow Crust |
