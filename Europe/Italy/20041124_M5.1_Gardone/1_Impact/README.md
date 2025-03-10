@@ -22,18 +22,13 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 ## Notes
 
-For this particular event most of the building damage data was collected and aggregated from information obtained from [Da.DO Database di Danno Osservato](https://egeos.eucentre.it/danno_osservato/web/danno_osservato#:~:text=Essa%20%C3%A8%20stata%20concepita%20per,crisi%20sismiche%20di%20rilevanza%20nazionale.) (Database of Observed Damage) from the Civil Protection Department, developed by Eucentre.
-
 ## References
 
 ### Detailed online databases
 
-
 ### Publications
-- QUick Earthquake Survey Team, 2004. Rapporto preliminare sugli effetti del terremoto bresciano del 24 novembre 2004. Rapporto tecnico QUEST, Istituto Nazionale di Geofisica e Vulcanologia (INGV), Roma, 13 pp. https://doi.org/10.13127/QUEST/20041124
-- Pessina et al. (2006) DAMAGE DISTRIBUTION AND SEISMOLOGICAL MODEL OF THE NOVEMBER 2004, SALÒ (NORTHERN ITALY) EARTHQUAKE. https://www.researchgate.net/publication/266894865_Damage_distribution_and_seismological_model_of_the_November_2004_Salo_northern_Italy_earthquake
-- Franceschina G, Pessina V, Di Giacomo, D, Massa M, Mulargia F, Castellaro S,
-Mucciarelli M. (2004) La ricostruzione dello scuotimento del terremoto del Garda del 2004 (ML=5.2). http://www.ace-sap.it/UploadDocs/2856_franceschinaterremotogarda2004.pdf
+- Pessina V, Tertulliani A, Camassi R, Rossi A, Scardia G (2013). The revision of the October 30, 1901 earthquake, west of Lake Garda (northern Italy). Bollettino di Geofisica Teorica ed Applicata, 54(1). https://doi.org/10.4430/bgta0083
+- Franceschina G, Pessina V, Di Giacomo, D, Massa M, Mulargia F, Castellaro S, Mucciarelli M (2004). La ricostruzione dello scuotimento del terremoto del Garda del 2004 (ML=5.2). Bollettino della Società Geologica Italiana, 128(1):217-228.
 
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp000d94j/executive) 
