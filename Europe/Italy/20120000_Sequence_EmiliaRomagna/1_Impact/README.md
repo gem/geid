@@ -30,7 +30,7 @@ For this particular event most of the building damage data was collected and agg
 - Archivio Storico Macrosismico Italiano (AMSI). Information including location of the event from different sources, studies of the event and shakemaps. Open access. Rovida A, Locati M, Antonucci A, Camassi R (a cura di) (2017). Archivio Storico Macrosismico Italiano (ASMI). Istituto Nazionale di Geofisica e Vulcanologia (INGV).
 M6: https://emidius.mi.ingv.it/ASMI/event/20120520_0203_000
 M5.8: https://emidius.mi.ingv.it/ASMI/event/20120529_0700_000
-- Database di Danno Osservato (Da.DO). Plarform of the Italian Department of Civil Protection, developed by Eucentre Foundation. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato Dolce M, Speranza E, Giordano F, Borzi B, Bocchi F, Conte C, Di Meo A, Faravelli M, Pascale V (2019). Observed damage database of past Italian earthquakes: the Da. DO WebGIS. Bollettino di Geofisica Teorica ed Applicata, 60(2). https://doi.org/10.4430/bgta0254
+- Database di Danno Osservato (Da.DO). Platform of the Italian Department of Civil Protection, developed by Eucentre Foundation. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato Dolce M, Speranza E, Giordano F, Borzi B, Bocchi F, Conte C, Di Meo A, Faravelli M, Pascale V (2019). Observed damage database of past Italian earthquakes: the Da. DO WebGIS. Bollettino di Geofisica Teorica ed Applicata, 60(2). https://doi.org/10.4430/bgta0254
 
 ### Publications
 - Consiglio Nazionale degli Ingegneri (CNI). I costi del terremoti in Italia. https://www.cni.it/images/News/2016/I_costi_dei_terremoti_in_Italia.pdf

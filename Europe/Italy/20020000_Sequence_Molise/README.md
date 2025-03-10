@@ -3,7 +3,7 @@
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2002 Molise earthquake sequence in Italy.
+This repository hosts detailed information about the 2002 Molise earthquake sequence in central Italy.
 
 Available information in the folders:
 

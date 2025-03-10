@@ -30,7 +30,7 @@ For this particular event most of the building damage data was collected and agg
 - Archivio Storico Macrosismico Italiano (AMSI). Information including location of the event from different sources, studies of the event and shakemaps. Open access. Rovida A, Locati M, Antonucci A, Camassi R (a cura di) (2017). Archivio Storico Macrosismico Italiano (ASMI). Istituto Nazionale di Geofisica e Vulcanologia (INGV).  
 M6.18: https://emidius.mi.ingv.it/ASMI/event/20090406_0132_000
 M5.4: https://emidius.mi.ingv.it/ASMI/event/20090407_1747_000
-- Database di Danno Osservato (Da.DO). Plarform of the Italian Department of Civil Protection, developed by Eucentre Foundation. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato Dolce M, Speranza E, Giordano F, Borzi B, Bocchi F, Conte C, Di Meo A, Faravelli M, Pascale V (2019). Observed damage database of past Italian earthquakes: the Da. DO WebGIS. Bollettino di Geofisica Teorica ed Applicata, 60(2). https://doi.org/10.4430/bgta0254
+- Database di Danno Osservato (Da.DO). Platform of the Italian Department of Civil Protection, developed by Eucentre Foundation. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato Dolce M, Speranza E, Giordano F, Borzi B, Bocchi F, Conte C, Di Meo A, Faravelli M, Pascale V (2019). Observed damage database of past Italian earthquakes: the Da. DO WebGIS. Bollettino di Geofisica Teorica ed Applicata, 60(2). https://doi.org/10.4430/bgta0254
 
 ### Publications
 - Alexander DE (2010). The L'Aquila earthquake of 6 April 2009 and Italian Government policy on disaster response. Journal of Natural Resources Policy Research, 2(4):325-342. https://doi.org/10.1080/19390459.2010.511450

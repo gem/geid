@@ -2,7 +2,7 @@ ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,A
 ITA,Italy,308,308,1500,67500,,60000,,,,,,,,,,Alexander (2010),Sixty thousand buildings were seriously damaged.
 ITA,Italy,309,309,1500,56000,,,,15000,Buildings,2500000000,,,USD,,,NOAA,
 ITA,Italy,295,295,1000,55000,56000,,,,,2500000000,3157000000,260000000,USD,,,EM-DAT,
-ITA,Italy,308,308,1600,80000,,,20084,,,,,,,,,Da.Do,
+ITA,Italy,308,308,1600,80000,,,20084,,Buildings,,,,,,,Da.Do,
 ITA,Italy,309,309,1600,,,35379,23403,,Buildings,10000000000,,,EUR,,,Protezione Civile,
 ITA,Italy,309,309,1600,,,69591,,3893,Buildings,,,,,,,https://storymaps.arcgis.com/stories/1a05c4a9fbf344d99ee944af8e11066d?utm_source=chatgpt.com,
 ITA,Italy,294,294,1000,,,,,10000-15000,Buildings,,,,,,,Kawashima et al. (2010),"10,000-15,000 buildings heavily damaged."

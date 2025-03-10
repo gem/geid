@@ -1,8 +1,8 @@
 ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-ITA,Italy,26,26,350,15000,,,16480,,,,,,,,,Da.Do,
+ITA,Italy,26,26,350,15000,,,16480,,Buildings,,,,,,,Da.Do,
 ITA,Italy,,,,,,,,,,13273000000,,,EUR,,,Documento a Commisione Europea,
 ITA,Italy,17,17,350,,,,,,,15800000000,,,USD,,,NOAA,
 ITA,Italy,7,7,50,,11000,,,,,15800000000,15800000000,1300000000,USD,,,EM-DAT,This reference might report victimes due to the first shock only.
-ITA,Italy,28,28,300,,45000,,16000,,,13200000000,,,EUR,,,https://www.ervet.it/?p=4965#,
+ITA,Italy,28,28,300,,45000,,16000,,Buildings,13200000000,,,EUR,,,https://www.ervet.it/?p=4965#,
 ITA,Italy,,,,,,,,,,1.33E+10,1.33E+10,,EUR,,,Consiglio Nazionale Ingegneri (CNI),https://www.cni.it/images/News/2016/I_costi_dei_terremoti_in_Italia.pdf
-ITA,Italy,27,27,,,,,12000,,,,,,,,,Fioravante et al. (2013),"12,000 buildings were severely damaged."
+ITA,Italy,27,27,,,,,12000,,Buildings,,,,,,,Fioravante et al. (2013),"12,000 buildings were severely damaged."
