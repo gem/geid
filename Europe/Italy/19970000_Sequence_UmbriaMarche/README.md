@@ -49,7 +49,7 @@ A summary of the main consequences of the event is available in the [earthquake_
 
 | Attribute | Value |
 |:-------|:-------------|
-| Fatalities | 11 |
+| Fatalities | 11-14 |
 | Injured | ~100 |
 | Displaced population | nan |
 | Affected population | nan |
