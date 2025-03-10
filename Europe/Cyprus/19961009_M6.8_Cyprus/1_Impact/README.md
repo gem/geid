@@ -26,7 +26,7 @@ Check the definitions of the parameters used in the impact files in the [impact 
 ### Detailed online databases
 
 ### Publications
-- Kalogeras I, Stavrakakis G, Solomi K. (1999). The October 9, 1996 earthquake in Cyprus: seismological, macroseismic and strong motion data. Annals of Geophysics, 42(1). https://doi.org/10.4401/ag-3702
+- Kalogeras I, Stavrakakis G, Solomi K (1999). The October 9, 1996 earthquake in Cyprus: seismological, macroseismic and strong motion data. Annals of Geophysics, 42(1). https://doi.org/10.4401/ag-3702
 
 ### Global databases / references
 
