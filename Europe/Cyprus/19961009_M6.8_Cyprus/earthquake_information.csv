@@ -3,7 +3,7 @@ Year,1996
 Country,Cyprus
 Region,Europe
 Event Name,Cyprus
-Local Date,09/10/1996
+Local Date,09/10/96
 Local Time,11:10:52
 Latitude (decimal degrees),34.556
 Longitude (decimal degrees),32.126
@@ -12,13 +12,13 @@ Mw,6.8
 Max Intensity (MMI),VI
 Fault mechanism,Strike-slip
 Tectonic region type,Active Shallow Crust
-Fatalities,0-2
-Injured,0-5
+Fatalities,0
+Injured,~20
 Displaced population,
 Affected population,
 Affected units,
-Damaged units,570.0 Buildings
-Collapsed units,70.0 Buildings
+Damaged units,~9600 Buildings
+Collapsed units,
 Economic losses,20 M USD
 Insured losses,
 Earthquake-triggered effects,

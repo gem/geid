@@ -1,3 +1,3 @@
 ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,SLIGHTLY_INJURED,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-CYP,Cyprus,,,,,,,,9601,,Buildings,20000000,,USD,,,"Kalogeras, Ioannis & Stavrakakis, G. & Solomi, K.. (1999). The October 9,1996 earthquake in Cyprus: Seismological, macroseismic and strong motion data. Annals of Geophysics. 42. 10.4401/ag-3702. ",
-CYP,Cyprus,2,,20,20,,,,,,,,,,,,"https://knews.kathimerini.com.cy/en/news/the-moment-the-earthquake-struck-cyprus-video#:~:text=Historical%20data%20for%201995%20and%201996&text=Also%20on%20October%209%2C%201996,in%20Nicosia%2C%20Larnaca%20and%20Paralimni.",
+CYP,Cyprus,,,,,,,,9601,,Buildings,20000000,,USD,,,Kalogeras et al. (1999),
+CYP,Cyprus,2,,20,20,,,,,,,,,,,,"https://knews.kathimerini.com.cy/en/news/the-moment-the-earthquake-struck-cyprus-video#:~:text=Historical%20data%20for%201995%20and%201996&text=Also%20on%20October%209%2C%201996,in%20Nicosia%2C%20Larnaca%20and%20Paralimni.",Two people died of secondary causes and 20 were slightly injured. 
