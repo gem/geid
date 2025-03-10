@@ -27,16 +27,17 @@ For this particular event most of the building damage data was collected and agg
 ## References
 
 ### Detailed online databases
-- AMSI: Archivio Storico Macrosismico Italiano. Information including location of the event from different sources, studies of the event and shakemaps. Open access. 
-Event M5.72: https://emidius.mi.ingv.it/ASMI/event/19970926_0033_000
-Event M5.97: https://emidius.mi.ingv.it/ASMI/event/19970926_0940_000
-Event M5.86: https://emidius.mi.ingv.it/ASMI/event/19971003_0855_000
-- CEQID: Cambridge Earthquake Impact Database. Open access. 
-http://www.ceqid.org/CEQID/Home.aspx?p=32
+- Archivio Storico Macrosismico Italiano (AMSI). Information including location of the event from different sources, studies of the event and shakemaps. Open access. Rovida A, Locati M, Antonucci A, Camassi R (a cura di) (2017). Archivio Storico Macrosismico Italiano (ASMI). Istituto Nazionale di Geofisica e Vulcanologia (INGV).
+Event M5.7: https://emidius.mi.ingv.it/ASMI/event/19970926_0033_000
+Event M6.0: https://emidius.mi.ingv.it/ASMI/event/19970926_0940_000
+Event M5.6: https://emidius.mi.ingv.it/ASMI/event/19971003_0855_000
+- Cambridge Earthquake Impact Database (CEQID). Open access. http://www.ceqid.org/CEQID/Home.aspx?p=32
+- Catalogo dei Forti Terremoti in Italia (461 a.C.-1997) e nell’area Mediterranea (760 a.C.-1500) (CFTI5Med). Information including location of the event from different sources, studies of the event and shakemaps. Open access. Guidoboni E, Ferrari G, Mariotti D, Comastri A, Tarabusi G, Sgattoni G, Valensise G (2018). CFTI5Med, Catalogo dei Forti Terremoti in Italia (461 a.C.-1997) e nell’area Mediterranea (760 a.C.-1500). Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://storing.ingv.it/cfti/cfti5/quake.php?42855IT#
+- Database di Danno Osservato (Da.DO). Plarform of the Italian Department of Civil Protection, developed by Eucentre Foundation. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato Dolce M, Speranza E, Giordano F, Borzi B, Bocchi F, Conte C, Di Meo A, Faravelli M, Pascale V (2019). Observed damage database of past Italian earthquakes: the Da. DO WebGIS. Bollettino di Geofisica Teorica ed Applicata, 60(2). https://doi.org/10.4430/bgta0254
 
 ### Publications
-- Dolce, M., Masi, A., & Goretti, A. (2018). Damage to buildings due to 1997 Umbria-Marche earthquake. In Seismic damage to masonry buildings (pp. 71-80). Routledge.
-- Spence, R., & D’Ayala, D. (1999). Damage assessment and analysis of the 1997 Umbria-Marche earthquakes. Structural engineering international, 9(3), 229-233.
+- Consiglio Nazionale degli Ingegneri (CNI). I costi del terremoti in Italia. https://www.cni.it/images/News/2016/I_costi_dei_terremoti_in_Italia.pdf
+- Dolce M, Masi A, Goretti A (2018). Damage to buildings due to 1997 Umbria-Marche earthquake. In: Seismic damage to masonry buildings, 71-80. Routledge. ISBN: 9780203740040
 
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp000881f/executive) 
@@ -45,3 +46,5 @@ http://www.ceqid.org/CEQID/Home.aspx?p=32
 - [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5473)
 
 ### National databases / references
+
+### Other useful references
