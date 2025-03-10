@@ -1,9 +1,9 @@
-# 🌎 2016 Central Italy earthquake sequence
+# 🌎 2016 M5.9 Central Italy earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2016 Central Italy earthquake sequence.
+This repository hosts detailed information about the 2016 M5.9 Central Italy earthquake.
 
 Available information in the folders:
 
@@ -26,44 +26,31 @@ The series culminated with a fourth significant earthquake on 18 January 2017. T
 This sequence of earthquakes caused extensive damage to both historical and modern infrastructure, displacing thousands and further hindering recovery efforts. The continued seismic activity underscored the ongoing vulnerability of the region to earthquakes. Ground shaking caused 301 fatalities and around 400 injuries, with economic losses exceeding $5400 million USD.
 
 | FIELD | DESCRIPTION |
-|:-------|:-------------|
+|:------|:------------|
 | Year | 2016 |
 | Country | Italy |
 | Region | Europe |
-| Event Name | CentralItaly |
-| Local Date | 24/08/2016 |
-| Local Time | 01:36:32 |
-| Latitude (decimal degrees) | 42.723 |
-| Longitude (decimal degrees) | 13.1877 |
-| Depth (km) | 4.44 |
-| Mw | 6.0 |
-| Max Intensity (MMI) | IX |
+| Event Name | CentralItaly 2016 |
+| Local Date | 26/10/2016 |
+| Local Time | 19:18:08 |
+| Latitude (decimal degrees) | 42.9564 |
+| Longitude (decimal degrees) | 13.0666 |
+| Depth (km) | 10 |
+| Mw | 5.9 |
+| Max Intensity (MMI) | VIII |
 | Fault mechanism | Normal |
 | Tectonic region type | Active Shallow Crust |
-| USGS event ID | us10006g7d |
+| USGS event ID | us1000725y |
 
 ## Estimated and observed ground shaking
 
-The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was 1.42 g, observed at Castelsantangelo sul Nera (Macerata), on 26 October 2016. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was 1.42 g, observed at Castelsantangelo sul Nera (Macerata). If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-<img src="./20160824_M6.21_CentralItaly/4_OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./20160824_M6.21_CentralItaly/4_OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./4_OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4_OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
 The information collected for the consequences of the event and the corresponding references is available in the [Impact](./Impact) folder. When available, information at different geographical levels is provided considering the building damage, economic losses and human impact.
 
-A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
-
-| Attribute | Value |
-|:-------|:-------------|
-| Fatalities | 301-304 |
-| Injured | 408-440 |
-| Displaced population | 28000-100000 |
-| Affected population | nan |
-| Affected units | nan |
-| Damaged units | nan |
-| Collapsed units | nan |
-| Economic losses | 5400 M USD |
-| Insured losses | nan |
-| Earthquake-triggered effects | Landslides |
+A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file.

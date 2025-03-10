@@ -27,20 +27,11 @@ For this particular event most of the building damage data was collected and agg
 ## References
 
 ### Detailed online databases
-- AMSI: Archivio Storico Macrosismico Italiano. Information including location of the event from different sources, studies of the event and shakemaps. Open access. 
-https://emidius.mi.ingv.it/ASMI/event/20161030_0640_000
+- Archivio Storico Macrosismico Italiano (AMSI). Information including location of the event from different sources, studies of the event and shakemaps. Open access. Rovida A, Locati M, Antonucci A, Camassi R (a cura di) (2017). Archivio Storico Macrosismico Italiano (ASMI). Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://emidius.mi.ingv.it/ASMI/event/20161030_0640_000
 - CEQID: Cambridge Earthquake Impact Database. Open access. 
 http://www.ceqid.org/CEQID/Home.aspx?p=32
 
 ### Publications
-- Stewart et al. (2016) Reconnaissance of 2016 Central Italy Earthquake Sequence. Available in:  https://journals.sagepub.com/doi/pdf/10.1193/080317EQS151M?casa_token=8A3M8I2gav4AAAAA:rWYRv40GpUHcNmnnvloFTWoTZ6Ax5uJYLYVivpSndsk3CEXKqtoaKzD3DXZJMUUWiHaU14l1ycs
-- Fiorentino et al. (2017) Damage patterns in the town of Amatrice after August 24th 2016 Central Italy earthquakes. Available in: https://link.springer.com/article/10.1007/s10518-017-0254-z
-- Brando et al. (2020) Site effects and damage scenarios: The case study of two historic centers following the 2016 Central Italy earthquake. Available in: https://www.sciencedirect.com/science/article/pii/S0013795219315145?casa_token=6wbiTmM0BbEAAAAA:9oz_fLEz_jbt8aC7xR2W_1dJGSYW8BgxuLZtZZmwi4opoJkbxZLZyQZEAlhR2eVP5QjBFgnM
-- Sorrentino et al. (2018) Seismic behaviour of ordinary masonry buildings during the 2016 central Italy earthquakes. Available in: https://link.springer.com/article/10.1007/s10518-018-0370-4
-- Sextos et al. (2018) Local Site Effects and Incremental Damage of Buildings During the 2016 Central Italy Earthquake Sequence. Available in: https://journals.sagepub.com/doi/pdf/10.1193/100317EQS194M?casa_token=tOFW8AwrsJgAAAAA:WOYZJYvnz6nNVXkuMmIooM0-iNonSIHs-Wl_BW1BUpwgf0Lowp-FI4aFkPPlpx8KNpp3s5ErJU8
-- Ludovico et al. (2018) Remarks on damage and response of school buildings after the Central Italy earthquake sequence. Available in: https://link.springer.com/article/10.1007/s10518-018-0332-x
-- Lanzo et al. (2018) Reconnaissance of geotechnical aspects of the 2016 Central Italy earthquakes. Available in: https://link.springer.com/article/10.1007/s10518-018-0350-8
-
 
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us1000731j/executive) 
