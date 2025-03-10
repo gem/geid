@@ -1,9 +1,9 @@
-# 🌎 1999 M6 Athens earthquake
+# 🌎 1999 M5.9 Athens earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 1999 M5.9 Athens earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1999 Athens earthquake` struck on September 7, 1999, at 14:56 local time, registering a moment magnitude of 6.0 and reaching a maximum intensity of IX on the Modified Mercalli Intensity (MMI) scale. The epicenter was pinpointed near Mount Parnitha, about 17 kilometers northwest of central Athens. The quake caused widespread destruction, particularly in the northern and western suburbs of Athens, with areas such as Ano Liosia, Acharnes, Thrakomakedones, and Nea Philadelphia bearing the brunt of the damage. The disaster claimed the lives of approximately 143 people, left more than 750 injured, and rendered thousands homeless. Economic losses were estimated at a staggering $4500 million USD. Notable incidents of soil liquefaction occurred in coastal and reclaimed areas, though no tsunamis or major landslides were reported. As one of the most catastrophic natural disasters in Greece's modern history, the earthquake left an indelible mark on the nation's infrastructure and collective memory.
+The `1999 Athens earthquake` struck on September 7, 1999, at 14:56 local time, registering a moment magnitude of 5.9 and reaching a maximum intensity of IX on the Modified Mercalli Intensity (MMI) scale. The epicenter was pinpointed near Mount Parnitha, about 17 kilometers northwest of central Athens. The quake caused widespread destruction, particularly in the northern and western suburbs of Athens, with areas such as Ano Liosia, Acharnes, Thrakomakedones, and Nea Philadelphia bearing the brunt of the damage. The disaster claimed the lives of approximately 143 people, left more than 750 injured, and rendered thousands homeless. Economic losses were estimated at a staggering $4500 million USD. Notable incidents of soil liquefaction occurred in coastal and reclaimed areas, though no tsunamis or major landslides were reported. As one of the most catastrophic natural disasters in Greece's modern history, the earthquake left an indelible mark on the nation's infrastructure and collective memory.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `1999 Athens earthquake` struck on September 7, 1999, at 14:56 local time, r
 | Latitude (decimal degrees) | 38.119 |
 | Longitude (decimal degrees) | 23.605 |
 | Depth (km) | 10 |
-| Mw | 6 |
+| Mw | 5.9 |
 | Max Intensity (MMI) | IX |
 | Fault mechanism | Normal |
 | Tectonic region type | Active Shallow Crust |
