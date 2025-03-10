@@ -3,24 +3,23 @@ Year,1992
 Country,Netherlands
 Region,Europe
 Event Name,Roermond 1992
-Local Date,13/04/1992
-Local Time,03:20:00
+Local Time,13/04/92
 Latitude (decimal degrees),51.153
 Longitude (decimal degrees),5.798
 Depth (km),21.2
-Mw,5.4
+Mw,5.3
 Max Intensity (MMI),VIII
 Fault mechanism,Normal
 Tectonic region type,Stable Continental
-Fatalities,
-Injured,20-45
+Fatalities,0
+Injured,45-46
 Displaced population,
 Affected population,~1500
 Affected units,
-Damaged units,
+Damaged units,~150 Buildings
 Collapsed units,
 Economic losses,50-100 M USD
 Insured losses,
-Earthquake-triggered effects,
+Earthquake-triggered effects,"Landslides, liquefaction"
 USGS event ID,usp00055q3
 Wikipedia page,https://en.wikipedia.org/wiki/1992 Roermond earthquake
