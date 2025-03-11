@@ -1,11 +1,11 @@
-ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+﻿ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
 ITA,Italy,2483,2483,8934,250000,,,,,,30000000000-40000000000,,,USD,,,USGS PAGER-CAT Earthquake Catalogue,
 ITA,Italy,2914,2914,8848,280000,,,,,,,,,,,,Archivio Fotografico PCI,https://immaginidelnovecento.fondazionegramsci.org/photo/detail/IT-GRAMSCI-FT0001-0061742/terremoto-irpinia-1980-sandro-pertini-sui-luoghi-della-tragedia
 ITA,Italy,4689,4689,7700,,,,,,,20000000000,,,USD,,,NOAA,
 ITA,Italy,4689,4689,7700,,400000,,,,,20000000000,,,USD,,,EM-DAT,
 ITA,Italy,3000,3000,8000,280000,,,,,,,,,,,,ISAAC,https://isaacantisismica.com/en/the-irpinia-earthquake-of-1980/
 ITA,Italy,2914,2914,8848,280000,,,,,,,,,,,,Da.Do,The number of buildings reported here might not be covering the total number of buildings damaged and collapsed.
-ITA,Italy,2735,2735,9000,394000,,,755236,77342,Dwellings,,5.70E+13,,ITL,,,CFTI5Med,"Official documents reported those numbers referring to ""houses"", e.g., Commissione Parlamentare D�Inchiesta."
+ITA,Italy,2735,2735,9000,394000,,,755236,77342,Dwellings,,5.70E+13,,ITL,,,CFTI5Med,"Official documents reported those numbers referring to houses, e.g., Commissione Parlamentare D’Inchiesta."
 ITA,Italy,,,,,,,,,,,32363593779,,EUR,,,Corriere,https://www.corriere.it/europeo/cronache/2010/14/europeo-14-sergio-rizzo-professionisti-macerie_d09409de-cfa7-11df-8a5d-00144f02aabe.shtml
 ITA,Italy,,,,,,,,,,,23500000000,,EUR,,,Consiglio Nazionale Ingegneri (CNI),
 ITA,Italy,2700,2700,,,,,755000,75000,Dwellings,,,,,,,"Gizzi, Potenza (2020)",

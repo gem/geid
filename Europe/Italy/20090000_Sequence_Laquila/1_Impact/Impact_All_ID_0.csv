@@ -1,4 +1,4 @@
-ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+ï»¿ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
 ITA,Italy,308,308,1500,67500,,60000,,,,,,,,,,Alexander (2010),Sixty thousand buildings were seriously damaged.
 ITA,Italy,309,309,1500,56000,,,,15000,Buildings,2500000000,,,USD,,,NOAA,
 ITA,Italy,295,295,1000,55000,56000,,,,,2500000000,3157000000,260000000,USD,,,EM-DAT,
@@ -6,7 +6,7 @@ ITA,Italy,308,308,1600,80000,,,20084,,Buildings,,,,,,,Da.Do,
 ITA,Italy,309,309,1600,,,35379,23403,,Buildings,10000000000,,,EUR,,,Protezione Civile,
 ITA,Italy,309,309,1600,,,69591,,3893,Buildings,,,,,,,https://storymaps.arcgis.com/stories/1a05c4a9fbf344d99ee944af8e11066d?utm_source=chatgpt.com,
 ITA,Italy,294,294,1000,,,,,10000-15000,Buildings,,,,,,,Kawashima et al. (2010),"10,000-15,000 buildings heavily damaged."
-ITA,Italy,305,305,1500,,,60000,,,Buildings,,,,,,,‚elebi et al. (2010),"Unofficially, approximately 60,000 structures were damaged."
+ITA,Italy,305,305,1500,,,60000,,,Buildings,,,,,,,Celebi et al. (2010),"Unofficially, approximately 60,000 structures were damaged."
 ITA,Italy,,,,,,72545,12755,19151,Buildings,,,,,,,Fiorini et al. (2012),"Damage survey and safety assessment of private buildings (light damage, severe damage, collapse)."
 ITA,Italy,309,309,,67500,,37000,,,Buildings,,8000000000,,EUR,,,OCSE (2013),
-ITA,Italy,306,306,1500,,,,,15000,Buildings,,,,,,,Kaplan et al. (2010),"According to official reports, 15 000 buildings were severely damaged or collapsed."
+ITA,Italy,306,306,1500,,,,,15000,Buildings,,,,,,,Kaplan et al. (2010),"According to official reports, 15,000 buildings were severely damaged or collapsed."

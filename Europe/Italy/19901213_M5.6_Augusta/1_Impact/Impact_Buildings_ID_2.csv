@@ -1,4 +1,4 @@
-﻿ID_2,NAME_2,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,D0,D1,D2,D3,D4,D5,TOTAL,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,DS5_COLLAPSE,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS,
+﻿ID_2,NAME_2,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,D0,D1,D2,D3,D4,D5,TOTAL,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS,
 ,"Augusta		",37.231,15.221,M1,,,,1,0,0,0,0,0,1,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
 ,"Augusta		",37.231,15.221,M2,,,,23,0,0,0,0,0,23,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a high percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
 ,"Augusta		",37.231,15.221,M3,,,,3,1,0,0,0,0,4,1,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a low percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
