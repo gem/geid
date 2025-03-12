@@ -1,9 +1,9 @@
-# 🌎 2012 M5.8 EmiliaRomagna earthquake
+# 🌎 2012 Emilia-Romagna earthquake sequence
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2012 M5.8 EmiliaRomagna earthquake.
+This repository hosts detailed information about the 2012 Emilia-Romagna earthquake sequence in northern Italy.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-In May 2012, Northern Italy was impacted by two significant earthquakes, collectively known as the 2012 Emilia earthquakes. The first earthquake, registering a magnitude of 5.8, occurred on 20 May 2012 at 04:03 local time in the Emilia-Romagna region, approximately 36 kilometers north of Bologna. The epicenter was located between the towns of Finale Emilia, Bondeno, and Sermide. Nine days later, on 29 May 2012, a second earthquake with a magnitude of 5.6 struck the same region, with its epicenter near Medolla, at a depth of approximately 10 kilometers. This sequence of events led to 26 fatalities and more than 50 injuries, particularly due to further damage to buildings already weakened by the earlier quake. The most severely impacted towns included Finale Emilia, Bondeno, Sermide, and Medolla. The economic losses were estimated at €10000 million EUR. While landslides were observed in several areas, there were no significant reports of liquefaction or tsunamis. The 2012 Emilia earthquakes underscored the vulnerabilities of both historic and modern infrastructure in the region, highlighting the critical need for enhanced seismic preparedness and building resilience.
+In May 2012, northern Italy was impacted by two significant earthquakes, collectively known as the `2012 Emilia-Romagna earthquake sequence`. The first earthquake, registering a magnitude of 6.0, occurred on 20 May 2012 at 04:03 local time in the Emilia-Romagna region, approximately 36 kilometers north of Bologna. The epicenter was located between the towns of Finale Emilia, Bondeno, and Sermide. Nine days later, on 29 May 2012, a second earthquake with a magnitude of 5.8 struck the same region, with its epicenter near Medolla, at a depth of approximately 10 kilometers. This sequence of events led to around 27 fatalities and 350 injuries, particularly due to further damage to buildings already weakened by the earlier quake. The most severely impacted towns included Finale Emilia, Bondeno, Sermide, and Medolla. The economic losses were estimated at 15800 million USD. While liquefaction were observed in several areas, there were no significant reports of landslides, tsunamis or fires. The 2012 Emilia earthquakes underscored the vulnerabilities of both historic and modern infrastructure in the region, highlighting the critical need for enhanced seismic preparedness and building resilience.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ In May 2012, Northern Italy was impacted by two significant earthquakes, collect
 | Latitude (decimal degrees) | 44.89 |
 | Longitude (decimal degrees) | 11.23 |
 | Depth (km) | 6.3 |
-| Mw | 5.8 |
+| Mw | 6.0 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Inverse |
 | Tectonic region type | Active Shallow Crust |
@@ -36,7 +36,7 @@ In May 2012, Northern Italy was impacted by two significant earthquakes, collect
 
 ## Estimated and observed ground shaking
 
-The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was 0.5 g, observed at Carpi (Modena). If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./20120520_M5.8_EmiliaRomagna/4_OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./20120520_M5.8_EmiliaRomagna/4_OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -49,13 +49,13 @@ A summary of the main consequences of the event is available in the [earthquake_
 
 | Attribute | Value |
 |:-------|:-------------|
-| Fatalities | 7-26 |
-| Injured | 50-350 |
+| Fatalities | 26-28 |
+| Injured | 300-350 |
 | Displaced population | ~15000 |
-| Affected population | 11050-15000 |
+| Affected population | 11000-45000 |
 | Affected units | nan |
-| Damaged units | nan |
+| Damaged units | 12000-16500 Buildings |
 | Collapsed units | nan |
-| Economic losses | 10000 M EUR -15800 M USD |
+| Economic losses | 15800 M USD |
 | Insured losses | 1300 M USD |
-| Earthquake-triggered effects | nan |
+| Earthquake-triggered effects | Liquefaction |

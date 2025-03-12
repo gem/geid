@@ -3,7 +3,7 @@
 
 # 📂 The repository
 
-This repository hosts detailed information about the 1992 M5.3 Roermond earthquake.
+This repository hosts detailed information about the 1992 M5.3 Roermond earthquake in The Netherlands.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1992 Roermond earthquake` occurred on April 13, 1992, at 3:20 local time, with a moment magnitude (Mw) of 5.3 and a maximum intensity of VIII on the Modified Mercalli Intensity (MMI) scale. The earthquake's epicenter was located near Roermond in the southeastern Netherlands. Roermond and nearby areas in the Dutch Limburg province, along with parts of neighboring Germany, were the most affected regions. Economic losses exceeded 50 million USD, mainly due to extensive damage to buildings and infrastructure. Fortunately, no fatalities were reported, though around 20 people sustained injuries. Liquefaction was observed in some areas close to the epicenter; however, there were no reports of landslides, tsunamis, or fires. The earthquake was preceded by a series of minor foreshocks and followed by aftershocks, the largest of which had a magnitude of 3.9. This event remains one of the most significant seismic occurrences in the Netherlands' history.
+The `1992 Roermond earthquake` occurred on April 13, 1992, at 3:20 local time, with a moment magnitude (Mw) of 5.3 and a maximum intensity of VIII on the Modified Mercalli Intensity (MMI) scale. The earthquake's epicenter was located near Roermond in the southeastern Netherlands. Roermond and nearby areas in the Dutch Limburg province, along with parts of neighboring Germany, were the most affected regions. Economic losses exceeded 50 million USD. Fortunately, no fatalities were reported, though around 45 people sustained injuries. There were reports of landslides and liquefaction triggered by the earthquake, though no evidence of fires or tsunamis was observed. This event remains one of the most significant seismic occurrences in the Netherlands' history.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -36,7 +36,7 @@ The `1992 Roermond earthquake` occurred on April 13, 1992, at 3:20 local time, w
 
 ## Estimated and observed ground shaking
 
-The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum reported Peak Ground Acceleration (PGA) was 0.25 g. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./4_OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./4_OpenQuake_gmfs/median_gmf_stations_all.png" height="250">
@@ -49,13 +49,13 @@ A summary of the main consequences of the event is available in the [earthquake_
 
 | Attribute | Value |
 |:-------|:-------------|
-| Fatalities | nan |
-| Injured | 20-45 |
+| Fatalities | 0 |
+| Injured | 45-46 |
 | Displaced population | nan |
 | Affected population | ~1500 |
 | Affected units | nan |
-| Damaged units | nan |
+| Damaged units | ~150 Buildings |
 | Collapsed units | nan |
 | Economic losses | 50-100 M USD |
 | Insured losses | nan |
-| Earthquake-triggered effects | nan |
+| Earthquake-triggered effects | Landslides, liquefaction |

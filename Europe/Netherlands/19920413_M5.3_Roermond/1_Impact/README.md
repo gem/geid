@@ -19,5 +19,18 @@ _Note: When available, building-level information is included._
 
 Check the definitions of the parameters used in the impact files in the [impact metadata section](https://gitlab.openquake.org/risk/ecd/-/blob/main/metadata.md#impact-data).
 
-
 ## Notes
+
+## References
+
+### Detailed online databases
+
+### Publications
+
+### Global databases / references
+
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5319)
+
+### National databases / references
+
+### Other useful references

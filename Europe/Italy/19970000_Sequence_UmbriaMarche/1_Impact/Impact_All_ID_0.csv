@@ -1,4 +1,6 @@
 ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-ITA,Italy,14,14,100,,,,80000,,Buildings,4524000000,,,USD,,,NOAA,
-ITA,Italy,11,11,100,,,,80000,,Buildings,5106000000,,,USD,,,ISAAC,https://isaacantisismica.com/il-terremoto-di-umbria-e-marche-del-1997/
+ITA,Italy,14,14,100,,,,80000,,Dwellings,4524000000,,,USD,,,NOAA,
+ITA,Italy,11,11,100,,,,,,,,,,,,,ISAAC,https://isaacantisismica.com/il-terremoto-di-umbria-e-marche-del-1997/
 ITA,Italy,11,11,100,,,,,,,,,,,,,Da.Do,
+ITA,Italy,,,,,,,,,,,1.17E+10,,EUR,,,Consiglio Nazionale Ingegneri (CNI),
+ITA,Italy,,,,,,,30000,,Buildings,,,,,,,Dolce et al. (2018),

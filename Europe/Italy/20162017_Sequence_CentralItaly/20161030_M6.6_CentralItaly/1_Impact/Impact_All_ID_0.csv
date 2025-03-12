@@ -1,0 +1,4 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+ITA,Italy,,,9,100000,,,,,,,,,,,,News: La Repubblica,"https://www.repubblica.it/cronaca/2016/10/30/news/terremoto_rieti-150898762/?ref=HREA-1, 30000 homeless"
+ITA,Italy,,,20,,22272,,,,,200000000,,,USD,,,EMDAT,200 Million losses between this event and the other one in the month.
+ITA,Italy,2,,20,100000,,,,,,200000000,,,USD,,,NOAA,"Two people died from heart attacks. 200,000,000 USD in damages, probably combined with event on 26 Oct 2016."

@@ -1,0 +1,100 @@
+﻿ID_2,NAME_2,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,D0,D1,D2,D3,D4,D5,TOTAL,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS,
+,"Augusta		",37.231,15.221,M1,,,,1,0,0,0,0,0,1,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Augusta		",37.231,15.221,M2,,,,23,0,0,0,0,0,23,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a high percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Augusta		",37.231,15.221,M3,,,,3,1,0,0,0,0,4,1,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a low percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Augusta		",37.231,15.221,M4,,,,12,13,3,2,1,0,31,13,3,2,1,0,Buildings,Shaking,Colombi et al. (CEQID),Irregular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Augusta		",37.231,15.221,M5,,,,154,59,25,5,0,1,244,59,25,5,0,1,Buildings,Shaking,Colombi et al. (CEQID),Regular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Augusta		",37.231,15.221,RC,,,,236,28,10,3,2,0,279,28,10,3,2,0,Buildings,Shaking,Colombi et al. (CEQID),Reinforced concrete structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Augusta		",37.231,15.221,ST,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Steel Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Augusta		",37.231,15.221,MX,,,,38,9,5,1,0,0,53,9,5,1,0,0,Buildings,Shaking,Colombi et al. (CEQID),Mixed Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Carlentini		",37.274,15.015,M1,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Carlentini		",37.274,15.015,M2,,,,1,0,0,0,0,0,1,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a high percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Carlentini		",37.274,15.015,M3,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a low percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Carlentini		",37.274,15.015,M4,,,,64,42,22,11,2,1,142,42,22,11,2,1,Buildings,Shaking,Colombi et al. (CEQID),Irregular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Carlentini		",37.274,15.015,M5,,,,510,306,204,120,50,7,1197,306,204,120,50,7,Buildings,Shaking,Colombi et al. (CEQID),Regular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Carlentini		",37.274,15.015,RC,,,,216,9,5,1,1,0,232,9,5,1,1,0,Buildings,Shaking,Colombi et al. (CEQID),Reinforced concrete structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Carlentini		",37.274,15.015,ST,,,,2,1,0,0,0,0,3,1,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Steel Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Carlentini		",37.274,15.015,MX,,,,136,38,24,13,8,0,219,38,24,13,8,0,Buildings,Shaking,Colombi et al. (CEQID),Mixed Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Francofonte		",37.23,4.88,M1,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Francofonte		",37.23,4.88,M2,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a high percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Francofonte		",37.23,4.88,M3,,,,2,0,1,0,0,0,3,0,1,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a low percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Francofonte		",37.23,4.88,M4,,,,11,7,6,8,0,0,32,7,6,8,0,0,Buildings,Shaking,Colombi et al. (CEQID),Irregular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Francofonte		",37.23,4.88,M5,,,,141,35,26,6,6,0,214,35,26,6,6,0,Buildings,Shaking,Colombi et al. (CEQID),Regular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Francofonte		",37.23,4.88,RC,,,,45,1,0,0,0,0,46,1,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Reinforced concrete structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Francofonte		",37.23,4.88,ST,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Steel Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Francofonte		",37.23,4.88,MX,,,,18,2,2,0,0,0,22,2,2,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Mixed Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Lentini		",37.285,14.998,M1,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Lentini		",37.285,14.998,M2,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a high percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Lentini		",37.285,14.998,M3,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a low percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Lentini		",37.285,14.998,M4,,,,17,7,8,4,2,0,38,7,8,4,2,0,Buildings,Shaking,Colombi et al. (CEQID),Irregular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Lentini		",37.285,14.998,M5,,,,188,61,82,18,3,0,352,61,82,18,3,0,Buildings,Shaking,Colombi et al. (CEQID),Regular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Lentini		",37.285,14.998,RC,,,,96,16,7,3,0,0,122,16,7,3,0,0,Buildings,Shaking,Colombi et al. (CEQID),Reinforced concrete structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Lentini		",37.285,14.998,ST,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Steel Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Lentini		",37.285,14.998,MX,,,,65,20,3,4,1,0,93,20,3,4,1,0,Buildings,Shaking,Colombi et al. (CEQID),Mixed Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Melilli		",37.179,15.127,M1,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Melilli		",37.179,15.127,M2,,,,1,0,0,0,0,0,1,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a high percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Melilli		",37.179,15.127,M3,,,,1,0,0,0,0,0,1,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a low percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Melilli		",37.179,15.127,M4,,,,117,119,64,68,9,0,377,119,64,68,9,0,Buildings,Shaking,Colombi et al. (CEQID),Irregular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Melilli		",37.179,15.127,M5,,,,23,38,13,5,2,1,82,38,13,5,2,1,Buildings,Shaking,Colombi et al. (CEQID),Regular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Melilli		",37.179,15.127,RC,,,,43,2,0,0,0,0,45,2,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Reinforced concrete structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Melilli		",37.179,15.127,ST,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Steel Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Melilli		",37.179,15.127,MX,,,,32,24,3,3,1,0,63,24,3,3,1,0,Buildings,Shaking,Colombi et al. (CEQID),Mixed Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Noto		",36.89,5.07,M1,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Noto		",36.89,5.07,M2,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a high percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Noto		",36.89,5.07,M3,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a low percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Noto		",36.89,5.07,M4,,,,108,79,11,7,0,0,205,79,11,7,0,0,Buildings,Shaking,Colombi et al. (CEQID),Irregular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Noto		",36.89,5.07,M5,,,,60,16,3,0,2,3,84,16,3,0,2,3,Buildings,Shaking,Colombi et al. (CEQID),Regular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Noto		",36.89,5.07,RC,,,,3,0,0,0,0,0,3,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Reinforced concrete structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Noto		",36.89,5.07,ST,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Steel Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Noto		",36.89,5.07,MX,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Mixed Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Siracusa		",37.082,15.285,M1,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Siracusa		",37.082,15.285,M2,,,,1,0,0,0,0,0,1,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a high percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Siracusa		",37.082,15.285,M3,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a low percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Siracusa		",37.082,15.285,M4,,,,30,79,38,6,5,3,161,79,38,6,5,3,Buildings,Shaking,Colombi et al. (CEQID),Irregular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Siracusa		",37.082,15.285,M5,,,,108,94,47,21,2,1,273,94,47,21,2,1,Buildings,Shaking,Colombi et al. (CEQID),Regular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Siracusa		",37.082,15.285,RC,,,,37,2,4,0,0,0,43,2,4,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Reinforced concrete structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Siracusa		",37.082,15.285,ST,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Steel Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Siracusa		",37.082,15.285,MX,,,,16,18,8,0,0,0,42,18,8,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Mixed Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Sortino		",37.156,15.027,M1,,,,2,0,0,0,0,0,2,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Sortino		",37.156,15.027,M2,,,,1,0,0,0,0,0,1,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a high percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Sortino		",37.156,15.027,M3,,,,1,0,0,0,0,0,1,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Artificial masonry structures with a low percentage of voids,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Sortino		",37.156,15.027,M4,,,,3,1,1,2,0,0,7,1,1,2,0,0,Buildings,Shaking,Colombi et al. (CEQID),Irregular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Sortino		",37.156,15.027,M5,,,,122,18,32,30,0,0,202,18,32,30,0,0,Buildings,Shaking,Colombi et al. (CEQID),Regular natural masonry structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Sortino		",37.156,15.027,RC,,,,27,0,0,0,0,0,27,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Reinforced concrete structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Sortino		",37.156,15.027,ST,,,,0,0,0,0,0,0,0,0,0,0,0,0,Buildings,Shaking,Colombi et al. (CEQID),Steel Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,"Sortino		",37.156,15.027,MX,,,,10,1,0,1,0,0,12,1,0,1,0,0,Buildings,Shaking,Colombi et al. (CEQID),Mixed Structures,Slight: D1; Moderate: D2; Extensive: D3; Complete: D4; Collapse: D5.
+,Augusta,,,,,,1511,,,,,,,,,,,1511,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Avola,,,,,,151,,,,,,,,,,,151,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Buccheri,,,,,,4,,,,,,,,,,,4,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Buscemi,,,,,,3,,,,,,,,,,,3,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Canicattini Bagni,,,,,,5,,,,,,,,,,,5,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Carlentini,,,,,,1595,,,,,,,,,,,1595,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Cassaro,,,,,,4,,,,,,,,,,,4,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Ferla,,,,,,11,,,,,,,,,,,11,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Floridia,,,,,,11,,,,,,,,,,,11,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Francofonte,,,,,,143,,,,,,,,,,,143,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Lentini,,,,,,579,,,,,,,,,,,579,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Melilli,,,,,,509,,,,,,,,,,,509,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Noto,,,,,,180,,,,,,,,,,,180,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Pachino,,,,,,24,,,,,,,,,,,24,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Priolo Gargallo,,,,,,26,,,,,,,,,,,26,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Rosolini,,,,,,7,,,,,,,,,,,7,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Siracusa,,,,,,309,,,,,,,,,,,309,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Solarino,,,,,,2,,,,,,,,,,,2,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Sortino,,,,,,59,,,,,,,,,,,59,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Aci Catena,,,,,,12,,,,,,,,,,,12,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Caltagirone,,,,,,19,,,,,,,,,,,19,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Catania,,,,,,473,,,,,,,,,,,473,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Grammichele,,,,,,7,,,,,,,,,,,7,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Licodia Eubea,,,,,,4,,,,,,,,,,,4,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Maletto,,,,,,1,,,,,,,,,,,1,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Militello,,,,,,129,,,,,,,,,,,129,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Mineo,,,,,,22,,,,,,,,,,,22,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Motta S. Anastasia,,,,,,8,,,,,,,,,,,8,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Palagonia,,,,,,58,,,,,,,,,,,58,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Ramacca,,,,,,13,,,,,,,,,,,13,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Scordia,,,,,,134,,,,,,,,,,,134,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,S.Giovanni La Punta,,,,,,1,,,,,,,,,,,1,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Santa Venerina,,,,,,1,,,,,,,,,,,1,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Tremestieri Etneo,,,,,,2,,,,,,,,,,,2,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,
+,Vizzini,,,,,,45,,,,,,,,,,,45,,Buildings,Shaking,Catenacci (1992),Those buildings were reported as unusable.,

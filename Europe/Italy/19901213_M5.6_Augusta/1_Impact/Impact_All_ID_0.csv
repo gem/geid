@@ -1,0 +1,5 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+ITA,Italy,13,13,,13217,,,6103,,Buildings,,,,,,,Catenacci (1992),"This reference reported 6103 unusable buildings (public, private, schools)."
+ITA,Italy,19,19,200,,,,,,,500000000,657626800,,USD,,,NOAA,
+ITA,Italy,17,17,,15000,,,7104,,Buildings,,,,,,,Blueplanetearth,http://www.blueplanetheart.it/2017/12/13-dicembre-1990-terremoto-santa-lucia-mw-5-6-colpisce-duramente-siracusano/
+ITA,Italy,18,18,300,14834,,,7104,,Buildings,,1.61E+11,,ITL,,,CFTI5Med,"This reference reported 7104 unusable buildings (public, private, schools)."

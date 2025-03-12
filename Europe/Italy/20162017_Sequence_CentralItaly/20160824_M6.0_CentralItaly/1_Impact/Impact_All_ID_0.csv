@@ -1,0 +1,8 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+ITA,Italy,,,,,,,,,,1000000000-10000000000,,,USD,,,Royal Gazzette,https://www.royalgazette.com/re-insurance/article/20160901/reinsurers-face-up-to-166m-italy-quake-loss/
+ITA,Italy,299,299,388,4500,,,,,,,,,,,,News: Rai,"https://www.rainews.it/archivio-rainews/articoli/terremoto-299-vittime-morta-donna-ricoverata-6f42bd7f-3de1-42a8-9649-9d725fb509ff.html
+https://www.independent.co.uk/news/world/europe/italy-earthquake-death-toll-reaches-278-amatrice-a7212156.html
+https://st.ilsole24ore.com/art/notizie/2016-09-08/terremoto-curcio-4500-tende-ma-presto-via-li-le-casette-7-mesi-115052.shtml?uuid=ADnS26GB"
+ITA,Italy,299,299,368,4000,,,,,,5000000000,,,USD,,,NOAA,
+ITA,Italy,296,296,400,4454,,,,,,5000000000,5645000000,75000000,USD,,,EMDAT,
+ITA,Italy,,,,,,,,,,24300000000,,,EUR,,,Protezione Civile,

@@ -1,6 +1,6 @@
 ID_1,NAME_1,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,DS1_SLIGHT,DS2_MODERATE,LIGHT_DAMAGE,DS3_EXTENSIVE,MEDIUM_DAMAGE,DS4_COMPLETE,HEAVY_DAMAGE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
-5,Paphos,,,,3500,,1700,1700,1300,1300,500,500,,Buildings,,"Kalogeras, Ioannis & Stavrakakis, G. & Solomi, K.. (1999). The October 9,1996 earthquake in Cyprus: Seismological, macroseismic and strong motion data. Annals of Geophysics. 42. 10.4401/ag-3702. ",
-2,Limassol,,,,5000,,3000,3000,1500,1500,500,500,,Buildings,,"Kalogeras, Ioannis & Stavrakakis, G. & Solomi, K.. (1999). The October 9,1996 earthquake in Cyprus: Seismological, macroseismic and strong motion data. Annals of Geophysics. 42. 10.4401/ag-3702. ",
-3,Larnaka,,,,400,,300,300,90,90,10,10,,Buildings,,"Kalogeras, Ioannis & Stavrakakis, G. & Solomi, K.. (1999). The October 9,1996 earthquake in Cyprus: Seismological, macroseismic and strong motion data. Annals of Geophysics. 42. 10.4401/ag-3702. ",
-1,Nicosia,,,,700,,400,400,250,250,50,50,,Buildings,,"Kalogeras, Ioannis & Stavrakakis, G. & Solomi, K.. (1999). The October 9,1996 earthquake in Cyprus: Seismological, macroseismic and strong motion data. Annals of Geophysics. 42. 10.4401/ag-3702. ",
-4,Famagusta,,,,1,,,,1,1,,,,Buildings,,"Kalogeras, Ioannis & Stavrakakis, G. & Solomi, K.. (1999). The October 9,1996 earthquake in Cyprus: Seismological, macroseismic and strong motion data. Annals of Geophysics. 42. 10.4401/ag-3702. ",
+5,Paphos,,,,3500,,1700,1700,1300,1300,500,500,,Buildings,,Kalogeras et al. (1999),
+2,Limassol,,,,5000,,3000,3000,1500,1500,500,500,,Buildings,,Kalogeras et al. (1999),
+3,Larnaka,,,,400,,300,300,90,90,10,10,,Buildings,,Kalogeras et al. (1999),
+1,Nicosia,,,,700,,400,400,250,250,50,50,,Buildings,,Kalogeras et al. (1999),
+4,Famagusta,,,,1,,,,1,1,,,,Buildings,,Kalogeras et al. (1999),

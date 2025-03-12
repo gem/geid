@@ -27,13 +27,16 @@ For this particular event most of the building damage data was collected and agg
 ## References
 
 ### Detailed online databases
-- AMSI: Archivio Storico Macrosismico Italiano. Information including location of the event from different sources, studies of the event and shakemaps. Open access. 
-https://emidius.mi.ingv.it/ASMI/event/19801123_1834_000
-- Da.DO: Database di Danno Osservato. Piattaforma del Dipartamento della Protezione Civile, sviluppata dalla Fondazione Eucentre. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato
-- PAGERCAT. Allen, T. I., Marano, K. D., Earle, P. S., & Wald, D. J. (2009). PAGER-CAT: A composite earthquake catalog for calibrating global fatality models. Seismological Research Letters, 80(1), 57-62. Available in: https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/
+- Archivio Storico Macrosismico Italiano (AMSI). Information including location of the event from different sources, studies of the event and shakemaps. Open access. Rovida A, Locati M, Antonucci A, Camassi R (a cura di) (2017). Archivio Storico Macrosismico Italiano (ASMI). Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://emidius.mi.ingv.it/ASMI/event/19801123_1834_000
+- Catalogo dei Forti Terremoti in Italia (461 a.C.-1997) e nell’area Mediterranea (760 a.C.-1500) (CFTI5Med). Information including location of the event from different sources, studies of the event and shakemaps. Open access. Guidoboni E, Ferrari G, Mariotti D, Comastri A, Tarabusi G, Sgattoni G, Valensise G (2018). CFTI5Med, Catalogo dei Forti Terremoti in Italia (461 a.C.-1997) e nell’area Mediterranea (760 a.C.-1500). Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://storing.ingv.it/cfti/cfti5/quake.php?41752IT
+- Database di Danno Osservato (Da.DO). Platform of the Italian Department of Civil Protection, developed by Eucentre Foundation. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato Dolce M, Speranza E, Giordano F, Borzi B, Bocchi F, Conte C, Di Meo A, Faravelli M, Pascale V (2019). Observed damage database of past Italian earthquakes: the Da. DO WebGIS. Bollettino di Geofisica Teorica ed Applicata, 60(2). https://doi.org/10.4430/bgta0254
+- PAGER-CAT. Allen TI, Marano KD, Earle PS, Wald DJ (2009). PAGER-CAT: A composite earthquake catalog for calibrating global fatality models. Seismological Research Letters, 80(1):57-62. https://doi.org/10.1785/gssrl.80.1.57
 
 ### Publications
-- The Scientific Landscape of November 23rd, 1980 Irpinia-Basilicata Earthquake: Taking Stock of (Almost) 40 Years of Studies https://www.mdpi.com/2076-3263/10/12/482
+- Consiglio Nazionale degli Ingegneri (CNI). I costi del terremoti in Italia. https://www.cni.it/images/News/2016/I_costi_dei_terremoti_in_Italia.pdf
+- Gizzi FT, Potenza MR (2020). The scientific landscape of November 23rd, 1980 Irpinia-Basilicata Earthquake: Taking stock of (almost) 40 years of studies. Geosciences, 10(12):482. https://doi.org/10.3390/geosciences10120482
+- Commissione Parlamentare D’Inchiesta. 1991—Commissione Parlamentare D’inchiesta Sulla Attuazione Degli Interventi per la Ricostruzione e lo Sviluppo dei Territori Della Basilicata e Della Campania Colpiti dai Terremoti del Novembre 1980 e Febbraio 1981, Relazione Conclusiva e Propositiva, Vol. I, Tomo I. 1991 (In Italian). http://www.senato.it/leg/10/BGT/Schede/docnonleg/30412.htm
+
 
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ay4/executive) 
@@ -42,6 +45,6 @@ https://emidius.mi.ingv.it/ASMI/event/19801123_1834_000
 - [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/4903)
 
 ### National databases / references
-- Terremoto80 (INGV) http://terremoto80.ingv.it
+- Terremoto80 (INGV). http://terremoto80.ingv.it
 
 ### Other useful references
