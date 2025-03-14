@@ -1,18 +1,18 @@
 ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-SLV,El Salvador,844,844,4723,,1329806,,,,,1500000000,290000000,USD,Landslides,,EM_DAT,"Geo Locations: Ahuachapan, Cabanas, Chalatenango, La Liberta,  La Paz, La Unio, Moraza, San Miguel, San Salvador, San Vicent, Santa Ana, Sonsonate, Usulutan (Adm1).  ECONOMIC_LOSSES indicates direct and indirect economic loss."
-SLV,El Salvador,844,844,4723,,,,169632,108226,Buildings,753000000,,USD,"Landslides, Tsunami",,NOAA,BUILDINGS_COLLAPSED refers to homes. ECONOMIC_LOSSES indicates direct economic loss.
-SLV,El Salvador,844,844,4723,,,,150000,108226,Buildings,,,,Landslides,,USGS,About 585 of the deaths were caused by large landslides in Nueva San Salvador and Comasagua. BUILDINGS_COLLAPSED refers to homes.
-SLV,El Salvador,944,944,5565,68777,1364160,,150000-277953,108261,Buildings,1255400000,,USD,,,Wikipedia,BUILDINGS_COLLAPSED refers to homes. ECONOMIC_LOSSES indicates direct and indirect economic loss.
-SLV,El Salvador,844,844,4723,,1329806,,169632,108226,Buildings,1255400000,,USD,,,Reliefweb,BUILDINGS_COLLAPSED refers to homes. ECONOMIC_LOSSES indicates direct and indirect economic loss.
-SLV,El Salvador,944,944,,,,,,,,,,,,,Vallee_et_al_2003,
-SLV,El Salvador,944,944,,,,,,108671,Dwellings,,,,,,MARN,"Damage includes 1155 public buildings damaged, 108,261 homes destroyed, 19 hospitals damaged, 405 churches damaged, 445 collapses"
-SLV,El Salvador,800,800,,,,,,,,1280000000,,USD,,,Learning_from_Earthquakes,ECONOMIC_LOSSES indicates direct and indirect economic loss.
-SLV,El Salvador,844,844,4723,,1329806,,,,,1255400000,,USD,,,Guevara_et_al_2005,ECONOMIC_LOSSES indicates direct and indirect economic loss.
+SLV,El Salvador,844,359,4723,,1329806,,,,,1500000000,290000000,USD,Landslides,,EM_DAT,"Geo Locations: Ahuachapan, Cabanas, Chalatenango, La Liberta,  La Paz, La Unio, Moraza, San Miguel, San Salvador, San Vicent, Santa Ana, Sonsonate, Usulutan (Adm1).  ECONOMIC_LOSSES indicates direct and indirect economic loss. 485 fatalities were due to thre Santa Tecla landslide"
+SLV,El Salvador,844,359,4723,,,,169632,108226,Buildings,753000000,,USD,"Landslides, Tsunami",,NOAA,BUILDINGS_COLLAPSED refers to homes. ECONOMIC_LOSSES indicates direct economic loss. 485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,844,359,4723,,,,150000,108226,Buildings,,,,Landslides,,USGS,About 585 of the deaths were caused by large landslides in Nueva San Salvador and Comasagua. BUILDINGS_COLLAPSED refers to homes. 485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,944,459,5565,68777,1364160,,150000-277953,108261,Buildings,1255400000,,USD,,,Wikipedia,BUILDINGS_COLLAPSED refers to homes. ECONOMIC_LOSSES indicates direct and indirect economic loss. 485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,844,359,4723,,1329806,,169632,108226,Buildings,1255400000,,USD,,,Reliefweb,BUILDINGS_COLLAPSED refers to homes. ECONOMIC_LOSSES indicates direct and indirect economic loss. 485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,944,459,,,,,,,,,,,,,Vallee_et_al_2003,485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,944,459,,,,,,108671,Dwellings,,,,,,MARN,"Damage includes 1155 public buildings damaged, 108,261 homes destroyed, 19 hospitals damaged, 405 churches damaged, 445 collapses. 485 fatalities were due to thre Santa Tecla landslide"
+SLV,El Salvador,800,315,,,,,,,,1280000000,,USD,,,Learning_from_Earthquakes,ECONOMIC_LOSSES indicates direct and indirect economic loss. 485 fatalities were due to thre Santa Tecla landslide. 485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,844,359,4723,,1329806,,,,,1255400000,,USD,,,Guevara_et_al_2005,ECONOMIC_LOSSES indicates direct and indirect economic loss. 485 fatalities were due to thre Santa Tecla landslide
 SLV,El Salvador,,,5645,,,,,108261,Buildings,,,,,,Diario_ElSalvador,
-SLV,El Salvador,683,683,3440,,,,84682,38628,Buildings,,,,,,AUST,
-SLV,El Salvador,844,844,4723,,,,,,,,,,,,Keppler_et_al_2001,
-SLV,El Salvador,1500,1500,,,1500000,,,,,2000000000,,USD,,,SWI,
-SLV,El Salvador,704-844,704-844,4055-4723,45857,,,105618,70401-75000,Buildings,,,,,,Yushimura_et_al_2001,
-SLV,El Salvador,943,943,5264,81486,1692942,,157053,102684,Buildings,,,,,,Desinventar,
-SLV,El Salvador,944,944,5565,68777,1364160,,172046,108261,Buildings,,,,,,ProteccionCivil,
-SLV,El Salvador,827,827,4520,,1160316,222773,130005,92768,Buildings,1255500000,,USD,,,CEPAL,ECONOMIC_LOSSES indicates direct and indirect economic loss.
+SLV,El Salvador,683,198,3440,,,,84682,38628,Buildings,,,,,,AUST,485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,844,359,4723,,,,,,,,,,,,Keppler_et_al_2001,485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,1500,1015,,,1500000,,,,,2000000000,,USD,,,SWI,485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,704-844,219-359,4055-4723,45857,,,105618,70401-75000,Buildings,,,,,,Yushimura_et_al_2001,485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,943,458,5264,81486,1692942,,157053,102684,Buildings,,,,,,Desinventar,485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,944,459,5565,68777,1364160,,172046,108261,Buildings,,,,,,ProteccionCivil,485 fatalities were due to thre Santa Tecla landslide
+SLV,El Salvador,827,342,4520,,1160316,222773,130005,92768,Buildings,1255500000,,USD,,,CEPAL,ECONOMIC_LOSSES indicates direct and indirect economic loss. 485 fatalities were due to thre Santa Tecla landslide.
