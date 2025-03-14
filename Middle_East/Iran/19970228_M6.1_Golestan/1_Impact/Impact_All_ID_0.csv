@@ -1,9 +1,9 @@
 ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,HOMELESS,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,DAMAGED_OR_DESTROYED,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
 IRN,Iran,1100,1100,2600,,,,,,,,,,,,,,UTSU,
-IRN,Iran,1100,1100,2600,,,,,,12000,,Buildings,76000000,,USD,,,NOAA,12000 “houses” destroyed.
-IRN,Iran,>965,>965,>2000,,,36000,,12000,,12000,Buildings,,,,,,IIEES,12000 “houses” damaged or destroyed.
-IRN,Iran,1100,1100,2600,,,36000,,12000,,12000,Buildings,,,,,,USGS,12000 “houses” damaged or destroyed.
+IRN,Iran,1100,1100,2600,,,,,,12000,,Buildings,76000000,,USD,,,NOAA,12000 houses destroyed.
+IRN,Iran,>965,>965,>2000,,,36000,,12000,,12000,Buildings,,,,,,IIEES,12000 houses damaged or destroyed.
+IRN,Iran,1100,1100,2600,,,36000,,12000,,12000,Buildings,,,,,,USGS,12000 houses damaged or destroyed.
 IRN,Iran,1100,1100,2600,,,36000,,12000,,12000,Buildings,,,,,,USGS_Archive,
 IRN,Iran,1100,1100,2600,,38600,36000,,,,,,76000000,,USD,,,EM-DAT,
-IRN,Iran,954,954,2600,,,,,,13500,,Buildings,130000000,,IRR,,,Berberian_Book_2014,Direct Economic loss is 130 M IRR. Moreover  it mentioned that 13500 “houses” destroyed.
+IRN,Iran,954,954,2600,,,,,,13500,,Buildings,132000000,,IRR,,,Berberian_Book_2014,Direct Economic loss is 130 M IRR. Moreover  it mentioned that 13500 houses destroyed.
 IRN,Iran,965,965,2600,,453756,,,,,,,,,,,,MScThesis_Tabasian,
