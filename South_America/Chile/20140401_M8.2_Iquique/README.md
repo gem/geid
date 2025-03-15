@@ -3,7 +3,7 @@
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 2014 M8.2 Iquique earthquake.
 
 Available information in the folders:
 

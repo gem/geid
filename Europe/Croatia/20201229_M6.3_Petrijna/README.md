@@ -1,9 +1,9 @@
-# 🌎 2020 M6.4 Petrijna earthquake
+# 🌎 2020 M6.3 Petrijna earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 2020 M6.3 Petrijna earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `2020 Petrinja earthquake`, with a magnitude of M6.4, struck central Croatia on December 29, 2020, at 12:19 local time. This powerful event reached a maximum intensity of IX on the Modified Mercalli Intensity (MMI) scale. The epicenter was near the town of Petrinja, approximately 47 kilometers southeast of Zagreb. The earthquake caused extensive destruction in Petrinja and the surrounding areas, including the cities of Sisak and Glina, where numerous buildings sustained severe damage or were completely destroyed. The economic losses were estimated at over 4187 million USD. Tragically, the earthquake claimed at least 8 lives and left over 36 people injured. Liquefaction was observed in the affected region, compounding the structural damage; however, no landslides, tsunamis, or fires were reported. The mainshock was preceded by foreshocks, notably a M5.2 event on December 28, and followed by a series of aftershocks, the largest being a M4.9 tremor later on the same day.
+The `2020 Petrinja earthquake`, with a magnitude of M6.3, struck central Croatia on December 29, 2020, at 12:19 local time. This powerful event reached a maximum intensity of IX on the Modified Mercalli Intensity (MMI) scale. The epicenter was near the town of Petrinja, approximately 47 kilometers southeast of Zagreb. The earthquake caused extensive destruction in Petrinja and the surrounding areas, including the cities of Sisak and Glina, where numerous buildings sustained severe damage or were completely destroyed. The economic losses were estimated at over 4187 million USD. Tragically, the earthquake claimed at least 8 lives and left over 36 people injured. Liquefaction was observed in the affected region, compounding the structural damage; however, no landslides, tsunamis, or fires were reported. The mainshock was preceded by foreshocks, notably a M5.2 event on December 28, and followed by a series of aftershocks, the largest being a M4.9 tremor later on the same day.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `2020 Petrinja earthquake`, with a magnitude of M6.4, struck central Croatia
 | Latitude (decimal degrees) | 45.4244 |
 | Longitude (decimal degrees) | 16.2573 |
 | Depth (km) | 10 |
-| Mw | 6.4 |
+| Mw | 6.3 |
 | Max Intensity (MMI) | IX |
 | Fault mechanism | Reverse |
 | Tectonic region type | Active Shallow Crust |

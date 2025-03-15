@@ -3,7 +3,7 @@
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2005 M7.2 Kashmir earthquake in Pakistan.
+This repository hosts detailed information about the 2005 M7.6 Kashmir earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `2005 Pakistan earthquake` occurred on 8 October at 08:50 local time, registering a moment magnitude of 7.6 in the region of Azad Jammu and Kashmir. The epicenter, located near Muzaffarabad in northern Pakistan, experienced a maximum intensity of IX on the Modified Mercalli Intensity (MMI) scale. The most heavily impacted regions included Azad Jammu and Kashmir and parts of northern Pakistan, with cities such as Muzaffarabad, Rawalakot, and Bagh suffering significant devastation. The earthquake resulted in over 74000 fatalities and left more than 75000 individuals injured. The economic impact was substantial, with losses exceeding $5000 million USD. The region also faced severe landslides that blocked key roads, hindering rescue efforts, although no tsunamis or fires were reported. Liquefaction was observed in several areas, compounding the damage. Aftershocks followed the main event, exacerbating the strain on already fragile infrastructure.
+The `2005 Pakistan earthquake` occurred on 8 October at 08:50 local time, registering a moment magnitude of 7.6 in the region of Azad Kashmir. The epicenter, located near Muzaffarabad in northern Pakistan, experienced a maximum intensity of IX on the Modified Mercalli Intensity (MMI) scale. The most heavily impacted regions included Azad Kashmir and parts of northern Pakistan, with cities such as Muzaffarabad, Rawalakot, and Bagh suffering significant devastation. The earthquake resulted in over 74000 fatalities and left more than 75000 individuals injured. The economic impact was substantial, with losses exceeding $5000 million USD. The region also faced severe landslides that blocked key roads, hindering rescue efforts, although no tsunamis or fires were reported. Liquefaction was observed in several areas, compounding the damage. Aftershocks followed the main event, exacerbating the strain on already fragile infrastructure.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
