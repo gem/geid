@@ -51,11 +51,11 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Attribute | Value |
 |:-------|:-------------|
 | Fatalities | ~0 |
-| Injured | 2-2256 |
+| Injured | 100 |
 | Displaced population | nan |
 | Affected population | ~300002 |
 | Affected units | nan |
-| Damaged units | nan |
+| Damaged units | 460 |
 | Collapsed units | nan |
 | Economic losses | 6500 M USD |
 | Insured losses | 2000-5000 M USD |
