@@ -13,7 +13,7 @@ Available information in the folders:
 4. OpenQuake_gmfs
 
 
-# 🚀 The earthquake at a glance 
+# 🚀 The earthquake at a glance
 
 The `2016 Bukoba earthquake` in Tanzania occurred on September 10, 2016, at 15:27 local time, with a magnitude of 5.9 and very strong (VII) shaking along the border between Tanzania and Uganda. The earthquake's epicenter was located near Bukoba, in the Kagera Region of northwestern Tanzania, close to the borders with Uganda and Rwanda. The most affected regions included Bukoba Town, the Kagera Region, and surrounding areas, extending into parts of Uganda. The earthquake caused significant damage to infrastructure, homes, and businesses, resulting in economic losses estimated at approximately 458 million USD (at the time of the event). Tragically, the event led to at least 21 fatalities and around 440 injuries. In addition to the structural damage, there were reports of landslides in the affected areas, although no liquefaction, tsunamis, or fires were observed as a result of the earthquake.
 
@@ -36,8 +36,7 @@ The `2016 Bukoba earthquake` in Tanzania occurred on September 10, 2016, at 15:2
 
 ## Estimated and observed ground shaking
 
-The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
-
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was 0.103g, observed near Lake Victoria, Tanzania. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 <img src="./4_OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./4_OpenQuake_gmfs/median_gmf_stations_all.png" height="250">
 
@@ -49,8 +48,8 @@ A summary of the main consequences of the event is available in the [earthquake_
 
 | Attribute | Value |
 |:-------|:-------------|
-| Fatalities | 21-23 |
-| Injured | ~440 |
+| Fatalities | 19-23 |
+| Injured | 252-440 |
 | Displaced population | 590-10000 |
 | Affected population | ~139161 |
 | Affected units | nan |
