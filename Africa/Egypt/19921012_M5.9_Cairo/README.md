@@ -13,7 +13,7 @@ Available information in the folders:
 4. OpenQuake_gmfs
 
 
-# 🚀 The earthquake at a glance 
+# 🚀 The earthquake at a glance
 
 The `1992 Cairo earthquake` struck Egypt on October 12, 1992, at at 13:08 local time, with an estimated magnitude of Mw 5.9 and severe shaking measured at intensity VIII. The earthquake's epicenter was located near Dahshur, approximately 35 kilometers south of Cairo. The quake caused significant damage in Cairo and the surrounding areas, particularly in neighborhoods such as Helwan and rural villages near the epicenter. It resulted in at least 545 fatalities, injured over 6500 people, and left many homeless. Economic losses were estimated at more than $1200 million USD (at the time of the event). The earthquake was followed by several aftershocks, as summarized in studies by Badawy and Mónus (1995). The event caused widespread building collapses and structural damage. Liquefaction was reported in areas near the epicenter. However, there were no reports of landslides, tsunamis, or fires associated with the earthquake.
 
@@ -36,7 +36,7 @@ The `1992 Cairo earthquake` struck Egypt on October 12, 1992, at at 13:08 local 
 
 ## Estimated and observed ground shaking
 
-The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was 0.232g, observed near Cairo. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./4_OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./4_OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
