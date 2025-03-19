@@ -1,9 +1,9 @@
-# 🌎 1999 M7.2 Duzce earthquake
+# 🌎 1999 M6.71 Duzce earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 1999 M6.71 Duzce earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1999 Düzce earthquake`, a magnitude 7.2 event, struck northwestern Turkey on November 12, 1999, at 18:57 local time. The epicenter was located near the city of Düzce, along the North Anatolian Fault. This powerful earthquake followed the devastating İzmit earthquake that occurred earlier that year. The Düzce earthquake caused significant damage and loss of life, although the impact was less severe than the İzmit event. The death toll was estimated at around 845, and 4948 injuries were reported. Economic losses were roughly 1000 million USD, and the earthquake triggered numerous landslides and some localized liquefaction.
+The `1999 Düzce earthquake`, a magnitude 6.71 event, struck northwestern Turkey on November 12, 1999, at 18:57 local time. The epicenter was located near the city of Düzce, along the North Anatolian Fault. This powerful earthquake followed the devastating İzmit earthquake that occurred earlier that year. The Düzce earthquake caused significant damage and loss of life, although the impact was less severe than the İzmit event. The death toll was estimated at around 845, and 4948 injuries were reported. Economic losses were roughly 1000 million USD, and the earthquake triggered numerous landslides and some localized liquefaction.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `1999 Düzce earthquake`, a magnitude 7.2 event, struck northwestern Turkey 
 | Latitude (decimal degrees) | 40.758 |
 | Longitude (decimal degrees) | 31.161 |
 | Depth (km) | 10 |
-| Mw | 7.2 |
+| Mw | 6.71 |
 | Max Intensity (MMI) | IX |
 | Fault mechanism | Strike-slip |
 | Tectonic region type | Active Shallow Crust |

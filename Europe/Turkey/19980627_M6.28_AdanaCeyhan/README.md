@@ -1,9 +1,9 @@
-# 🌎 1998 M6.3 AdanaCeyhan earthquake
+# 🌎 1998 M6.28 AdanaCeyhan earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 1998 M6.28 AdanaCeyhan earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1998 Adana–Ceyhan earthquake` struck at 16:55 local time on June 27, 1998. This magnitude 6.3 event, centered near the cities of Adana and Ceyhan, caused widespread damage in southern Turkey. The earthquake resulted in significant casualties, with around 145 fatalities and over 1500 injuries reported. Substantial economic losses, estimated at over 550 million USD, were incurred. The ground shaking was intense, reaching a maximum intensity of VIII on the Modified Mercalli Intensity scale. While no tsunamis were generated, the earthquake triggered numerous landslides and some localized liquefaction.
+The `1998 Adana–Ceyhan earthquake` struck at 16:55 local time on June 27, 1998. This magnitude 6.28 event, centered near the cities of Adana and Ceyhan, caused widespread damage in southern Turkey. The earthquake resulted in significant casualties, with around 145 fatalities and over 1500 injuries reported. Substantial economic losses, estimated at over 550 million USD, were incurred. The ground shaking was intense, reaching a maximum intensity of VIII on the Modified Mercalli Intensity scale. While no tsunamis were generated, the earthquake triggered numerous landslides and some localized liquefaction.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `1998 Adana–Ceyhan earthquake` struck at 16:55 local time on June 27, 1998
 | Latitude (decimal degrees) | 36.878 |
 | Longitude (decimal degrees) | 35.307 |
 | Depth (km) | 33 |
-| Mw | 6.3 |
+| Mw | 6.28 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Strike-slip |
 | Tectonic region type | Active Shallow Crust |

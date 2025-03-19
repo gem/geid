@@ -1,9 +1,9 @@
-# 🌎 1995 M6.6 KozaniGrevena earthquake
+# 🌎 1995 M6.5 KozaniGrevena earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 1995 M6.5 KozaniGrevena earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `1995 Kozani-Grevena earthquake` struck on May 13, 1995, at 11:47 local time, with a magnitude of 6.6 (Mw) and a maximum Mercalli Intensity (MMI) of VIII. Its epicenter was located near Kozani in northern Greece. The earthquake primarily impacted the areas of Kozani and Grevena, causing extensive damage in nearby villages. Economic losses were significant, estimated at approximately $450 million USD, due to widespread destruction of buildings and infrastructure. Despite the earthquake's strength, the human toll was remarkably low, with only 26 fatalities and around 25 reported injuries. Notably, there were no instances of liquefaction, tsunamis, or major landslides, underscoring the event's relatively limited secondary impacts. This earthquake remains a significant example of a high-magnitude event with minimal loss of life.
+The `1995 Kozani-Grevena earthquake` struck on May 13, 1995, at 11:47 local time, with a magnitude of 6.5 (Mw) and a maximum Mercalli Intensity (MMI) of VIII. Its epicenter was located near Kozani in northern Greece. The earthquake primarily impacted the areas of Kozani and Grevena, causing extensive damage in nearby villages. Economic losses were significant, estimated at approximately $450 million USD, due to widespread destruction of buildings and infrastructure. Despite the earthquake's strength, the human toll was remarkably low, with only 26 fatalities and around 25 reported injuries. Notably, there were no instances of liquefaction, tsunamis, or major landslides, underscoring the event's relatively limited secondary impacts. This earthquake remains a significant example of a high-magnitude event with minimal loss of life.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `1995 Kozani-Grevena earthquake` struck on May 13, 1995, at 11:47 local time
 | Latitude (decimal degrees) | 40.149 |
 | Longitude (decimal degrees) | 21.695 |
 | Depth (km) | 14 |
-| Mw | 6.6 |
+| Mw | 6.5 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Normal |
 | Tectonic region type | Active Shallow Crust |

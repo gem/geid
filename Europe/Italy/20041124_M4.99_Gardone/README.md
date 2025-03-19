@@ -1,9 +1,9 @@
-# 🌎 2004 M5.1 Gardone earthquake
+# 🌎 2004 M4.99 Gardone earthquake
 [[_TOC_]]
 
 # 📂 The repository
 
-This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
+This repository hosts detailed information about the 2004 M4.99 Gardone earthquake.
 
 Available information in the folders:
 
@@ -15,7 +15,7 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-The `2004 Gardone earthquake` struck northern Italy on November 24, 2004, at approximately 23:59 local time, with a moment magnitude (Mw) of 5.1. The earthquake registered a Maximum Mercalli Intensity (MMI) of VIII, signifying strong shaking that caused notable disruptions. The epicenter was located near Gardone Val Trompia in the Lombardy region, with the most severe impacts felt in nearby towns such as Sarezzo and other areas within the province of Brescia. The event caused significant structural damage, resulting in economic losses estimated at 215 million EUR, though no fatalities were reported. Minor injuries were documented, but the region avoided secondary hazards such as liquefaction, tsunamis, or substantial landslides, which could have worsened the situation. Despite its moderate magnitude, the earthquake served as a reminder of the seismic risks present in the region.
+The `2004 Gardone earthquake` struck northern Italy on November 24, 2004, at approximately 23:59 local time, with a moment magnitude (Mw) of 4.99. The earthquake registered a Maximum Mercalli Intensity (MMI) of VIII, signifying strong shaking that caused notable disruptions. The epicenter was located near Gardone Val Trompia in the Lombardy region, with the most severe impacts felt in nearby towns such as Sarezzo and other areas within the province of Brescia. The event caused significant structural damage, resulting in economic losses estimated at 215 million EUR, though no fatalities were reported. Minor injuries were documented, but the region avoided secondary hazards such as liquefaction, tsunamis, or substantial landslides, which could have worsened the situation. Despite its moderate magnitude, the earthquake served as a reminder of the seismic risks present in the region.
 
 | FIELD | DESCRIPTION |
 |:-------|:-------------|
@@ -28,7 +28,7 @@ The `2004 Gardone earthquake` struck northern Italy on November 24, 2004, at app
 | Latitude (decimal degrees) | 45.626 |
 | Longitude (decimal degrees) | 10.559 |
 | Depth (km) | 17.2 |
-| Mw | 5.1 |
+| Mw | 4.99 |
 | Max Intensity (MMI) | VIII |
 | Fault mechanism | Reverse |
 | Tectonic region type | Active Shallow Crust |
