@@ -57,5 +57,5 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Damaged units | 8300-9350  |
 | Collapsed units | nan |
 | Economic losses | 1200-4000 M USD |
-| Insured losses | nan |
+| Insured losses | ~50-100 M USD |
 | Earthquake-triggered effects | Liquefaction |
