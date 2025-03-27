@@ -1,17 +1,18 @@
-ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,LIGHT_INJURY,BAD_INJURY,SLIGHTLY_INJURED,SEVERELY_INJURED,INJURIES_LIGHT ,INJURIES_SEVERE ,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,DESTROYED_HOUSES,DAMAGED_OR_DESTROYED,SLIGHTLY_DAMAGED,MODERATELY_DAMAGED,SEVERELY_DAMAGED,LIGHT,MODERATE,HEAVY,DS1_SLIGHT ,DS2_MODERATE ,DS3_EXTENSIVE,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-IDN,Indonesia,1117,,1214,,,,,,,451000,,,181665,,,181665,,,,,,,,,,Buildings,2300000000,,USD,"Landslides, Tsunami",,USGS,
-IDN,Indonesia,1117,,1214,,,,,,,,,,,,,,,,,,,,,,,,,,,"Landslides, Tsunami",,UTSU,
-IDN,Indonesia,1117,,1214,,,,,,,,,,,181665,181665,,,,,,,,,,,Buildings,2200000000,,,Tsunami,,NOAA,
-IDN,Indonesia,1195,,1798,,,,,,,,2500000,,,,,,,,,,,,,,,,2200000000,100000000,USD,"Landslides, Tsunami",,EM-DAT,"Geo Locations: Agam, Kepulauan Mentawai, Kerinci, Kota Bukitinggi, Kota Padang, Kota Padangpanjang, Kota Pariaman, Kota Pasaman, Kota Pasaman Barat, Kota Payakumbuh, Kota Sawahlunto, Kota Solok, Limapuluhkoto, Merangin, Padangpariaman, Pesisir Selatan, Sawahlunto/sijunjung, Solok, Solok Selatan, Tanahdatar (Adm2)."
-IDN,Indonesia,1115-1118,,2180,,,1688,1214,1688,1214,,,,,,,,78604,65380,135448,,,,78604,65380,135448,Buildings,,,,"Landslides, Tsunami",,Antara_News,"An estimated 250,000 families (1,250,000 people) have been affected by the earthquake through the total or partial loss of their homes and livelihoods."
-IDN,Indonesia,,,,,,,,,,,1250000,,,,,,,,,,,,,,,,,,,,,Reliefweb ,
-IDN,Indonesia,1195,,,,,,,,,,1200000,,144000,,,,,,,,,,,,,Buildings ,,,,"Landslides, Tsunami",,Learning_From_Earthquakes,"The earthquake caused 1,195
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,LIGHT_INJURY,BAD_INJURY,SLIGHTLY_INJURED,SEVERELY_INJURED,MODERATELY_INJURED,SERIOUSLY_INJURED,INJURIES_LIGHT ,INJURIES_SEVERE ,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,DESTROYED_HOUSES,DAMAGED,SLIGHTLY_DAMAGED,MODERATELY_DAMAGED,SEVERELY_DAMAGED,LIGHT,MODERATE,HEAVY,DS1_SLIGHT ,DS2_MODERATE ,DS3_EXTENSIVE,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+IDN,Indonesia,1117,,1214,,,,,,,,,451000,,,181665,,,181665,,,,,,,,,,Buildings,2300000000,,USD,"Landslides, Tsunami",,USGS,
+IDN,Indonesia,1117,,1214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Landslides, Tsunami",,UTSU,
+IDN,Indonesia,1117,,1214,,,,,,,,,,,,,181665,181665,,,,,,,,,,,Buildings,2200000000,,,Tsunami,,NOAA,
+IDN,Indonesia,1195,,1798,,,,,,,,,,2500000,,,,,,,,,,,,,,,,2200000000,100000000,USD,"Landslides, Tsunami",,EM-DAT,"Geo Locations: Agam, Kepulauan Mentawai, Kerinci, Kota Bukitinggi, Kota Padang, Kota Padangpanjang, Kota Pariaman, Kota Pasaman, Kota Pasaman Barat, Kota Payakumbuh, Kota Sawahlunto, Kota Solok, Limapuluhkoto, Merangin, Padangpariaman, Pesisir Selatan, Sawahlunto/sijunjung, Solok, Solok Selatan, Tanahdatar (Adm2)."
+IDN,Indonesia,1115-1118,,2180,,,1688,1214,,,1688,1214,,,,,,,,78604,65380,135448,,,,78604,65380,135448,Buildings,,,,"Landslides, Tsunami",,Antara_News,"An estimated 250,000 families (1,250,000 people) have been affected by the earthquake through the total or partial loss of their homes and livelihoods."
+IDN,Indonesia,,,,,,,,,,,,,1250000,,,,,,,,,,,,,,,,,,,,,Reliefweb ,
+IDN,Indonesia,1195,,,,,,,,,,,,1200000,,144000,,,,,,,,,,,,,Buildings ,,,,"Landslides, Tsunami",,EERI Report Learning_From_Earthquakes,"The earthquake caused 1,195
 deaths and significant damage to
 about 140,000 houses and 4,000
 other buildings. Landslides in the outlying rural
 mountain areas buried several villages,
 damaged roads, and caused
 over 600 deaths."
-IDN,Indonesia,1115,,,1688,1214,,,1688,1214,,,,,,,,,,,67838,67198,114797,67838,67198,114797,Buildings,,,,,,Preventionweb,note that there was a landslide that buried three villages. The fatalities and damages are not separated out by earthquake and landslide. 
-IDN,Indonesia,1117,,,1688,1214,,,1688,1214,,,,,,,,,,,78591,65306,135299,78591,65306,135299,Buildings,,,,,,Sengara_et_al_2010,
-IDN,Indonesia,1100,,2181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Prasetya_And_Daryono_eds_2019,
+IDN,Indonesia,1115,,,1688,1214,,,,,1688,1214,,,,,,,,,,,67838,67198,114797,67838,67198,114797,Buildings,,,,,,Preventionweb,note that there was a landslide that buried three villages. The fatalities and damages are not separated out by earthquake and landslide. 
+IDN,Indonesia,1117,,,1688,1214,,,,,1688,1214,,,,,,,,,,,78591,65306,135299,78591,65306,135299,Buildings,,,,,,Sengara_et_al_2010,
+IDN,Indonesia,1100,,2181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Prasetya_And_Daryono_eds_2019,
+IDN,Indonesia,1117,,2900,,,,,1688,1214,1688,1214,,,250000,,,115000,135000,,,,,,,,,,,2.30E+09,,,,,BNPD et al 2009,Over 88 percent of all damage and losses are of a private nature.

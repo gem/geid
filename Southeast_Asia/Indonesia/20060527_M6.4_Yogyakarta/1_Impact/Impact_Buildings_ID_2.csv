@@ -1,0 +1,23 @@
+NAME_1,NAME_2,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,Totally destroyed,Heavily damaged,Lightly damaged,Moderate Damaged,Severe damaged,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+Yogyakarta Province,Bantul,,,,"79,889","26,045","29,582","24,262",,,"24,262",8874.6,"20,707","26,045",,Buildings,,BAPPENAS_et_al_2006,Housing damage
+Yogyakarta Province,Sleman,,,,"49,032","4,719","14,403","29,910",,,"29,910",4320.9,"10,082","4,719",,Buildings,,BAPPENAS_et_al_2007,Housing damage
+Yogyakarta Province,Gunung Kidul ,,,,"33,038","11,323","5,355","16,360",,,"16,360",1606.5,"3,749","11,323",,Buildings,,BAPPENAS_et_al_2008,Housing damage
+Yogyakarta Province,Yogyakarta City,,,,"8,422","1,948","4,119","2,355",,,"2,355",1235.7,"2,883","1,948",,Buildings,,BAPPENAS_et_al_2009,Housing damage
+Yogyakarta Province,Kulon Progo ,,,,"16,210","3,485","4,726","7,999",,,"7,999",1417.8,"3,308","3,485",,Buildings,,BAPPENAS_et_al_2010,Housing damage
+Central Java ,Klaten,,,,"166,665","27,270","55,112","84,283",,,"84,283",16533.6,"38,578","27,270",,Buildings,,BAPPENAS_et_al_2011,Housing damage
+Central Java ,Sukoharjo,,,,"1,673",46,"1,627",0,,,0,488.1,"1,139",46,,Buildings,,BAPPENAS_et_al_2012,Housing damage
+Central Java ,Magelang,,,,"1,227",179,456,592,,,592,136.8,319,179,,Buildings,,BAPPENAS_et_al_2013,Housing damage
+Central Java ,Purworejo,,,,904,9,193,702,,,702,57.9,135,9,,Buildings,,BAPPENAS_et_al_2014,Housing damage
+Central Java ,Boyolali,,,,"1,539",276,626,637,,,637,187.8,438,276,,Buildings,,BAPPENAS_et_al_2015,Housing damage
+Central Java ,Wonogiri,,,,93,15,11,67,,,67,3.3,8,15,,Buildings,,BAPPENAS_et_al_2016,Housing damage
+Yogyakarta Province,Kab.Bantul,,,,,,,,"73,669","71,372",,,,,"71,763",Buildings,,Idham_And_Mohd_2018,
+Yogyakarta Province,Kab.Sleman,,,,,,,,"49,065","27,687",,,,,"19,113",Buildings,,Idham_And_Mohd_2018,
+Yogyakarta Province,Kodya Yogyakarta,,,,,,,,"21,230","14,561",,,,,"7,186",Buildings,,Idham_And_Mohd_2018,
+Yogyakarta Province,Kab.Gunung Kidul,,,,,,,,"18,078","5,950",,,,,"12,581",Buildings,,Idham_And_Mohd_2018,
+Yogyakarta Province,Kulon Progo,,,,,,,,"8,501","5,178",,,,,"4,527",Buildings,,Idham_And_Mohd_2018,
+Central Java ,Klaten,,,,,,,,"98,552","62,979",,,,,"29,988",Buildings,,Idham_And_Mohd_2018,
+Central Java ,Magelang,,,,,,,,546,386,,,,,386,Buildings,,Idham_And_Mohd_2018,
+Central Java ,Boyolali,,,,,,,,708,696,,,,,307,Buildings,,Idham_And_Mohd_2018,
+Central Java ,Purworejo,,,,,,,,780,214,,,,,10,Buildings,,Idham_And_Mohd_2018,
+Central Java ,Sukorharjo,,,,,,,,"2,476","1,808",,,,,51,Buildings,,Idham_And_Mohd_2018,
+Central Java ,Wonogiri,,,,,,,,74,12,,,,,17,Buildings,,Idham_And_Mohd_2018,
