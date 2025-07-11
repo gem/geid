@@ -2,9 +2,43 @@
 
 You can contribute by improving the information available for a given event(s), or you can include a new one.
 
-The folder [src](./src/) include ipython notebooks that facilitate the collection of the information and its formating.
+To help with this process, the [src](./src/) folder contains Jupyter notebooks that facilitate both the collection and formatting of event information.
 
-If you are familiar working with `git` repositories, open a pull request with the new information, and follow the standards and recomendations in the sections below. Otherwise, you can email your information to _risk@globalquakemodel.org_.
+
+🔁 Two Ways to Contribute
+
+1. Via GitHub (Recommended for Users Familiar with Git)
+If you're comfortable using GitHub:
+
+    1. Fork this repository by clicking the "Fork" button at the top right of the page.
+    2. Clone your fork to your computer:
+    
+          >git clone "URL-for-GitHub-repository"
+
+    3. Create a new branch for your contribution:
+
+          >git checkout -b add-new-event
+
+    4. Make your changes to the appropriate .csv files or notebooks. Please follow the structure and standards described in this repository.
+
+    5. Commit and push your changes:
+    
+          >git commit -am "Add data for [Event Name]"
+          >git push origin add-new-event
+
+    6. Open a Pull Request (PR) on GitHub and provide a brief description of your contribution.
+
+     📘 New to GitHub? See:
+
+     GitHub Docs: [Fork Repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+
+     GitHub Docs: [About Pull Requests](https://docs.github.com/en/pull-requests)
+
+2. By Email
+If you're not familiar with Git, you can email your information to _risk@globalquakemodel.org_.
+Make sure to include enough detail and, if possible, refer to the existing data structure for consistency.
+
+💬 What Makes a Valuable Contribution?
 
 To include a new earthquake scenario, at least, the following information needs to be collected:
 
@@ -86,7 +120,7 @@ _NOTE 2: The notebook is experimental and it only supports simple planar surface
 - For the other sources of information, prepare the OpenQuake rupture file and save it as `earthquake_rupture_model_SourceName.xml`.<br>
 _NOTE 1: Multiple rupture definitions are available at <http://equake-rc.info/SRCMOD/searchmodels/allevents/>. The finite source rupture geometry, if not explicitly indicated, can be inferred from the FSP (`*.fsp`) link._<br>
 _NOTE 2: Other sources of information about ruptures are: Global CMT, ISC, IRIS, SCARDEC, JMA, geofon-GFZ, geoscope ipgp._<br>
-_NOTE 3: If only the nodal plane solutions are available, you can use the [IPT](https://platform.openquake.org/ipt/) to generate the fault plane. It uses the Wells and Coppersmith (1984) equations suggested in Table 2A.
+_NOTE 3: If rupture geometry was not available, we used the [IPT](https://platform.openquake.org/ipt/) to generate the fault plane, which relies on the magnitude scaling relationships of Wells and Coppersmith (1994), assuming a length-to-width aspect ratio of 2. To reproduce this, refer to the src folder and use the `test.py` and `build_rupture_plane.py` scripts. These may require adjustments depending on the available rupture data (e.g., length, width, surface).
 
 - The notebook `2_2_ruptures_readme_.ipynb`:
      - Generates the plot `earthquake_ruptures.png`
@@ -199,6 +233,8 @@ When collecting data, consider:
 
 - Report range of values with no spaces (e.g `10-25` or `>230`) and numbers without commas or dots (e.g. `1200` instead of `1,200`).
 
+- In the dataset, blank cells indicate missing or unavailable information and they should not be interpreted as zero. These values reflect cases where the original data source did not report a value. 
+
 The section helps to clarify FAQs regarding impact data collection.
 
 ### 4.1 Human impact
@@ -272,6 +308,19 @@ This value is only reported when the source of reference explicitly indicates "d
 - If the reference includes multiple currencies, then a row per currency is required
 - The losses do not account for the "recovery" cost
 - If there is information regarding the source of the loss, e.g. direct loss, indirect, etc, report it in different columns.
+
+### 4.4 Minimum Required Impact Metrics
+To ensure consistency and usefulness of the dataset, we aim to collect at least the following core impact metrics for each event, as defined in the `earthquake_information.csv` file:
+- Fatalities
+- Injured
+- Displaced population
+- Affected population
+- Affected units
+- Damaged units
+- Collapsed units
+- Economic losses
+
+These attributes represent the minimum expected information when contributing new events. Contributors are encouraged to provide as much detail as possible, ideally at the finest geographical resolution available.
 
 ## 5. Final details
 - Update this database, figure and home README using the notebook `6_ecd_readme.ipynb`

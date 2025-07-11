@@ -59,3 +59,6 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Economic losses | 422.7-660 M USD |
 | Insured losses | 0.2 M USD |
 | Earthquake-triggered effects | nan |
+
+# 🌟 Contributors 
+We would like to thank Sevgi Özcebe for her support and contributions to the events in Europe.

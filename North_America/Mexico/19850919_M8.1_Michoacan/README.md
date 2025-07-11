@@ -59,3 +59,6 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Economic losses | 3000-8000 M USD |
 | Insured losses | nan |
 | Earthquake-triggered effects | Landslides, Tsunami, Liquefaction |
+
+# 🌟 Contributors 
+We acknowledge funding support from SURA, which contributed to the development of data for the events in Mexico.

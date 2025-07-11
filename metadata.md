@@ -156,3 +156,5 @@ Currency units are based on the source of reference and reported in the `CURRENC
 reference and reported in the `CURRENCY` column. Values unadjusted for inflation.
 
 - **CURRENCY:** Currency units for economic impact, following the [ISO3 code](https://www.iso.org/iso-4217-currency-codes.html) (e.g., USD, EUR, etc).
+
+_Note: In the dataset, blank cells indicate missing or unavailable information and they should not be interpreted as zero. These values reflect cases where the original data source did not report a value. 

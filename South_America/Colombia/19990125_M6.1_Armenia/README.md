@@ -59,3 +59,6 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Economic losses | 1500-2630 M USD |
 | Insured losses | 100-150 M USD |
 | Earthquake-triggered effects | Landslides |
+
+# 🌟 Contributors 
+We acknowledge funding support from SURA, which contributed to the development of data for South and Central America.
