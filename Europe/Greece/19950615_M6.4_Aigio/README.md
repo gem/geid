@@ -61,4 +61,4 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Earthquake-triggered effects | nan |
 
 # 🌟 Contributors 
-We would like to thank Sevgi Özcebe for her support and contributions to the events in Europe.
+We would like to thank Sevgi Özcebe for her support and contributions to the events in Europe. We would like to thank  Maria Camila Hoyos for her valuable contributions to the improvement of this event.

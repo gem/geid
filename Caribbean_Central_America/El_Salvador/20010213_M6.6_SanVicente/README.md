@@ -61,5 +61,5 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Earthquake-triggered effects | Landslides |
 
 # 🌟 Contributors 
-We acknowledge the valuable contribution of Luis Mixco from MARN in El Salvador for providing detailed information on the 2001 El Salvador earthquakes, which helped improve the accuracy and completeness of the data for these events.
+We acknowledge the valuable contribution of Luis Mixco from MARN and Manuel Lopez from UES (University of El Salvador) in El Salvador for providing detailed information on the 2001 El Salvador earthquakes, which helped improve the accuracy and completeness of the data for these events.
 We also acknowledge funding support from SURA, which contributed to the development of data for South and Central America.
