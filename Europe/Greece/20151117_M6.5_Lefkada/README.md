@@ -59,3 +59,6 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Economic losses | 20 M USD |
 | Insured losses | nan |
 | Earthquake-triggered effects | Landslides, rock falls, road cracks, ground subsidence, liquefaction |
+
+# 🌟 Contributors 
+We would like to thank Sevgi Özcebe for her support and contributions to the events in Europe.
