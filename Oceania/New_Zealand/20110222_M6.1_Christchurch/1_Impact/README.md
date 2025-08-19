@@ -30,15 +30,21 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 ### Publications
 
+- **Kam_et_al_2010:** Kam WY, Pampanin S, Dhakal R, Gavin HP, Roeder C (2010). Seismic performance of reinforced concrete buildings in the September 2010 Darfield (Canterbury) earthquake. Bulletin of the New Zealand Society for Earthquake Engineering, 43(4):340-350. https://doi.org/10.5459/bnzsee.43.4.340-350.
+
+- **Cubrinovski_et_al_2011:** Cubrinovski M, Bradley B, Wotherspoon L et al. (2011). Geotechnical aspects of the 22 February 2011 Christchurch earthquake. 
+Bulletin of New Zealand Society for Earthquake Engineering, 44(4):205-226. https://doi.org/10.5459/bnzsee.44.4.205-226
+
 - **Ingham_and_Griffith_2011:** Ingham JM, Griffith MC (2011). The performance of earthquake strengthened URM buildings in the Christchurch CBD in the 22 February 2011 earthquake. Addendum Report to the Royal Commission of Inquiry.
 
 - **Johnston_et_al_2014:** Johnston D, Standring S, Ronan K, Lindell M, Wilson T, Cousins J, Aldridge E, Ardagh MW, Deely JM, Jensen S, Kirsch T, Bissell R (2014). The 2010/2011 Canterbury earthquakes: context and cause of injury. Natural Hazards, 73:627-637. https://doi.org/10.1007/s11069-014-1094-7.
 
-- **Kam_et_al_2010:** Kam WY, Pampanin S, Dhakal R, Gavin HP, Roeder C (2010). Seismic performance of reinforced concrete buildings in the September 2010 Darfield (Canterbury) earthquake. Bulletin of the New Zealand Society for Earthquake Engineering, 43(4):340-350. https://doi.org/10.5459/bnzsee.43.4.340-350.
-
 - **Lin_et_al_2014:** Lin SL, Uma S, Nayyerloo M, Buxton R, King A (2014). Engineering characterisation of building performance with detailed engineering evaluation (DEE) data from the Canterbury earthquake sequence. ASEC 2014 Conference, Structural Engineering in Australasia–World Standards (Auckland, New Zealand). Data available online at: http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=75&pid=32&prcid=17&ppid=600.
 
 - **Moon_et_al_2014:** Moon L, Dizhur D, Senaldi I, Derakhshan H, Griffith M, Magenes G, Ingham J (2014). The demise of the URM building stock in Christchurch during the 2010–2011 Canterbury earthquake sequence. Earthquake Spectra, 30(1):253-276. https://doi.org/10.1193/022113EQS044M.
+
+- **Colbert_et_al_2022:** Colbert J, Sila-Nowicka K, Yao J (2022). Driving forces of population change following the Canterbury Earthquake Sequence, New
+Zealand: A multiscale geographically weighted regression approach. Population, Space and Place, 28(8).  https://doi.org/10.1002/psp.2583
 
 
 ### Global databases / references
