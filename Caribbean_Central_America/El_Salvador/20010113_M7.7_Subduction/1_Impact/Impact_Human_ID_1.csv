@@ -1,29 +1,29 @@
 ID_1,NAME_1,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,REFERENCE,COMMENTS
-SV01,Ahuachapán,,,247,75.0,71086.0,"Shaking, Landslides",,ProteccionCivil
-SV02,Cabañas,,,7,,2997.0,"Shaking, Landslides",,ProteccionCivil
-SV04,Cuscatlán,20.0,20.0,43,22.0,38119.0,"Shaking, Landslides",,ProteccionCivil
-SV03,Chalatenango,,,4,,1250.0,"Shaking, Landslides",,ProteccionCivil
-SV05,La Libertad,685.0,685.0,2183,23155.0,147708.0,"Shaking, Landslides",,ProteccionCivil
-SV06,La Paz,44.0,44.0,147,278.0,232135.0,"Shaking, Landslides",,ProteccionCivil
-SV07,La Unión,1.0,1.0,8,1.0,13094.0,"Shaking, Landslides",,ProteccionCivil
-SV08,Morazán,,,3,,498.0,"Shaking, Landslides",,ProteccionCivil
-SV09,San Miguel,19.0,19.0,43,50.0,76665.0,"Shaking, Landslides",,ProteccionCivil
-SV10,San Salvador,24.0,24.0,391,6596.0,107083.0,"Shaking, Landslides",,ProteccionCivil
-SV11,San Vicente,29.0,29.0,81,10.0,103086.0,"Shaking, Landslides",,ProteccionCivil
-SV12,Santa Ana,47.0,47.0,327,7524.0,112561.0,"Shaking, Landslides",,ProteccionCivil
-SV13,Sonsonate,48.0,48.0,1295,6927.0,101487.0,"Shaking, Landslides",,ProteccionCivil
-SV14,Usulután,27.0,27.0,786,24139.0,356391.0,"Shaking, Landslides",,ProteccionCivil
-SV05,La Libertad,527.0,527.0,1025,12357.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV06,La Paz,32.0,32.0,137,278.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV13,Sonsonate,44.0,44.0,1276,3169.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV12,Santa Ana,12.0,12.0,295,684.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV04,Cuscatlán,20.0,20.0,37,22.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV14,Usulután,26.0,26.0,779,24139.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV10,San Salvador,22.0,22.0,306,5197.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV09,San Miguel,19.0,19.0,43,0.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV11,San Vicente,1.0,1.0,53,10.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV07,La Unión,1.0,1.0,10,1.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV01,Ahuachapán,0.0,0.0,80,0.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV02,Cabañas,0.0,0.0,7,0.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV08,Morazán,0.0,0.0,3,0.0,,"Shaking, Landslides",,Yushimura_et_al_2001
-SV03,Chalatenango,0.0,0.0,4,0.0,,"Shaking, Landslides",,Yushimura_et_al_2001
+SV01,Ahuachapán,,,247,75.0,71086.0,Mostly ground shaking,,ProteccionCivil
+SV02,Cabañas,,,7,,2997.0,Mostly ground shaking,,ProteccionCivil
+SV04,Cuscatlán,20.0,20.0,43,22.0,38119.0,Mostly ground shaking,,ProteccionCivil
+SV03,Chalatenango,,,4,,1250.0,Mostly ground shaking,,ProteccionCivil
+SV05,La Libertad,685.0,200.0,2183,23155.0,147708.0,Mostly landslides,,ProteccionCivil
+SV06,La Paz,44.0,44.0,147,278.0,232135.0,Mostly ground shaking,,ProteccionCivil
+SV07,La Unión,1.0,1.0,8,1.0,13094.0,Mostly ground shaking,,ProteccionCivil
+SV08,Morazán,,,3,,498.0,Mostly ground shaking,,ProteccionCivil
+SV09,San Miguel,19.0,19.0,43,50.0,76665.0,Mostly ground shaking,,ProteccionCivil
+SV10,San Salvador,24.0,24.0,391,6596.0,107083.0,Mostly ground shaking,,ProteccionCivil
+SV11,San Vicente,29.0,29.0,81,10.0,103086.0,Mostly ground shaking,,ProteccionCivil
+SV12,Santa Ana,47.0,47.0,327,7524.0,112561.0,Mostly ground shaking,,ProteccionCivil
+SV13,Sonsonate,48.0,48.0,1295,6927.0,101487.0,Mostly ground shaking,,ProteccionCivil
+SV14,Usulután,27.0,27.0,786,24139.0,356391.0,Mostly ground shaking,,ProteccionCivil
+SV05,La Libertad,527.0,42.0,1025,12357.0,,Mostly landslides,,Yushimura_et_al_2001
+SV06,La Paz,32.0,32.0,137,278.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV13,Sonsonate,44.0,44.0,1276,3169.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV12,Santa Ana,12.0,12.0,295,684.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV04,Cuscatlán,20.0,20.0,37,22.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV14,Usulután,26.0,26.0,779,24139.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV10,San Salvador,22.0,22.0,306,5197.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV09,San Miguel,19.0,19.0,43,0.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV11,San Vicente,1.0,1.0,53,10.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV07,La Unión,1.0,1.0,10,1.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV01,Ahuachapán,0.0,0.0,80,0.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV02,Cabañas,0.0,0.0,7,0.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV08,Morazán,0.0,0.0,3,0.0,,Mostly ground shaking,,Yushimura_et_al_2001
+SV03,Chalatenango,0.0,0.0,4,0.0,,Mostly ground shaking,,Yushimura_et_al_2001
