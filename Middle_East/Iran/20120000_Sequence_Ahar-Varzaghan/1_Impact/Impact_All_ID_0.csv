@@ -2,7 +2,7 @@ ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,INJURIES_LIGHT,INJURIE
 IRN,Iran,306,306,3000,,,,,,,,,,,,,,,,,,,599000000,,USD,,,NOAA,
 IRN,Iran,306,306,3000,,,,,,,,,,,,,,,,,,,,,,,,UTSU,
 IRN,Iran,306,306,3000,,,,,,,,,,,,,,,,,,,,,,,,USGS,
-IRN,Iran,306,306,3000-5000,,,36000,,,155000,,18618,,,,,,,,5329,Buildings,,10100000000000,,IRR,,,Wikipedia,Wiki links to the actual references do not work.
+IRN,Iran,306,306,3000-5000,,,36000,,,155000,,18618,,,,,,,,5329,Buildings,,1.01E+13,,IRR,,,Wikipedia,Wiki links to the actual references do not work.
 IRN,Iran,306,306,2006,,,,,,59540,,,,,,,,,,,,,500000000,,USD,,,EM-DAT,"Geo Locations: Ahar, Heris, Tabriz (Adm2)."
 IRN,Iran,306,306,,,,,,,,,,,,,,,,,,,,,,,,,Reliefweb,
 IRN,Iran,327,327,>3000,,,>30000,,,,,,,,,,,,,,,,,,,"Rockfall, Landslides",,Seyed_Razzaghi_And_Ghafory_Ashtiany_2012,
@@ -14,10 +14,10 @@ IRN,Iran,229-306,229-306,>3000,,,,,,,,,,,,,,,,,,,,,,,,Bastami_And_Soghrat_2017,
 IRN,Iran,300,300,4500,,,,,,250000,,72000,,,,,,,72000,,Buildings,,,,,,,Fallahi_2013,
 IRN,Iran,327,327,>3000,,,,,,,,,,,,,,,,,,,,,,,,Ghods_et_al_2015,
 IRN,Iran,300,300,>2000,,,,,,,,15000,,,,,,,,6000,Dwellings,Residential,,,,,,Houshyar_And_Adhami,"The reference indicates fully destroyed 6000 residential units, and 15000 houses were damaged in East Azarbaijan Province that it will be need to rebuild completely."
-IRN,Iran,306,306,3037,,,,30000,,120000-155000,,24095,,,,,,,,,Buildings,Residential,10800000000000,,IRR,,,IIEES,
+IRN,Iran,306,306,3037,,,,30000,,120000-155000,,24095,,,,,,,,,Buildings,Residential,1.08E+13,,IRR,,,IIEES,
 IRN,Iran,327,327,3000,,,,,,,,,,,,,,,,,,,,,,,,IIEES_Report,
 IRN,Iran,306,306,1380,,,,,73516-125280,157403,,11908,,,,,,11908,,,Buildings,,,,,,,IFRC,
-IRN,Iran,306,306,>3000,,,,,,,,,,,,,,,,,,,,,,,,Jaafari-Hajati_And_Agh Atabai_2013,
+IRN,Iran,306,306,>3000,,,,,,,,,,,,,,,,,,,,,,,,Jaafari-Hajati_And_Agh-Atabai_2013,
 IRN,Iran,>300,>300,>2000,,,,,,,,,,,,,,,,,,,,,,,,Karimi_et_al_2016,
 IRN,Iran,>330,>330,>4500,,,,,,,,11908,,,,,,11908,,,Buildings,,,,,,,Mahdi_2014,
 IRN,Iran,254,254,3650,2550,1100,,,,,,,3554,4903,11279,3554,4903,11270,,,,,,,,,,Mansouri_et_al_2014,

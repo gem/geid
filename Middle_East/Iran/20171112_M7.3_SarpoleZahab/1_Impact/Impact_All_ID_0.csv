@@ -2,18 +2,19 @@ ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,A
 IRN,Iran,620,620,6603,70000,,,15000,12000,Buildings,,,,,,USGS,"At least 10 people killed and 500 injured in Halabjah, Iraq. "
 IRN,Iran,630,630,7103,,,,,,,,,,,,UTSU,
 IRN,Iran,630,630,12900,,,,14500,15500,Buildings,750000000,,USD,,,NOAA_Earthquake,
-IRN,Iran,,,,,,,15000-50000,12000-18000,Buildings,,,,,,Gulf_News ,
-IRN,Iran,620-630,620-630,,,,,,,,,,,,,Tasnim_News + IRNA,
+IRN,Iran,430,430,7460,,,,15000-50000,12000-18000,Buildings,,,,,,Gulf_News ,
+IRN,Iran,620-630,620-630,12386,,,,,,,,,,,,Tasnim_News + IRNA,
 IRN,Iran,,,,70000,,,,,,,,,,,The_Economist + Tabnak_News,
 IRN,Iran,,,7000-9388,,,,,,,,,,,,Tasnim_News + The_Economis + BBC + NBC_Washingtone,
 IRN,Iran,,,,,,,,,,5000000000,,EUR,,,Hindustantimes ,
-IRN,Iran,,,,,,,,,,3000000000000-3500000000000,,IRR,,,Wikipedia ,The actual reference is not specified by Wiki.
+,,,,,,,,,,,300000000000-350000000000,,IRR,,,Wikipedia ,
+IRN,Iran,630,630,8100-9388,>70000,,,15000,12000,,5000000000,,EUR,,,Wikipedia ,The actual reference is not specified by Wiki.
 IRN,Iran,629,629,15249,200000,,,79000,16000,Buildings,,,,,,EID,
 IRN,Iran,444,444,9000,,200000,,,,,740000000,,USD,,,EM-DAT,"Geo Locations: Eslamabad-e gharb, Eylam, Gilan-e gharb, Javanrud, Kermanshah, Mehran, Qasr-e shirin, Sar-e pol-e zahab (Adm2)."
 IRN,Iran,621,621,7817,,1645450,,,,,,,,,,MScThesis_Tabasian,
 IRN,Iran,620,620,12386,,,,,,,,,,,,IRNA,
 IRN,Iran,436,436,,,,,,,,,,,,,Alavi_et_al_2018,
-IRN,Iran,621,621,9388,70000,,,90000,,Buildings,,,,,,Ashayeri_et_al_2020,
+IRN,Iran,621,621,9388,70000,,,90000,,Buildings,,,,,,Ashayeri_et_al_2020,"About 38000 residential buildings experienced severe damage, and about 52000 buildings needed remedy."
 IRN,Iran,572,572,,,,,,,,,,,,,BHRC_Report_3,
 IRN,Iran,440,440,>9400,,400000,,30000,,Buildings,,,,,,DRES_Report,
 IRN,Iran,620,620,,,,,,,,,,,,,Firuzi_et_al_2020,
@@ -24,7 +25,9 @@ IRN,Iran,620,620,7000,70000,,,,2000,Buildings,,,,,,JSPS_karimzadeh_2018,Around 2
 IRN,Iran,600,600,,7000,,,,,,,,,,,Zafarani_et_al_2020,
 IRN,Iran,530,530,>7200,,,,,,,,,,Landslides,,Yin_et_al_2019,
 IRN,Iran,660,660,,,,,31000,17000,Buildings,84000000,,USD,,,Saffarzadeh_et_al_2019,"Of 660 death, 518 were from the city of Sarpol Zahab."
-IRN,Iran,,,,,,,,,,26000000000000,,IRR,,,Saffarzadeh_et_al_2019,
+IRN,Iran,,,,,,,,,,2.6E+13,,IRR,,,Saffarzadeh_et_al_2019,"In a preliminary report, the Kermanshah Governorate announced an estimated damage cost of 26 trillion Iranian Rials (IRR) (ca. 84 million US$) to residential, administrative, and infrastructure facilities in the province. This was proportioned as some 8 trillion IRR (ca. 26 million US$) of damage to residential, service, and commercial units of the province, and approximately 18 trillion IRR (ca. 58 million US$) of damage to government buildings and infrastructure."
 IRN,Iran,530,530,7460,,,,,,,,,,,,NYTIMES,
 IRN,Iran,>600,>600,,,,,,,,,,,,,Mahani_et_al_2018,
 IRN,Iran,620,620,7000,70000,,,,,,,,,"Landslides, Rockfalls, Liquefaction",,Miyajima_et_al_2018,
+IRQ,Iraq,10,10,500,,,,,,,,,,,,USGS,
+IRQ,Iraq,7,7,500,,,,,,,,,,,,Wikipedia ,

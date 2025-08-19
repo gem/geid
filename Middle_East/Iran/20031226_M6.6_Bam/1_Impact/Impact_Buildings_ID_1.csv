@@ -1,24 +1,24 @@
-ID_1,NAME_1,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,NO_DAMAGED_UNITS,DAMAGED_UNITS,COMPLETE_COLLAPSE_UNITS,D0_NO_DAMAGE,D1_NEGLIGIBLE_TO_SLIGHT_DAMAGE,D2_MODERATE_DAMAGE,D3_SUBSTANTIAL_TO_HEAVY_DAMAGE,D4_VERY_HEAVY_DAMAGE,D5_DESTRUCTION,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,DS5_COLLAPSED,UNIT_TYPES_ORIGINAL,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
-35533022B6259730729674,Fars,,,,,,44,,,0,44,1633,,,,,,,,,,1633,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
-35533022B31104615707077,Gilan,,,,,,1,,,0,1,1487,,,,,,,,,,1487,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
-35533022B55463835543913,Hormozgan,,,,,,48,,,1,48,1684,,,,,,,,,,1684,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
-35533022B37008061952406,Isfahan ,,,,,,16,,,0,16,896,,,,,,,,,,896,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
-35533022B811098048381,Khorasan,,,,,,198,,,19,198,1324,,,,,,,,,,1324,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
-35533022B43373017713126,Markazi,,,,,,8,,,3,8,1254,,,,,,,,,,1254,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
-35533022B10120991379702,Mazandaran,,,,,,49,,,4,49,1296,,,,,,,,,,1296,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
-35533022B57897798339025,Tehran,,,,,,15,,,1,15,2931,,,,,,,,,,2931,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
-35533022B93788791122013,Yazd,,,,,,78,,,1,78,1873,,,,,,,,,,1873,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
-35533022B91067707197140,Sistan and Baluchestan,,,,,,33,,,1,33,4804,,,,,,,,,,4804,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
-35533022B6259730729674,Fars,,,,,,267,,,9,267,1369,,,,,,,,,,1369,,Others,Ground shaking,Kuwata_et_al_2005,
-35533022B31104615707077,Gilan,,,,,,0,,,0,0,643,,,,,,,,,,643,,Others,Ground shaking,Kuwata_et_al_2005,
-35533022B55463835543913,Hormozgan,,,,,,61,,,3,61,1289,,,,,,,,,,1289,,Others,Ground shaking,Kuwata_et_al_2005,
-35533022B37008061952406,Isfahan ,,,,,,40,,,0,40,317,,,,,,,,,,317,,Others,Ground shaking,Kuwata_et_al_2005,
-35533022B811098048381,Khorasan,,,,,,73,,,48,73,791,,,,,,,,,,791,,Others,Ground shaking,Kuwata_et_al_2005,
-35533022B43373017713126,Markazi,,,,,,25,,,1,25,1536,,,,,,,,,,1536,,Others,Ground shaking,Kuwata_et_al_2005,
-35533022B10120991379702,Mazandaran,,,,,,557,,,14,557,563,,,,,,,,,,563,,Others,Ground shaking,Kuwata_et_al_2005,
-35533022B57897798339025,Tehran,,,,,,54,,,0,54,1164,,,,,,,,,,1164,,Others,Ground shaking,Kuwata_et_al_2005,
-35533022B93788791122013,Yazd,,,,,,313,,,8,313,999,,,,,,,,,,999,,Others,Ground shaking,Kuwata_et_al_2005,
-35533022B91067707197140,Sistan and Baluchestan,,,,,,2536,,,5,2536,1838,,,,,,,,,,1838,,Others,Ground shaking,Kuwata_et_al_2005,
+ID_2,NAME_2,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,NO_DAMAGED_UNITS,DAMAGED_UNITS,COMPLETE_COLLAPSE_UNITS,D0_NO_DAMAGE,D1_NEGLIGIBLE_TO_SLIGHT_DAMAGE,D2_MODERATE_DAMAGE,D3_SUBSTANTIAL_TO_HEAVY_DAMAGE,D4_VERY_HEAVY_DAMAGE,D5_DESTRUCTION,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,DS5_COLLAPSED,UNIT_TYPES_ORIGINAL,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+,Bam,,,,,,44,,,0,44,1633,,,,,,,,,,1633,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
+,Bam,,,,,,1,,,0,1,1487,,,,,,,,,,1487,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
+,Bam,,,,,,48,,,1,48,1684,,,,,,,,,,1684,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
+,Bam,,,,,,16,,,0,16,896,,,,,,,,,,896,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
+,Bam,,,,,,198,,,19,198,1324,,,,,,,,,,1324,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
+,Bam,,,,,,8,,,3,8,1254,,,,,,,,,,1254,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
+,Bam,,,,,,49,,,4,49,1296,,,,,,,,,,1296,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
+,Bam,,,,,,15,,,1,15,2931,,,,,,,,,,2931,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
+,Bam,,,,,,78,,,1,78,1873,,,,,,,,,,1873,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
+,Bam,,,,,,33,,,1,33,4804,,,,,,,,,,4804,,Houses,Ground shaking,Kuwata_et_al_2005,Houses include those partially used for commerce at the first floor as well as residential houses.
+,Bam,,,,,,267,,,9,267,1369,,,,,,,,,,1369,,Others,Ground shaking,Kuwata_et_al_2005,
+,Bam,,,,,,0,,,0,0,643,,,,,,,,,,643,,Others,Ground shaking,Kuwata_et_al_2005,
+,Bam,,,,,,61,,,3,61,1289,,,,,,,,,,1289,,Others,Ground shaking,Kuwata_et_al_2005,
+,Bam,,,,,,40,,,0,40,317,,,,,,,,,,317,,Others,Ground shaking,Kuwata_et_al_2005,
+,Bam,,,,,,73,,,48,73,791,,,,,,,,,,791,,Others,Ground shaking,Kuwata_et_al_2005,
+,Bam,,,,,,25,,,1,25,1536,,,,,,,,,,1536,,Others,Ground shaking,Kuwata_et_al_2005,
+,Bam,,,,,,557,,,14,557,563,,,,,,,,,,563,,Others,Ground shaking,Kuwata_et_al_2005,
+,Bam,,,,,,54,,,0,54,1164,,,,,,,,,,1164,,Others,Ground shaking,Kuwata_et_al_2005,
+,Bam,,,,,,313,,,8,313,999,,,,,,,,,,999,,Others,Ground shaking,Kuwata_et_al_2005,
+,Baravat,,,,,,2536,,,5,2536,1838,,,,,,,,,,1838,,Others,Ground shaking,Kuwata_et_al_2005,
 ,Station_1,29.112,58.367,Adobe,ADO,,,,,,,,0,,,,,16,,,,,16,Buildings,Ground shaking,CEQID + Yoshiaki_Hisada_et_al_2004,
 ,Station_1,29.112,58.367,Simple masonry,M,,,,,,,,0,,,,,19,,,,,19,Buildings,Ground shaking,CEQID + Yoshiaki_Hisada_et_al_2004,
 ,Station_1,29.112,58.367,Masonry with steel frame,MCF+s,,,,,,,,0,,,,,2,,,,,2,Buildings,Ground shaking,CEQID + Yoshiaki_Hisada_et_al_2004,

@@ -1,6 +1,6 @@
 ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
 IRN,Iran,25000,25000,,,40000,,,,,50000000,,USD,,,Zandian_et_al_2016,
-IRN,Iran,20000,20000,,,,,,15000,Buildings,50000000,,USD,,,NOAA,"According to NOAA, 15000 “houses” were destroyed. Those buildings have been considered “dwellings”."
+IRN,Iran,20000,20000,,,,,,15000,Buildings,50000000,,USD,,,NOAA,"According to NOAA, 15000 houses were destroyed. Those buildings have been considered dwellings."
 IRN,Iran,18220,18220,,,,,,,,,,,,,UTSU,
 IRN,Iran,15000-25000,15000-25000,,,,,,,,11000000,,USD,,,PAGER-CAT,
 IRN,Iran,14800-15000,14800-15000,,,,,,,,,,,,,IIEES,
@@ -12,8 +12,8 @@ IRN,Iran,19600,19600,,,,,,,,,,,,,Motamed_et_al_2019,
 IRN,Iran,15000,15000,,,,,,,,,,,,,Mohajer-Ashjai_And_Nowroozi_1979,
 IRN,Iran,20000,20000,,,,,,,,,,,,,Ibrion_et_al_2015,
 IRN,Iran,20000,20000,,,,,,,,,,,,,Berberian_Book_2014,
-IRN,Iran,20000,20000,,,,,,15000,Buildings,,,,,,Berberian_1982,This EQ destroyed over 15 000 “housing” units.
-IRN,Iran,19214-20000,19214-20000,,,,,,15000,Buildings,,,,,,Berberian_1979_b,This EQ destroyed over 15 000 “housing” units.
+IRN,Iran,20000,20000,,,,,,15000,Buildings,,,,,,Berberian_1982,This EQ destroyed over 15000 housing units.
+IRN,Iran,19214-20000,19214-20000,,,,,,15000,Buildings,,,,,,Berberian_1979_b,This EQ destroyed over 15000 housing units.
 IRN,Iran,20000,20000,,,,,,15000,Buildings,,,,,,Berberian_1979_a,
 IRN,Iran,19216,19216,6400,,53994,,,,,,,,,,MScThesis_Tabasian,
 IRN,Iran,25000,25000,,,40000,,,,,50000000,,USD,,,EM-DAT,

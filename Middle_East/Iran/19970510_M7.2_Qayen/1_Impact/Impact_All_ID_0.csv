@@ -2,15 +2,15 @@ ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,H
 IRN,Iran,1567,1567,2300,,50000,,,5474,10533,10533,Buildings,,,,Landslides,,USGS,
 IRN,Iran,1568,1568,2600,,,72000,,,,,,100000000,,USD,,,EM-DAT,
 IRN,Iran,1572,1572,2300,,,,,,,,,,,,,,UTSU,
-IRN,Iran,1567,1567,2300,,50000,,,,15000,15000,Buildings,100000000,,USD,,,USGS_Archive,
-IRN,Iran,1568,1568,2600,,,200166,,,,,,,,,,,MScThesis_Tabasian,12000 “houses” destroyed and 7000 more were damaged.
+IRN,Iran,1567,1567,2300,,50000,,,5474,10533,10533,Buildings,,,,,,USGS_Archive,
+IRN,Iran,1568,1568,2600,,,200166,,,,,,,,,,,MScThesis_Tabasian,12000 houses destroyed and 7000 more were damaged.
 IRN,Iran,>1500,>1500,2600,,,,,7000,12000,12000,Buildings,,,,,,Walker_et_al_2011,
 IRN,Iran,1700,1700,>2300,,,,,,,,,,,,,,Tabassi_And_Abu_Bakar_2008,
 IRN,Iran,1600,1600,,,50000,,,,,,,,,,,,Sudhaus_And_Jonsson_et_al_2010,
 IRN,Iran,1728,1728,2300,,,,,5474,10533,10533,Buildings,100000000,,USD,,,NOAA,
-IRN,Iran,1568,1568,2600,,,,,7000,12000,12000,Buildings,100000000,,USD,,,IIEES,12000 “houses” completely destroyed and 7000 more were damaged.
+IRN,Iran,1568,1568,2600,,,,,7000,12000,12000,Buildings,100000000,,USD,,,IIEES,12000 houses completely destroyed and 7000 more were damaged.
 IRN,Iran,1568,1568,2600,,,,,,,,,>500000000,,USD,,,Learnig_From_Earthqauke,The total estimated loss to housing units was given as over 500 M USD.
 IRN,Iran,1567,1567,2300,,,,,,,,,,,,,,Farahbod_et_al_2003,
 IRN,Iran,1568,1568,>2600,,50000,,,7000,12000,12000,Buildings,150000000,,USD,,,Berberian_et_al_1999,
-IRN,Iran,,,,,,,,,,,,271000000000,,IRR,,,Berberian_et_al_1999,
+IRN,Iran,,,,,,,,,,,,2.71E+11,,IRR,,,Berberian_et_al_1999,
 IRN,Iran,1568,1568,2600,,,,,,,,,,,,,,Amini_et_al_2018,
