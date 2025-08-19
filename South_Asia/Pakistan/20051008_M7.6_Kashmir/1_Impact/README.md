@@ -45,6 +45,7 @@ Check the definitions of the parameters used in the impact files in the [impact 
 - [PAGER-CAT](https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/)
 - [Britannica](https://www.britannica.com/event/Kashmir-earthquake-of-2005)
 - [Aljazeera](https://www.aljazeera.com/news/2005/10/16/relief-helicopter-crashes-in-pakistan)
+- [EEFIT](https://www.istructe.org/resources/report/eefit-mission-report-kashmir-pakistan/)
 
 
 
