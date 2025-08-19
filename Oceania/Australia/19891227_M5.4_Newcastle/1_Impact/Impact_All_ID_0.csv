@@ -4,7 +4,7 @@ AUS,Australia,12,12,100,,,,,,,,,1000000000,,USD,,,NOAA,
 AUS,Australia,9,9,107,,,,,,,,,,,,,,UTSU,
 AUS,Australia,12,12,115,,,2000,,,,,,1000000000,396000000,USD,,,EM-DAT,
 AUS,Australia,13,12,>160,,1000,300000,,50000,300,300,Buildings,4000000000,1000000000,AUD,,,Archive,"1. 160 people were hospitalised, 2. The damage bill has been estimated at A$4 billion (or $8.5 billion in 2018, adjusted for inflation), including an insured loss of about $1 billion (or $2.1 billion in 2018, adjusted for inflation), 3. 1 person who died of earthquake-induced shock, 4. The earthquake caused damage to over 35,000 homes, 147 schools, and 3,000 commercial and/or other buildings, with significant damage (i.e. damage worth over $1,000; $2,100 in 2018 adjusted for inflation) caused to 10,000 homes and 42 schools (structural damage), within the immediate Newcastle area."
-AUS,Australia,12,12,,,,,,,,,,,,,,,CEQID + EEFIT,
+AUS,Australia,12,12,,,,,roughly 10 000,,,about 500,,,,,,,CEQID + EEFIT,
 AUS,Australia,12,12,,,,,,,,,,,,,,,Worlddata,
 AUS,Australia,12,12,,,,,,>3000,,,Buildings,900000000,,USD,,,EERI_Report,
 AUS,Australia,12,12,,,,,,,,,,1500000000,,AUD,,,Peterson_1990,
@@ -13,3 +13,4 @@ AUS,Australia,12,12,>100,,,,,,,,,,700000000-800000000,AUD,,,Brunsdon_1990,"More 
 people required hospital treatment for
 injuries."
 AUS,Australia,13,12,,,,,,,,,,,,,,,Bocchini_et_al_2015,One person who died due to heart attack caused by the earthquake. 
+AUS,Australia,12,12,>150,,,,,>10000,,,,1000000000,862000000,,,,Sinadinoski et al 2002,"Total economic loss estimates for the region were estimated to be of the order of $1 billion (1990 dollars), with this figure comprising mostly structural and non-structural building damage ($800 million) and contents and business disruption losses ($200 million). Many other estimates of economic loss exist, with figures even as high as $4 billion (BTE, 2001),which include losses due to business interruption."
