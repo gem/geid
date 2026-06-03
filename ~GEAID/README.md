@@ -23,7 +23,7 @@ The database of adjusted Impacts is available in this public repository and can 
 > The v1.0.0 release for the Global Earthquake Adjusted Impacts Database (GEAID) is available! 🥳 🚀 This repository hosts the most up-to-date version of data for the countries all around the world.
 
 <div align='center'>
-    <img src="../GEAID/global_shakemap_pga-1.png" alt="Events" width="700"/>
+    <img src="../~GEAID/global_shakemap_pga.png" alt="Events" width="700"/>
 </div>
 
 ---
@@ -84,7 +84,7 @@ The following countries are covered in this repository.
 
 </details>
 
-The following events are available. Additionally, a global summary of adjusted impact data can be found in the [GEAID folder](../GEAID/adjusted_economic_losses.csv).
+The following events are available. Additionally, a global summary of adjusted impact data can be found in the [GEAID folder](../~GEAID/adjusted_economic_losses.csv).
 
 <details>
 <summary> List with available events
