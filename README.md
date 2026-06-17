@@ -1,7 +1,7 @@
 
 <div align='center'>
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="300"/>
+    <img src="https://cloud-storage.globalquakemodel.org/public/Logos/GEM-LOGO-Red-RGB-300DPI.jpg" alt="GEM Foundation" width="300"/>
 </p>
 <a href='./earthquake_scenarios/'>
     <img src='https://img.shields.io/badge/Earthquake_Scenarios-green?style=for-the-badge'>
@@ -19,16 +19,7 @@
 
 # 🔎 Global Earthquake Impact Database (GEID)
 
-The development of probabilistic seismic risk assessment (PSRA) models requires stress-testing 
-the various components of the models, often through the assessment of damage and losses 
-considering the characteristics of past events[^1]. In this context, the GEM Foundation and 
-its partners have expanded the OpenQuake scenario damage and loss calculator to use directly 
-USGS ShakeMaps[^2][^3][^4], or earthquake data from other providers (e.g., INGV, EFEHR) or the 
-scientific literature. This functionality allows users to generate cross-correlated ground 
-motion fields considering recordings from seismic stations [^5], to compute a number of 
-risk metrics based on different rupture solutions and ground motion models, and to compare the 
-results against past observations and damage reports. An overview of the functionalities implemented 
-within the OpenQuake engine can be found at https://github.com/gem/oq-engine/issues/8317.
+The development of probabilistic seismic risk assessment (PSRA) models requires stress-testing the various components of the models, often through the assessment of damage and losses considering the characteristics of past events [1](#ref1). In this context, the GEM Foundation and its partners have expanded the OpenQuake scenario damage and loss calculator to use directly USGS ShakeMaps [2](#ref2), [3](#ref3), [4](#ref4), or earthquake data from other providers (e.g., INGV, EFEHR) or the scientific literature. This functionality allows users to generate cross-correlated ground motion fields considering recordings from seismic stations [5](#ref5), to compute a number of risk metrics based on different rupture solutions and ground motion models, and to compare the results against past observations and damage reports. An overview of the functionalities implemented within the OpenQuake engine can be found at https://github.com/gem/oq-engine/issues/8317.
 
 # ✨ Overview
 
@@ -38,11 +29,11 @@ and verification purposes. This database serves as a complement to the
 [USGS ShakeMap](https://earthquake.usgs.gov/data/shakemap/) Atlas and AtlasCat. 
 The former resource has ShakeMaps for a comprehensive catalogue of nearly all 
 near-damaging and damaging events worldwide for the past 120 years and can be used directly 
-for impact assessment within the OpenQuake engine [^4]. The latter provides aggregate losses 
+for impact assessment within the OpenQuake engine [4](#ref4). The latter provides aggregate losses 
 for each event separated by cause. The GEID builds upon these sources of data by collecting additional 
 earthquake and impact information, often documented spatially and with greater detail.
 
-> The v2023.0.0 release for the Global Earthquake Impact Database (GEID) is available! 🥳 🚀
+> The v2025.0.0 release for the Global Earthquake Impact Database (GEID) is available! 🥳 🚀
 
 <div align='left'>
     <img src="./World/eq_events.png" alt="GEID events" width="700"/>
@@ -215,10 +206,23 @@ The `main` branch could contain the work-in-progress of the next version of the 
 | Version   | Release Notes                                                            |
 |-----------|--------------------------------------------------------------------------|
 | [v2023.0.0](https://github.com/gem/geid/tree/v2023.0.0) | First release with 100 earthquake scenario events.|
+| [v2025.0.0](https://github.com/gem/geid/tree/v2025.0.0) | Second release with 113 earthquake scenario events.|
 
 # 🌟 Contributors
 
 The authors are grateful for the input from dozens of collaborators. 
+
+# Citation
+
+If you use this repository, please cite both the associated paper and the dataset:
+
+**Paper:**
+Zarin Karim Zadeh, Vitor Silva, Catalina Yepes-Estrada, Martina Caruso, Emily So, David Wald, Kishor Jaiswal, Kristin Marano. *Earthquake Spectra* (2026), 42, e70006. https://doi.org/10.1002/esp4.70006
+
+**Dataset (GEID):**
+[![DOI](https://zenodo.org/badge/652540199.svg)](https://doi.org/10.5281/zenodo.15928655)
+
+Please ensure that both the publication and the dataset are cited when using this work.
 
 # License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -249,9 +253,13 @@ Note that the `main` branch could contain the work-in-progress of the next versi
 For each version, a related zip file is available in the [release section](https://github.com/gem/global_exposure_model/releases).
 
 # References
-[^1]: Villar-Vega, M., Silva, V. (2017). Assessment of earthquake damage considering the characteristics of past events in South America. Earthquake Engineering and Soil Dynamics, 99:86-96.
-[^2]: Silva V, Horspool N (2019). Combining USGS ShakeMaps and the OpenQuake engine for damage and loss assessment. Earthquake Engineering and Structural Dynamics. 48(6):634-652.
-[^3]: Worden, C. B., Thompson, E. M., Hearne, M. G., & Wald, D. J. (2020). ShakeMap Manual Online: technical manual, user’s guide, and software guide, U. S. Geological Survey. URL: http://usgs.github.io/shakemap/. DOI: https://doi.org/10.5066/F7D21VPQ.
-[^4]: Wald, D. J., Worden, C. B., Thompson, E. M., & Hearne, M. G. (2022). ShakeMap operations, policies, and procedures. Earthquake Spectra, 38(1), 756–777. DOI: https://doi.org/10.1177/87552930211030298.
-[^5]: Engler, D. T., Worden, C. B., Thompson, E. M., & Jaiswal, K. S. (2022). Partitioning Ground Motion Uncertainty When Conditioned on Station Data. Bulletin of the Seismological Society of America, 112(2), 1060–1079. DOI: https://doi.org/10.1785/0120210177.
 
+<a id="ref1"></a>[1] Villar-Vega, M., & Silva, V. (2017). Assessment of earthquake damage considering the characteristics of past events in South America. *Earthquake Engineering and Soil Dynamics*, 99, 86–96.
+
+<a id="ref2"></a>[2] Silva, V., & Horspool, N. (2019). Combining USGS ShakeMaps and the OpenQuake engine for damage and loss assessment. *Earthquake Engineering and Structural Dynamics*, 48(6), 634–652.
+
+<a id="ref3"></a>[3] Worden, C. B., Thompson, E. M., Hearne, M. G., & Wald, D. J. (2020). ShakeMap Manual Online: Technical manual, user’s guide, and software guide. U.S. Geological Survey. https://doi.org/10.5066/F7D21VPQ
+
+<a id="ref4"></a>[4] Wald, D. J., Worden, C. B., Thompson, E. M., & Hearne, M. G. (2022). ShakeMap operations, policies, and procedures. *Earthquake Spectra*, 38(1), 756–777. https://doi.org/10.1177/87552930211030298
+
+<a id="ref5"></a>[5] Engler, D. T., Worden, C. B., Thompson, E. M., & Jaiswal, K. S. (2022). Partitioning ground motion uncertainty when conditioned on station data. *Bulletin of the Seismological Society of America*, 112(2), 1060–1079. https://doi.org/10.1785/0120210177
